@@ -46,7 +46,8 @@ Clone your workspace repo — it is named after your VPS username:
 ☐  Open github.com and find yourusername_student — your change should be there
 
 Part E — Fork your first unit repo
-Unit labs use a separate repo called `apcyber-unit1-pilot`. You do not clone it directly — you fork it (make your own copy on GitHub), then clone your fork.
+Unit labs use separate repos in the school org — see the Unit 1 labs index: https://github.com/ivycollegiate-development/ap-cybersecurity/blob/main/Unit%201%20-%20Introduction%20to%20Security/Labs.md
+For this setup exercise you will fork the unit pilot repo. You do not clone it directly — you fork it (make your own copy on GitHub), then clone your fork.
 ☐  While signed in on github.com, go to https://github.com/ivycollegiate-development/apcyber-unit1-pilot
 ☐  Click the Fork button (top-right). If asked where to fork it, choose your own account.
 ☐  You now have github.com/YOUR-USERNAME/apcyber-unit1-pilot
@@ -62,6 +63,7 @@ Commit messages: use present tense ("add answer", not "added answer") — the ch
 What happens next
 ☐  Every class: write → commit → push. Work is saved, versioned, and visible for grading
 ☐  Labs are auto-graded by GitHub Actions running on your fork — a green check means the checkpoint passed
+☐  The labs index (which repo each lab uses) lives in the course repo: Unit 1 folder → Labs.md
 ☐  Your workspace repo (yourusername_student) holds notes and small exercises; forks of unit repos hold graded lab work
 ☐  Losing work becomes impossible once you push
 
