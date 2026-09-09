@@ -72,9 +72,9 @@ answer-key GDocs, "Detailed Lesson Plans" review gdocs.
 
 | Lab | Repo | Tools |
 |-----|------|-------|
-| Phishing Classification (P2) | `phishing-samples` | Codespaces, GitHub Issues |
-| Password Strength Analyzer (P6) | `password-strength-lab` | Codespaces, cracker script, GitHub Actions |
-| AI-Powered Code Review (P14) | `vulnerable-code-lab` | Codespaces, CodeQL, AI tool (Claude/ChatGPT) |
+| Phishing Classification (P2) | `apcyber-u1-phishing-samples` | Codespaces, GitHub Issues |
+| Password Strength Analyzer (P6) | `apcyber-u1-password-strength-lab` | Codespaces, cracker script, GitHub Actions |
+| AI-Powered Code Review (P14) | `apcyber-u1-vulnerable-code-lab` | Codespaces, CodeQL, AI tool (Claude/ChatGPT) |
 
 ## Source Materials
 

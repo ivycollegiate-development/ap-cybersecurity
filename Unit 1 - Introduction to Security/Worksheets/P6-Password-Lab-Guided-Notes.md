@@ -2,7 +2,7 @@ AP Cybersecurity — Unit 1 · Period 6 (Fri, Sep 11)  Name: ______________  Dat
 
 # Password Strength Lab — Guided Notes
 
-**GitHub repo:** `ivycollegiate-development/password-strength-lab`
+**GitHub repo:** `ivycollegiate-development/apcyber-u1-password-strength-lab`
 
 Follow along as the teacher walks through the lab structure, then complete the lab independently.
 

@@ -3,7 +3,7 @@
 **Time Allotment:** 18 class periods (12 tech + 3 substantive paper + 3 study-hall/prep), Sep 2 - Sep 28 
 **CED Pages:** 29-48 (scenarios + topic pages) 
 **Course Skills:** Analyze Risk (Skill 1), Mitigate Risk (Skill 2) 
-**GitHub Labs:** 3 (phishing-samples Issue classification, password-strength-lab PR + Action, vulnerable-code-lab AI code review) 
+**GitHub Labs:** 3 (apcyber-u1-phishing-samples Issue classification, apcyber-u1-password-strength-lab PR + Action, apcyber-u1-vulnerable-code-lab AI code review) 
 **Tech Days:** Mon/Wed/Fri — full internet + GitHub + Codespaces 
 **Paper Days:** Tue/Thu — no computers; substantive unit-specific activities 
 **Study-Hall Days (SH1/SH2/SH3):** Quick review of prior day/unit + student work time on upcoming due work
@@ -94,7 +94,7 @@
 
 **Suggested Skills:** 1.A (Identify assets, vulnerabilities, threats), 1.B (Describe impacts)
 
-**Materials:** Scenario 1A email text, projector, GitHub repo: `ivycollegiate-development/phishing-samples`, TechCrunch UNC6671 vishing article (printed or link): https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/
+**Materials:** Scenario 1A email text, projector, GitHub repo: `ivycollegiate-development/apcyber-u1-phishing-samples`, TechCrunch UNC6671 vishing article (printed or link): https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/
 
 **Activities:**
 1. **Hook:** "Have you or someone you know ever fallen for a scam?" Quick show of hands / stories.
@@ -106,7 +106,7 @@
   - Urgency/pressure, Intimidation, Pretexting, Consensus/crowd validation, Authority, Familiarity, Scarcity
   - Each with a real-world email example
 4. **🐙 GitHub Lab — Phishing Classification:**
-  1. Fork `ivycollegiate-development/phishing-samples` (syllabus link)
+  1. Fork `ivycollegiate-development/apcyber-u1-phishing-samples` (syllabus link)
   2. Codespaces auto-launches — 5 sanitized phishing emails
   3. For each email: file a GitHub Issue classifying the tactic used and the psychological trigger exploited
   4. Reference the S.E.T. framework in each Issue
@@ -135,7 +135,7 @@
 2. **Complete CED Tactics:** Beyond phishing — consensus exploitation, familiarity-based trust, scarcity manipulation, authority abuse. For each: define, give a real-world example, discuss why it works psychologically.
 3. **Scenario Expansion:** Rewrite Scenario 1A as a phone call (vishing). How do indicators change? What makes voice more or less convincing than email? **Real-world anchor:** UNC6671 (Aug 2026) — attackers phoned private-equity firm employees (Apollo, Blackstone, KKR, CME, Moody's, etc.) pretending to be coworkers/IT helpdesk, steering them to spoofed login pages for credentials + MFA codes. Identify which S.E.T. tactic each step of the call exploits.
 4. **Impacts Mapping:** Map social engineering to real impacts — financial loss, data breach, reputation damage, credential compromise. Use a simple impact matrix. "Which victim impact is hardest to recover from?" **From the article:** public extortion sites threatening to leak stolen VIP/client data, ransom demands of $750K–$3M, ~$10M in Bitcoin paid to one hacker-controlled wallet — a real-world impact matrix.
-5. **🐙 GitHub Follow-Up:** Students update their P2 phishing-samples Issues with any additional tactics or psychological triggers they identify after today's lesson. Add a comment: "After P3, I now also see ___ in this email."
+5. **🐙 GitHub Follow-Up:** Students update their P2 apcyber-u1-phishing-samples Issues with any additional tactics or psychological triggers they identify after today's lesson. Add a comment: "After P3, I now also see ___ in this email."
 
 **Homework (due 20:30):** Finish Issue updates. Make one flashcard for each S.E.T. tactic with an example on the back.
 
@@ -148,7 +148,7 @@
 **Learning Objectives:** Review and consolidate 1.1.A-1.1.C through peer discussion of lab findings.
 
 **Activity:**
-1. **Class Discussion:** Review Friday's phishing-samples Issues as a class.
+1. **Class Discussion:** Review Friday's apcyber-u1-phishing-samples Issues as a class.
   - Which S.E.T. tactics were most common across the 5 samples?
   - Which tactic was hardest to identify? Why?
   - Students share their Issue classifications and reasoning
@@ -215,12 +215,12 @@
 
 **Suggested Skills:** 2.D (Mitigate Risk)
 
-**Materials:** GitHub repo: `ivycollegiate-development/password-strength-lab`, guided notes worksheet ([GDoc](https://docs.google.com/document/d/1Yz9r0l1N-DrcMQ53FW21apMswYn6Bk8GJAuHvmbIDY8/edit)), Key ([GDoc](https://docs.google.com/document/d/1xilJhdvUvlnopVmy0dQewNyWpm2Gs5igBSNxAnPoZj0/edit))
+**Materials:** GitHub repo: `ivycollegiate-development/apcyber-u1-password-strength-lab`, guided notes worksheet ([GDoc](https://docs.google.com/document/d/1Yz9r0l1N-DrcMQ53FW21apMswYn6Bk8GJAuHvmbIDY8/edit)), Key ([GDoc](https://docs.google.com/document/d/1xilJhdvUvlnopVmy0dQewNyWpm2Gs5igBSNxAnPoZj0/edit))
 
 **Activities:**
 1. **⚡ Quiz + Lab Kickoff:** Quiz, then walk through the lab worksheet together. Show the repo structure: hashed password file + cracker script + README template. ⚡ Codespaces: one-click launch — no local setup.
 2. **🐙 GitHub Lab:**
-  1. Fork `password-strength-lab`
+  1. Fork `apcyber-u1-password-strength-lab`
   2. Open in Codespaces
   3. Run the cracker script — watch which passwords crack fastest
   4. Document findings in README: which passwords were weak and why (length, complexity, dictionary words)
@@ -353,7 +353,7 @@
 1. **Catch-Up:** Any students who haven't finished P2 Issues or P6 PRs get dedicated time.
 2. **🐙 Optional Open Lab:** 
   - Password-strength-lab extended challenges: add dictionary wordlists, test personal passwords (offline, no collection), compare cracking times
-  - Begin exploring the `vulnerable-code` repo for P14 — what kinds of vulnerabilities do you see?
+  - Begin exploring the `apcyber-u1-vulnerable-code-lab` repo for P14 — what kinds of vulnerabilities do you see?
   - GitHub workflow troubleshooting: git basics, merge conflicts, Codespaces quirks
 3. **Re-Teach:** Any LO from 1.1-1.2 that exit tickets showed weakness on. Quick re-teach + mini-quiz.
 
@@ -371,7 +371,7 @@
 
 **Suggested Skills:** 1.A, 1.B, 4.C (Analyze Risk, Evaluate Mitigation Outcomes)
 
-**Materials:** Scenario 1D, projector, GitHub repo: `ivycollegiate-development/ai-phishing-samples`, printed Guardian article: "Taiwan says it was hit by 'abnormal' AI-assisted cyber-attack" (Aug 13, 2026), Fireship sequel video https://youtu.be/0Rp9KJCEIvg (~6 min; skip sponsor ~first 60s), OpenAI postmortem: openai.com/index/hugging-face-incident-and-the-road-ahead (Aug 26, 2026, free)
+**Materials:** Scenario 1D, projector, GitHub repo: `ivycollegiate-development/apcyber-u1-ai-phishing-samples`, printed Guardian article: "Taiwan says it was hit by 'abnormal' AI-assisted cyber-attack" (Aug 13, 2026), Fireship sequel video https://youtu.be/0Rp9KJCEIvg (~6 min; skip sponsor ~first 60s), OpenAI postmortem: openai.com/index/hugging-face-incident-and-the-road-ahead (Aug 26, 2026, free)
 
 **Activities:**
 1. **Hook:** 🎯 CYBER ATTACK OF THE DAY — lead with the Taiwan AI-assisted attack: "Taiwan's government agencies were hit by an AI-assisted attack last month — 85+ accounts, 2,500+ records, and it spread to the nuclear safety agency. Let's look at how." Then a short AI voice cloning demo (teacher-plays sample → AI clone of the same). "Would you fall for this?"
@@ -389,7 +389,7 @@
   - *Current Event (Aug 2026) — Taiwan AI-assisted attack (LOCAL ANGLE):* Taiwan's Ministry of Digital Affairs reported an "abnormal" AI-assisted attack on government agencies beginning Jul 20 — open-source AI agents (incl. Open Claw) built an autonomous hacking tool that behaved like a **coordinated cyber team** (Dream/FT: "first-of-a-kind breach"). Result: 85+ government accounts compromised, 2,500+ personnel records extracted, then expansion to Taiwan's nuclear safety agency and 7+ energy companies. Simplified Chinese comms → China-linked suspected (not officially accused). Teaching points: (1) this is offensive AI in the wild, attacking **our home country** — the "hybrid" model (manual ops + AI-agent assistance) is exactly how adversaries augment attacks (1.4.A); (2) "There's still a human in there somewhere" (Cris Thomas, Semgrep) — someone chose the target and set the objective; the AI amplified, it didn't decide. *Reference: theguardian.com, Aug 13, 2026 (non-paywalled; teacher prints/PDFs for handout).*
 > **Teacher context — Mythos/Taiwan framing (not student-facing):** The same week, the NYT reported the US government couldn't agree on whether to use its own AI cyber tool (Mythos) for offensive ops — Air Force banned it, NSA said cutting it off would be "unilateral disarmament," ban reversed. Meanwhile China's Z.ai claims it's nearing Mythos 5. Framing question for the teacher to deliver as a 30-second bridge: "The US has this capability and can't decide whether to use it. China's closing the gap. And Taiwan — which just got hit by an AI-assisted attack from China-linked actors — can't build its own. What does the US infighting mean for Taiwan's cyber defense?" *Reference: nytimes.com, Aug 16, 2026 (paywalled — teacher context only, not a student reading).*
 4. **🐙 GitHub Activity — AI Phishing Comparison:**
-  1. Fork `ivycollegiate-development/ai-phishing-samples`
+  1. Fork `ivycollegiate-development/apcyber-u1-ai-phishing-samples`
   2. Each sample has a real phishing email and an AI-generated version side-by-side
   3. Open Issues on the repo: for each pair, identify which is real and which is AI — and list the tells
   4. Which is more convincing? Why?
@@ -412,7 +412,7 @@
 - Vocab flashcards: set 3 (LLM, voice cloning, deepfake, adversarial AI, AI augmentation, anomaly detection)
 - Review weakest topic: check your ⚡ quiz scores so far — which concept needs more work?
 
-**Teacher role:** circulate, check P12 Issue completion, preview the P14 lab structure (vulnerable-code repo walk-through), flag students who need extra prep time.
+**Teacher role:** circulate, check P12 Issue completion, preview the P14 lab structure (apcyber-u1-vulnerable-code-lab repo walk-through), flag students who need extra prep time.
 
 **Materials:** quiz ([GDoc](https://docs.google.com/document/d/18OnVBApt9XZNIE89Ga7Ms3pYI8STejVccPRA9U8cgVk/edit)), Key ([GDoc](https://docs.google.com/document/d/1Ft8Go7dXJXBg7zVggC7QrZvNvvCzyO3zO7QrO3ok_CY/edit)). *Paper day — no student computers.*
 
@@ -446,7 +446,7 @@
    - Framing for students: this course trains you for the right column. AI tools make the left column free — which makes the right column MORE valuable, not less.
 4. **Preview Friday's Lab:**
   - "You'll fork a repo with vulnerable Python/JS code and use an AI tool to find the bugs — just like we demoed."
-  - Walk through the `vulnerable-code-lab` repo structure
+  - Walk through the `apcyber-u1-vulnerable-code-lab` repo structure
   - Ensure all students can launch Codespaces (verify before Friday to avoid day-of setup issues)
 4. **Unit 1 Wrap-Up:** Quick review of all 5 topics. Answer questions. "P14 lab completes the unit. P15 is the test — Monday Sep 28."
 
@@ -463,12 +463,12 @@
 - 1.5.B Evaluate AI defense tool effectiveness
 - Scenario 1E application
 
-**Materials:** GitHub repo: `ivycollegiate-development/vulnerable-code-lab`, AI tool access (Claude/ChatGPT or built-in CodeQL), lab worksheet ([GDoc](https://docs.google.com/document/d/1fYVgcq-yDZMzVM7_G_pG6M3HfdT97nah2usnAhR6fQY/edit)), Key ([GDoc](https://docs.google.com/document/d/1B6IFue2qz7vIvpexWFBgwTb9LRCiIhCsfpwsAC4leJo/edit))
+**Materials:** GitHub repo: `ivycollegiate-development/apcyber-u1-vulnerable-code-lab`, AI tool access (Claude/ChatGPT or built-in CodeQL), lab worksheet ([GDoc](https://docs.google.com/document/d/1fYVgcq-yDZMzVM7_G_pG6M3HfdT97nah2usnAhR6fQY/edit)), Key ([GDoc](https://docs.google.com/document/d/1B6IFue2qz7vIvpexWFBgwTb9LRCiIhCsfpwsAC4leJo/edit))
 
 **Activities:**
 1. **⚡ Quiz + Lab Kickoff:** Quiz, then lab walk-through — show the repo with vulnerable Python/JS snippets.
 2. **🐙 GitHub Lab — AI-Powered Code Review:**
-  1. Fork `vulnerable-code-lab` (contains Python/JS snippets with SQLi, XSS, weak auth flaws)
+  1. Fork `apcyber-u1-vulnerable-code-lab` (contains Python/JS snippets with SQLi, XSS, weak auth flaws)
   2. Use an AI tool (Claude/ChatGPT in a second tab) or the repo's built-in CodeQL analysis to find vulnerabilities
   3. Fix each vulnerability and commit the fix
   4. Open a Pull Request
@@ -547,8 +547,8 @@
 
 | Lab | GitHub Repo | Tools | Notes |
 |-----|------------|-------|-------|
-| Phishing Classification (P2) | `phishing-samples` | Codespaces, GitHub Issues | File Issues classifying 5 emails by tactic. No other tools needed |
-| Password Strength Analyzer (P6) | `password-strength-lab` | Codespaces, cracker script, GitHub Actions | Students run cracker on hashed file; PR validated by Action |
-| AI-Powered Code Review (P14) | `vulnerable-code-lab` | Codespaces, CodeQL, AI tool (Claude/ChatGPT) | Students use AI to find vulns, fix, PR; Action runs security checks |
+| Phishing Classification (P2) | `apcyber-u1-phishing-samples` | Codespaces, GitHub Issues | File Issues classifying 5 emails by tactic. No other tools needed |
+| Password Strength Analyzer (P6) | `apcyber-u1-password-strength-lab` | Codespaces, cracker script, GitHub Actions | Students run cracker on hashed file; PR validated by Action |
+| AI-Powered Code Review (P14) | `apcyber-u1-vulnerable-code-lab` | Codespaces, CodeQL, AI tool (Claude/ChatGPT) | Students use AI to find vulns, fix, PR; Action runs security checks |
 
 Unit 1 labs are intentionally low-infrastructure — no VMs or special software required beyond GitHub + Codespaces. All three labs use `ivycollegiate-development` org repos with GitHub Classroom auto-grading via Actions.

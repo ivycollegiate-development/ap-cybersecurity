@@ -2,7 +2,7 @@ AP Cybersecurity — Unit 1 · Period 14 (Fri, Sep 25)   Name: ______________   
 
 # AI Defense Lab — Vulnerable Code Review
 
-**GitHub repo:** `ivycollegiate-development/vulnerable-code-lab`
+**GitHub repo:** `ivycollegiate-development/apcyber-u1-vulnerable-code-lab`
 
 You'll fork a repo containing Python and JavaScript code snippets with security vulnerabilities. Your job: use an AI tool (Claude, ChatGPT, or built-in CodeQL) to find and fix each vulnerability.
 

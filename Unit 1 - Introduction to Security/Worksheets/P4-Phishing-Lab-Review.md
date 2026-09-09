@@ -4,7 +4,7 @@ AP Cybersecurity — Unit 1 · Period 4 (Tue, Sep 8)  Name: ______________  Date
 
 ## 1: Review Your Issue Classifications
 
-Friday's GitHub lab had you classify 5 sanitized phishing emails from the `phishing-samples` repo. Today we review them as a class. Pull up your Issues and fill in the table as we discuss.
+Friday's GitHub lab had you classify 5 sanitized phishing emails from the `apcyber-u1-phishing-samples` repo. Today we review them as a class. Pull up your Issues and fill in the table as we discuss.
 
 | Sample | S.E.T. tactic(s) used | Psychological trigger exploited | Your original classification — keep or change? |
 |--------|----------------------|--------------------------------|------------------------------------------------|

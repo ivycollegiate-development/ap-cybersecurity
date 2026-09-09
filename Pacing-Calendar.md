@@ -34,7 +34,7 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 | — | Sep 1 | Tue | Orientation / syllabus day (teacher presents — students no tech) | No content period. Aug 31 = no class (school-wide assessment) |
 | P1 | Sep 2 | Wed | Course Intro: Why Cybersecurity Matters + GitHub Setup | Syllabus, threat landscape, pre-assessment, vocab preview. GitHub account + Classroom setup |
 | **SH1** | **Sep 3** | **Thu** | **🧘 Study-Hall/Prep 1** | ⚡ Quiz on P1 HW. Quick review: course structure, threat landscape, GitHub basics. Work time: finish GitHub setup, vocab flashcards, prep for P2 |
-| P2 | Sep 4 | Fri | Social Engineering Tactics & Human Instincts (S.E.T.) | 🐙 GITHUB ACTIVITY: fork phishing-samples, file Issue classifying 5 emails. Cyber Attack of the Day |
+| P2 | Sep 4 | Fri | Social Engineering Tactics & Human Instincts (S.E.T.) | 🐙 GITHUB ACTIVITY: fork apcyber-u1-phishing-samples, file Issue classifying 5 emails. Cyber Attack of the Day |
 | P3 | Sep 7 | Mon | Victim Impacts & Full Tactic Coverage | Complete CED tactics (consensus, familiarity, scarcity, authority). Roleplay attacker/victim. Update P2 Issues |
 | P4 | Sep 8 | Tue | 📄 Paper: Phishing Lab Review | Class discussion + peer review of P2 Issue classifications vs S.E.T. framework. Exemplary Issues highlighted |
 | P5 | Sep 9 | Wed | Password Attack Signs & Weak Authentication | Scenario 1B login analysis. Credential stuffing, brute force, password spraying. 💻 demo (projected) |
@@ -44,15 +44,15 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 | P8 | Sep 15 | Tue | 📄 Paper: Adversary Types Review + FRQ Walk-Through | Threat profiles per adversary (motive, target, methods). FRQ practice. Exit ticket: match 6 scenarios |
 | P9 | Sep 16 | Wed | Wireless Attacks + Personal Protection (Combined 1.3.B + 1.3.C) | ⚠️ Evil twin demo (teacher-only). Public Wi-Fi protections: VPN, HTTPS, cert checking |
 | P10 | Sep 17 | Thu | 📄 Paper: Preview AI Attacks & Defense | Real phishing vs AI-generated email vote. Pre-reading CED excerpt. Vocab: LLM, voice cloning, deepfake, adversarial AI |
-| P11 | Sep 18 | Fri | 🔄 Flex / Overflow Lab Day | Optional open lab in password-strength-lab; explore vulnerable-code repo for P14. GitHub workflow troubleshooting |
-| P12 | Sep 21 | Mon | 1.4: AI-Based Cybersecurity Attacks | Voice cloning demo. 🐙 GITHUB ACTIVITY: fork ai-phishing-samples, Issue with analysis |
+| P11 | Sep 18 | Fri | 🔄 Flex / Overflow Lab Day | Optional open lab in apcyber-u1-password-strength-lab; explore apcyber-u1-vulnerable-code-lab repo for P14. GitHub workflow troubleshooting |
+| P12 | Sep 21 | Mon | 1.4: AI-Based Cybersecurity Attacks | Voice cloning demo. 🐙 GITHUB ACTIVITY: fork apcyber-u1-ai-phishing-samples, Issue with analysis |
 | **SH3** | **Sep 22** | **Tue** | **🧘 Study-Hall/Prep 3** | ⚡ Quiz on P12 HW. Quick review: AI attacks, whole-unit recap. Work time: P13/P14 prep, study for Unit 1 test, catch up on labs |
 | P13 | Sep 23 | Wed | AI in Cyber Defense — Tools & Concepts | Copilot/CodeQL, anomaly detection, automated IR. 💻 Live CodeQL demo. Preview P14 lab |
 | — | Sep 24 | Thu | **No class — Mid-Autumn Festival** | |
 | P14 | Sep 25 | Fri | 1.5 cont.: AI Defense Lab + Scenario 1E | 🐙 GITHUB LAB: AI-Powered Code Review (fork vulnerable-code repo, AI analysis, fix via PR, Action runs checks) |
 | P15 | Sep 28 | Mon | Unit 1 Review & Test | Kahoot-style review (hardest LOs: 1.5.A, 1.3.B, 1.3.C), concept map, practice MCQs. **📝 UNIT 1 TEST (paper-based)** |
 
-**Unit 1 GitHub labs (3):** P2 phishing-samples (Issue classification) · P6 password-strength-lab (PR + Action) · P14 vulnerable-code-lab (AI code review + CodeQL).
+**Unit 1 GitHub labs (3):** P2 apcyber-u1-phishing-samples (Issue classification) · P6 apcyber-u1-password-strength-lab (PR + Action) · P14 apcyber-u1-vulnerable-code-lab (AI code review + CodeQL).
 **Break assignment:** none (unit completes before any break).
 
 ---
