@@ -215,7 +215,7 @@
 
 **Suggested Skills:** 2.D (Mitigate Risk)
 
-**Materials:** GitHub repo: `ivycollegiate-development/apcyber-u1-password-strength-lab`, guided notes worksheet ([GDoc](https://docs.google.com/document/d/1Yz9r0l1N-DrcMQ53FW21apMswYn6Bk8GJAuHvmbIDY8/edit)), Key ([GDoc](https://docs.google.com/document/d/1xilJhdvUvlnopVmy0dQewNyWpm2Gs5igBSNxAnPoZj0/edit))
+**Materials:** GitHub repo: `ivycollegiate-development/apcyber-u1-password-strength-lab`, guided notes worksheet ([GDoc](https://docs.google.com/document/d/1Yz9r0l1N-DrcMQ53FW21apMswYn6Bk8GJAuHvmbIDY8/edit)), [Answer Key](https://docs.google.com/document/d/1xilJhdvUvlnopVmy0dQewNyWpm2Gs5igBSNxAnPoZj0/edit) — includes the verified 8-row results table (7 crack, row 8 uncracked by design) + stage-by-stage analysis
 
 **Activities:**
 1. **⚡ Quiz + Lab Kickoff:** Quiz, then walk through the lab worksheet together. Show the repo structure: hashed password file + cracker script + README template. ⚡ Codespaces: one-click launch — no local setup.
