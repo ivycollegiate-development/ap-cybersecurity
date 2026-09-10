@@ -220,8 +220,8 @@
 **Activities:**
 1. **⚡ Quiz + Lab Kickoff:** Quiz, then walk through the lab worksheet together. Show the repo structure: hashed password file + cracker script + README template. ⚡ Codespaces: one-click launch — no local setup.
 2. **🐙 GitHub Lab:**
-  1. Fork `apcyber-u1-password-strength-lab`
-  2. Open in Codespaces
+  1. Fork `apcyber-u1-password-strength-lab` — **then in every `git clone` URL below, students must replace `YOUR-USERNAME` with their actual GitHub username** (e.g. `eshin28_student`). Example: `git clone https://github.com/eshin28_student/apcyber-u1-password-strength-lab.git`
+  2. Open in Codespaces (or clone the fork from the terminal — same URL substitution applies)
   3. Run the cracker script — watch which passwords crack fastest
   4. Document findings in README: which passwords were weak and why (length, complexity, dictionary words)
   5. Submit a Pull Request adding your report (README must be complete)

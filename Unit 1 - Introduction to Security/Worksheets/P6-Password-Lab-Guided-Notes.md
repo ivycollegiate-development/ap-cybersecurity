@@ -89,7 +89,17 @@ As the script runs, record what it finds:
 
 ## 5: Lab Deliverable
 
-Complete the `README.md` in your fork with:
+**Setup — fork, then clone YOUR fork:**
+- Fork the repo on github.com: `ivycollegiate-development/apcyber-u1-password-strength-lab` → click **Fork** → choose your own account.
+- You now have `github.com/YOUR-USERNAME/apcyber-u1-password-strength-lab`.
+- Clone YOUR fork (not the school org's copy!):
+  `git clone https://github.com/YOUR-USERNAME/apcyber-u1-password-strength-lab.git`
+- ⚠️ **Replace `YOUR-USERNAME` with your actual GitHub username before pressing Enter.**
+  Example — if your username is `eshin28_student`:
+  `git clone https://github.com/eshin28_student/apcyber-u1-password-strength-lab.git`
+- `cd apcyber-u1-password-strength-lab`
+
+Then complete the `README.md` in your fork with:
 - Your results table (from section 3 above)
 - Your answers to questions 1–4
 - A one-paragraph recommendation: *"What minimum password policy would you recommend for a school and why?"*
