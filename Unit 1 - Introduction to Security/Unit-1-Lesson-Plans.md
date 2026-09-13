@@ -242,7 +242,7 @@
 
 **Suggested Skills:** 1.A (Identify assets, vulnerabilities, threats)
 
-**Materials:** Whiteboard, projector, Draw the Adversary cards handout, printed CNN article "Cyber privateers" (Aug 13 2026)
+**Materials:** Whiteboard, projector, Draw the Adversary cards handout ([GDoc](https://docs.google.com/document/d/1hZupLP1xheFO3P49yhjs2Jfdz-2rPTuMvZ2UI7-tPho/edit)), printed CNN "Cyber privateers" article (Aug 13 2026, [GDoc](https://docs.google.com/document/d/1nDQKJPXFh0o7-qgRPE_De_KiOgQDuH1fkw2qc4jZHj4/edit))
 
 **Activities:**
 0. **🎯 CYBER ATTACK OF THE DAY — "Cyber privateers" (Aug 2026):** Read the printed CNN article: a Trump administration memo (Aug 12) authorizes vetted private US companies to surveil and disrupt foreign cybercriminal networks under DOJ/DHS oversight — a government-sanctioned "hack back" program. Former officials warn of deconfliction chaos ("too many cooks"), legal liability pushed onto companies, and collateral damage (taking down a foreign data center could hit a hospital). Warm-up: which TWO of today's six adversary categories does this story involve?
