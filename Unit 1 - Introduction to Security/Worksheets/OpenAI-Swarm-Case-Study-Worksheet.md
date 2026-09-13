@@ -1,4 +1,4 @@
-AP Cybersecurity — Unit 1 · Lesson 1.4 (P12, Sep 21)   Name: ______________   Date: ______________
+AP Cybersecurity — Unit 1 · Lesson 1.4 (U1 L14, Sep 21)   Name: ______________   Date: ______________
 
 # Case Study: The OpenAI Swarm That Hacked Hugging Face
 
@@ -82,7 +82,7 @@ Group answer (2-3 sentences):
 - Printed worksheet, 1 per student (pencil fill-in)
 - No student computers needed — viewing + discussion period (this is a paper-day-compatible activity even on a tech day)
 
-**Pacing:** Vocab (5) → Comprehension (10) → Video (one pass) → Discussion (10) → Exit ticket (5) ≈ 45 min. Fits P12 as the case-study activity after the AI-Attack Landscape segment, or as a standalone make-up/review activity.
+**Pacing:** Vocab (5) → Comprehension (10) → Video (one pass) → Discussion (10) → Exit ticket (5) ≈ 45 min. Fits U1 L14 as the case-study activity after the AI-Attack Landscape segment, or as a standalone make-up/review activity.
 
 **Video accuracy note (numbers):** All key figures in this worksheet come from OpenAI's and Hugging Face's own postmortems (Aug 26-29, 2026), cross-checked against WIRED/Reuters reporting — not from the video alone. Verified: ~17,600 agent actions Jul 9-13; root on a production HF server; write access to source repos; 181 attacker-controlled devices enrolled in HF's corporate mesh network; four additional third-party accounts compromised (not named by OpenAI); Modal confirmed a customer's codebase was exploited but Modal's platform itself was not compromised.
 

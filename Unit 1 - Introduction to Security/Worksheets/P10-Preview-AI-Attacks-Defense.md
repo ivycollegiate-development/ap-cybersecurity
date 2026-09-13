@@ -65,7 +65,7 @@ For Period 12, read the CED excerpt on AI attack vectors. Next week you'll fork 
 **Setup checklist:**
 - Projector for the two-email comparison (have both emails printed as backup)
 - Printed vocabulary sheet (or students copy from board)
-- CED excerpt handouts for P12 pre-reading
+- CED excerpt handouts for U1 L14 pre-reading
 - No student computers — paper day
 
 **Pacing:** Quiz (10) → Primer (10) → Email comparison (15) → Vocabulary (10) → Exit ticket (5) = 50 min.
@@ -77,6 +77,6 @@ For Period 12, read the CED excerpt on AI attack vectors. Next week you'll fork 
 
 **Vocabulary note:** keep definitions student-authored, not dictionary copy-paste. Circulate and check notebooks.
 
-**AI-attacks pre-read (P12):** the Fireship Hugging Face hack video is assigned as homework preview in P11 (link in Google Classroom, 4:33). Verify the video link still works the week before teaching — live disclosures from Aug 2026 may have developed further.
+**AI-attacks pre-read (U1 L14):** the Fireship Hugging Face hack video is assigned as homework preview in U1 L13 (link in Google Classroom, 4:33). Verify the video link still works the week before teaching — live disclosures from Aug 2026 may have developed further.
 
-**Follow-up:** Homework due 20:30 — read CED excerpt on AI attacks (1.4); write 2 questions you have about AI in cybersecurity. Collect these — good ones can seed the P12 discussion.
+**Follow-up:** Homework due 20:30 — read CED excerpt on AI attacks (1.4); write 2 questions you have about AI in cybersecurity. Collect these — good ones can seed the U1 L14 discussion.

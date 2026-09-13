@@ -1,4 +1,4 @@
-AP Cybersecurity — Unit 1 · P9 (Sep 16, Wed)\t\tName: ______________\t\tDate: ______________
+AP Cybersecurity — Unit 1 · U1 L11 (Sep 16, Wed)\t\tName: ______________\t\tDate: ______________
 
 # Scenario 1C — Public Wi-Fi Risks
 

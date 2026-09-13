@@ -1,4 +1,4 @@
-AP Cybersecurity — Unit 1 · P9 (Sep 16, Wed)
+AP Cybersecurity — Unit 1 · U1 L11 (Sep 16, Wed)
 
 # Passenger returning from DEF CON 34 spoofs Delta Wi-Fi network while in flight using pentest tool
 By Tom's Hardware — Aug 11, 2026
