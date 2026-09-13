@@ -282,7 +282,7 @@
   - **Extension (if time) — cyber privateers FRQ:** Use the P7 story as a second prompt: "A US company joins a government program authorizing it to disrupt a foreign criminal group's network." Part A: identify the adversary types involved (criminal org = target; state adversaries = the reason the program exists). Part B: what legal/ethical risks does the company face? (liability, oversight, collateral damage — e.g., hitting a hospital in the same data center). Part C: who should be allowed to hack, and under what rules?
 3. **Exit Ticket:** Match 6 short scenarios to adversary categories (ungraded, immediate feedback).
 
-**Materials:** Printed scenarios, FRQ prompt handout, simplified AP rubric ([GDoc](https://docs.google.com/document/d/1IhyFSy3u9yxMrKYrCXxZimD1bmOYOl8-NuxPYwEPzxM/edit)), printed CNN "Cyber privateers" article (from P7), quiz ([GDoc](https://docs.google.com/document/d/1oBKOY35FdLU3IME0uDvjBv90C7czCnVhfYtzNVMA2Ro/edit)), Key ([GDoc](https://docs.google.com/document/d/1rWFDYiFh71yGDyw8e9ZZObhkSYoBXCrcu82GW5bn4A0/edit)). *Paper day — no student computers.*
+**Materials:** Printed scenarios, FRQ prompt handout (P8 worksheet: [GDoc](https://docs.google.com/document/d/1vlRwSgjBUWLibYsB4D_vN0t0gxVklNUrbftTQtG7Kbg/edit)), simplified AP rubric ([GDoc](https://docs.google.com/document/d/1IhyFSy3u9yxMrKYrCXxZimD1bmOYOl8-NuxPYwEPzxM/edit)), printed CNN "Cyber privateers" article (from P7, [GDoc](https://docs.google.com/document/d/1nDQKJPXFh0o7-qgRPE_De_KiOgQDuH1fkw2qc4jZHj4/edit)), quiz ([GDoc](https://docs.google.com/document/d/1oBKOY35FdLU3IME0uDvjBv90C7czCnVhfYtzNVMA2Ro/edit)), Key ([GDoc](https://docs.google.com/document/d/1rWFDYiFh71yGDyw8e9ZZObhkSYoBXCrcu82GW5bn4A0/edit)). *Paper day — no student computers.*
 
 **Homework (due 20:30):** Read Scenario 1C on public Wi-Fi risks. Identify the adversary type and write one paragraph on how the attack could have been prevented.
 
@@ -301,7 +301,7 @@
 
 **Suggested Skills:** 1.A, 2.A (Analyze Risk, Select Controls)
 
-**Materials:** Projector, teacher laptop for evil twin demo, printed Delta flight article (Tom's Hardware, Aug 11 2026)
+**Materials:** Projector, teacher laptop for evil twin demo, Scenario 1C handout ([GDoc](https://docs.google.com/document/d/1WDlvGIZx22nwUGv20xZPAGVCRc5m15JhoHI1hRFGCus/edit)), printed Delta flight article (Tom's Hardware, Aug 11 2026, [GDoc](https://docs.google.com/document/d/1nVE77YCvfgWBZSnkiuPOYdvYmBD4AlUrdPq0lzvgbA8/edit)), mitigation toolkit ([GDoc](https://docs.google.com/document/d/1Qami6MWU1lvp3nkMHKb-Oc2-dnMkulE1BKI6no1GR7g/edit))
 
 **Activities:**
 0. **🎯 CYBER ATTACK OF THE DAY — Delta flight evil twin (Aug 2026):** Read the printed Tom's Hardware article: a DEF CON attendee on Delta Flight 591 (LAS→ATL) used a Wi-Fi Pineapple to deauth passengers off the in-flight Wi-Fi, then broadcast a rogue "Delta WiFi Fast" hotspot with a fake login page harvesting Google credentials. Crew disabled the Wi-Fi for ~30 min; the plane was met at the gate. Delta confirmed no airline systems were hacked — the attack targeted *passengers*, not the airline. Warm-up: which of today's wireless attack types did this attacker use?

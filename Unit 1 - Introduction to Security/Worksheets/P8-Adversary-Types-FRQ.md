@@ -73,6 +73,30 @@ Circle one: I can identify adversary types from a scenario —
 
 ---
 
+## Extension — Cyber Privateers FRQ (if time)
+
+**Prompt:** *A US company joins a new government program that authorizes vetted private firms to surveil and disrupt the computer networks of a foreign criminal gang. The company hacks into a data center it believes the gang uses, but the same facility also hosts a hospital's systems, which are briefly disrupted.*
+
+**Part A:** Identify the adversary types involved in this story. Who is the *target*? Who is the *reason the program exists*?
+
+ ______________________________________________________________________
+
+ ______________________________________________________________________
+
+**Part B:** What legal or ethical risks does the company face? (Think: liability, government oversight, collateral damage.)
+
+ ______________________________________________________________________
+
+ ______________________________________________________________________
+
+**Part C:** Who should be allowed to hack, and under what rules? Defend your position.
+
+ ______________________________________________________________________
+
+ ______________________________________________________________________
+
+---
+
 ## Teacher Notes & Instructions
 
 **Setup checklist:**
