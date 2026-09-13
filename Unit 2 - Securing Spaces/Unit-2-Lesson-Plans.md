@@ -10,35 +10,35 @@
 
 **🇹🇼 Taiwan Threat Brief format (recurring):** Every unit opener starts with a 3-minute Taiwan-focused cyber threat brief — one current event, TWNCERT advisory, or iThome news item relevant to the unit's topic. Keeps threat awareness local and current across the full year.
 
-**🧩 Saturday CTF Alignment:** Three Saturday CTF sessions fall during Unit 2 — **Oct 3 (SESSION 3: Recon & OSINT)** aligns with physical security audits and surveillance detection (P8-P9). **Oct 10 (SESSION 4: OverTheWire Bandit)** builds CLI/terminal skills used in badge log analysis (P22). **Oct 24 (SESSION 5: Password cracking fundamentals)** directly supports authentication and access control topics (P16, P18). Students should maintain their CTF writeup repo throughout — the writeup habit is the portfolio thesis.
+**🧩 Saturday CTF Alignment:** Three Saturday CTF sessions fall during Unit 2 — **Oct 3 (SESSION 3: Recon & OSINT)** aligns with physical security audits and surveillance detection (U1 L10-U1 L11). **Oct 10 (SESSION 4: OverTheWire Bandit)** builds CLI/terminal skills used in badge log analysis (U2 L12). **Oct 24 (SESSION 5: Password cracking fundamentals)** directly supports authentication and access control topics (U2 L6, U2 L8). Students should maintain their CTF writeup repo throughout — the writeup habit is the portfolio thesis.
 
 **Unit 2 Period Map:**
 
 | Period | Date | Day | Type | Topic |
 |--------|------|-----|------|-------|
-| P11 | Sep 30 | Wed | Tech | Phases of a Cyberattack |
-| P12 | Oct 1 | Thu | Paper | Risk Assessment |
-| P13 | Oct 2 | Fri | Tech | Defense in Depth |
-| P14 | Oct 5 | Mon | Tech | Flex / Catch-Up Day |
-| P15 | Oct 6 | Tue | Paper | Risk Management Options |
-| P16 | Oct 7 | Wed | Tech | Risk Register Lab |
-| P17 | Oct 8 | Thu | Paper | Physical Vulnerabilities & Attacks |
-| P18 | Oct 9 | Fri | Tech | Physical Attack Case Studies |
-| P19 | Oct 12 | Mon | Tech | Protecting Physical Spaces |
-| P20 | Oct 13 | Tue | Paper | Physical Security Audit Lab |
-| P21 | Oct 14 | Wed | Tech | Video Surveillance & Access Logs |
-| P22 | Oct 15 | Thu | Paper | Detecting Physical Attacks |
-| P23 | Oct 16 | Fri | Tech | Badge Log Analysis Lab |
-| P24 | Oct 19 | Mon | Tech | Video & Log Correlation |
-| P25 | Oct 20 | Tue | Tech | Mini-Project: Day 1 — Design |
-| P26 | Oct 21 | Wed | Tech | Mini-Project: Day 2 — Peer Review |
-| P27 | Oct 22 | Thu | Tech | Mini-Project: Day 3 — Presentations |
-| P28 | Oct 23 | Fri | Tech | Unit 2 Review |
-| P29 | Oct 26 | Mon | Test | Unit 2 Test |
+| U2 L1 | Sep 30 | Wed | Tech | Phases of a Cyberattack |
+| U2 L2 | Oct 1 | Thu | Paper | Risk Assessment |
+| U2 L3 | Oct 2 | Fri | Tech | Defense in Depth |
+| U2 L4 | Oct 5 | Mon | Tech | Flex / Catch-Up Day |
+| U2 L5 | Oct 6 | Tue | Paper | Risk Management Options |
+| U2 L6 | Oct 7 | Wed | Tech | Risk Register Lab |
+| U2 L7 | Oct 8 | Thu | Paper | Physical Vulnerabilities & Attacks |
+| U2 L8 | Oct 9 | Fri | Tech | Physical Attack Case Studies |
+| U2 L9 | Oct 12 | Mon | Tech | Protecting Physical Spaces |
+| U2 L10 | Oct 13 | Tue | Paper | Physical Security Audit Lab |
+| U2 L11 | Oct 14 | Wed | Tech | Video Surveillance & Access Logs |
+| U2 L12 | Oct 15 | Thu | Paper | Detecting Physical Attacks |
+| U2 L13 | Oct 16 | Fri | Tech | Badge Log Analysis Lab |
+| U2 L14 | Oct 19 | Mon | Tech | Video & Log Correlation |
+| U2 L15 | Oct 20 | Tue | Tech | Mini-Project: Day 1 — Design |
+| U2 L16 | Oct 21 | Wed | Tech | Mini-Project: Day 2 — Peer Review |
+| U2 L17 | Oct 22 | Thu | Tech | Mini-Project: Day 3 — Presentations |
+| U2 L18 | Oct 23 | Fri | Tech | Unit 2 Review |
+| U2 L19 | Oct 26 | Mon | Test | Unit 2 Test |
 
 ---
 
-## P11: Phases of a Cyberattack (Sep 30, Wed — TECH DAY)
+## U2 L1: Phases of a Cyberattack (Sep 30, Wed — TECH DAY)
 
 **Period:** 11  |  **LOs:** 1.A
 
@@ -52,7 +52,7 @@
 
 ---
 
-## P12: Risk Assessment (Oct 1, Thu — PAPER DAY)
+## U2 L2: Risk Assessment (Oct 1, Thu — PAPER DAY)
 
 **Period:** 12  |  **LOs:** 1.C, 1.D
 
@@ -66,7 +66,7 @@
 
 ---
 
-## P13: Defense in Depth (Oct 2, Fri — TECH DAY)
+## U2 L3: Defense in Depth (Oct 2, Fri — TECH DAY)
 
 **Period:** 13  |  **LOs:** 2.B
 
@@ -80,7 +80,7 @@
 
 ---
 
-## P14: Flex / Catch-Up Day (Oct 5, Mon — TECH DAY)
+## U2 L4: Flex / Catch-Up Day (Oct 5, Mon — TECH DAY)
 
 **Period:** 14  |  **LOs:** Review
 
@@ -91,7 +91,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P15: Risk Management Options (Oct 6, Tue — PAPER DAY)
+## U2 L5: Risk Management Options (Oct 6, Tue — PAPER DAY)
 
 **Period:** 15  |  **LOs:** 1.C, 2.C
 
@@ -105,7 +105,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P16: Risk Register Lab (Oct 7, Wed — TECH DAY)
+## U2 L6: Risk Register Lab (Oct 7, Wed — TECH DAY)
 
 **Period:** 16  |  **LOs:** 1.D, 2.C, 4.A
 
@@ -120,7 +120,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P17: Physical Vulnerabilities and Attacks (Oct 8, Thu — PAPER DAY)
+## U2 L7: Physical Vulnerabilities and Attacks (Oct 8, Thu — PAPER DAY)
 
 **Period:** 17  |  **LOs:** 1.A, 1.B
 
@@ -134,7 +134,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P18: Physical Attack Case Studies (Oct 9, Fri — TECH DAY)
+## U2 L8: Physical Attack Case Studies (Oct 9, Fri — TECH DAY)
 
 **Period:** 18  |  **LOs:** 1.A, 1.B
 
@@ -148,7 +148,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P19: Protecting Physical Spaces (Oct 12, Mon — TECH DAY)
+## U2 L9: Protecting Physical Spaces (Oct 12, Mon — TECH DAY)
 
 **Period:** 19  |  **LOs:** 2.A, 2.B
 
@@ -162,7 +162,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P20: Physical Security Audit Lab (Oct 13, Tue — PAPER DAY)
+## U2 L10: Physical Security Audit Lab (Oct 13, Tue — PAPER DAY)
 
 **Period:** 20  |  **LOs:** 2.A, 2.D, 4.B
 
@@ -178,7 +178,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P21: Video Surveillance & Access Logs (Oct 14, Wed — TECH DAY)
+## U2 L11: Video Surveillance & Access Logs (Oct 14, Wed — TECH DAY)
 
 **Period:** 21  |  **LOs:** 2.A, 2.B
 
@@ -192,7 +192,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P22: Detecting Physical Attacks (Oct 15, Thu — PAPER DAY)
+## U2 L12: Detecting Physical Attacks (Oct 15, Thu — PAPER DAY)
 
 **Period:** 22  |  **LOs:** 3.A, 3.B
 
@@ -206,7 +206,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P23: Badge Log Analysis Lab (Oct 16, Fri — TECH DAY)
+## U2 L13: Badge Log Analysis Lab (Oct 16, Fri — TECH DAY)
 
 **Period:** 23  |  **LOs:** 3.C, 3.D, 4.D
 
@@ -221,7 +221,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P24: Video & Log Correlation (Oct 19, Mon — TECH DAY)
+## U2 L14: Video & Log Correlation (Oct 19, Mon — TECH DAY)
 
 **Period:** 24  |  **LOs:** 3.D
 
@@ -235,7 +235,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P25: Mini-Project — Design (Oct 20, Tue — TECH DAY)
+## U2 L15: Mini-Project — Design (Oct 20, Tue — TECH DAY)
 
 **Period:** 25  |  **LOs:** 2.B, 4.A, 4.B, 4.D
 
@@ -253,7 +253,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P26: Mini-Project — Peer Review (Oct 21, Wed — TECH DAY)
+## U2 L16: Mini-Project — Peer Review (Oct 21, Wed — TECH DAY)
 
 **Period:** 26  |  **LOs:** 2.B, 4.A, 4.B, 4.D
 
@@ -267,7 +267,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P27: Mini-Project — Presentations (Oct 22, Thu — TECH DAY)
+## U2 L17: Mini-Project — Presentations (Oct 22, Thu — TECH DAY)
 
 **Period:** 27  |  **LOs:** 2.B, 4.A, 4.B, 4.D
 
@@ -281,7 +281,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P28: Unit 2 Review (Oct 23, Fri — TECH DAY)
+## U2 L18: Unit 2 Review (Oct 23, Fri — TECH DAY)
 
 **Period:** 28  |  **LOs:** All Unit 2
 
@@ -292,7 +292,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## P29: Unit 2 Test (Oct 26, Mon — TEST DAY)
+## U2 L19: Unit 2 Test (Oct 26, Mon — TEST DAY)
 
 **Period:** 29  |  **LOs:** All Unit 2
 

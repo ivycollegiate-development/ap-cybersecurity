@@ -8,44 +8,44 @@
 **Tech Days:** Mon/Wed/Fri — full internet + GitHub + Codespaces
 **Paper Days:** Tue/Thu — no computers; substantive unit-specific activities
 
-**Compression note:** Unit 2's test (Nov 13) consumed the week of Nov 9-13, so Unit 3 starts Nov 16. Compressed from the APSI 25-period plan to 20: 3 flex days cut (Dec 7, 9, 11), vocabulary drill merged into the FRQ day (P7), current event merged into the synthesis day (P19). Unit 3 test lands Wed Dec 9 (converted from flex). 4 GitHub labs retained.
+**Compression note:** Unit 2's test (Nov 13) consumed the week of Nov 9-13, so Unit 3 starts Nov 16. Compressed from the APSI 25-period plan to 20: 3 flex days cut (Dec 7, 9, 11), vocabulary drill merged into the FRQ day (U3 L7), current event merged into the synthesis day (U3 L19). Unit 3 test lands Wed Dec 9 (converted from flex). 4 GitHub labs retained.
 
 **⚡ Graded HW Quiz Convention:** Every class period opens with a 5-10 min graded quiz on the previous night's homework (homework assigned in class, due 20:30 the night before; weekend homework due Sun 20:30). Paper days = paper quiz; tech days = quick MCQ. Part of Quizzes/Assessments 25%. Test days skip the quiz (test replaces it).
 
-**🇹🇼 Taiwan Threat Brief format (recurring):** Every unit opener (P1) starts with a 3-minute Taiwan-focused cyber threat brief — one current event, TWNCERT advisory, or iThome news item relevant to the unit's topic. Keeps threat awareness local and current across the full year.
+**🇹🇼 Taiwan Threat Brief format (recurring):** Every unit opener (U3 L1) starts with a 3-minute Taiwan-focused cyber threat brief — one current event, TWNCERT advisory, or iThome news item relevant to the unit's topic. Keeps threat awareness local and current across the full year.
 
-**🧩 Saturday CTF Alignment:** Two Saturday CTF sessions fall during Unit 3 — **Nov 21 (SESSION 6: Wireshark pcap challenge)** directly supports network attack detection (3.5) and aligns with P5-P7 where students analyze wireless scans and network traffic. **Nov 28 (SESSION 7: Log analysis sprint)** reinforces the firewall log and IDS/IPS monitoring from P15-P20. By Session 6 students should have pcap basics; Session 7 connects to the Unit 3 synthesis day (P19) where they design a network defense plan. Keep writeups current — the log analysis session is strong portfolio material.
+**🧩 Saturday CTF Alignment:** Two Saturday CTF sessions fall during Unit 3 — **Nov 21 (SESSION 6: Wireshark pcap challenge)** directly supports network attack detection (3.5) and aligns with U3 L5-U3 L7 where students analyze wireless scans and network traffic. **Nov 28 (SESSION 7: Log analysis sprint)** reinforces the firewall log and IDS/IPS monitoring from U3 L15-U3 L20. By Session 6 students should have pcap basics; Session 7 connects to the Unit 3 synthesis day (U3 L19) where they design a network defense plan. Keep writeups current — the log analysis session is strong portfolio material.
 
 **Unit 3 Period Map:**
 
 | Period | Date | Day | Type | Topic |
 |--------|------|-----|------|-------|
-| P1 | Nov 16 | Mon | Tech | 3.1 Network Vulnerabilities — Identifying Common Attack Vectors |
-| P2 | Nov 17 | Tue | Paper | Case Study: Equifax Breach — Network Attack Path |
-| P3 | Nov 18 | Wed | Tech | 3.1 How Adversaries Exploit Networks (ARP, MAC Flooding, DNS, DoS) |
-| P4 | Nov 19 | Thu | Paper | Pre-Lab: Wireless Security Audit Prep |
-| P5 | Nov 20 | Fri | Tech | 🐙 GITHUB LAB: Wireless Security Audit |
-| P6 | Nov 23 | Mon | Tech | 3.1 Network Vulnerabilities — Risk Assessment Framework |
-| P7 | Nov 24 | Tue | Paper | FRQ Walk-Through: Network Intrusion Scenario + Vocabulary Drill |
-| P8 | Nov 25 | Wed | Tech | 3.2 Managerial Controls & Wireless — Policies, Acceptable Use |
-| P9 | Nov 26 | Thu | Paper | 🦃 Thanksgiving Formal Dinner (regular class day) |
-| P10 | Nov 27 | Fri | Tech | 🐙 GITHUB LAB: Network Segmentation Sim |
-| P11 | Nov 30 | Mon | Tech | 3.3 Network Segmentation — VLANs, Subnets, DMZs |
-| P12 | Dec 1 | Tue | Paper | Peer Review: Segmentation Findings |
-| P13 | Dec 2 | Wed | Tech | 3.3 Network Segmentation — Zero Trust Architecture |
-| P14 | Dec 3 | Thu | Paper | Mock MCQ Sprint: Unit 3 Review |
-| P15 | Dec 4 | Fri | Tech | 🐙 GITHUB LAB: Firewall Config Lab |
-| P16 | Dec 7 | Mon | Tech | 3.4 Firewalls — Types, Rule Sets, Configurations (converted from flex) |
-| P17 | Dec 8 | Tue | Paper | Peer Review: Firewall Config Findings |
-| P18 | Dec 9 | Wed | Tech | 📝 UNIT 3 TEST (converted from flex) |
-| P19 | Dec 10 | Thu | Paper | Synthesis + Current Event (merged): Build Your Own Network Defense Plan |
-| P20 | Dec 11 | Fri | Tech | 🐙 GITHUB LAB: Network Scanning Detection Lab (converted from flex) |
+| U3 L1 | Nov 16 | Mon | Tech | 3.1 Network Vulnerabilities — Identifying Common Attack Vectors |
+| U3 L2 | Nov 17 | Tue | Paper | Case Study: Equifax Breach — Network Attack Path |
+| U3 L3 | Nov 18 | Wed | Tech | 3.1 How Adversaries Exploit Networks (ARP, MAC Flooding, DNS, DoS) |
+| U3 L4 | Nov 19 | Thu | Paper | Pre-Lab: Wireless Security Audit Prep |
+| U3 L5 | Nov 20 | Fri | Tech | 🐙 GITHUB LAB: Wireless Security Audit |
+| U3 L6 | Nov 23 | Mon | Tech | 3.1 Network Vulnerabilities — Risk Assessment Framework |
+| U3 L7 | Nov 24 | Tue | Paper | FRQ Walk-Through: Network Intrusion Scenario + Vocabulary Drill |
+| U3 L8 | Nov 25 | Wed | Tech | 3.2 Managerial Controls & Wireless — Policies, Acceptable Use |
+| U3 L9 | Nov 26 | Thu | Paper | 🦃 Thanksgiving Formal Dinner (regular class day) |
+| U3 L10 | Nov 27 | Fri | Tech | 🐙 GITHUB LAB: Network Segmentation Sim |
+| U3 L11 | Nov 30 | Mon | Tech | 3.3 Network Segmentation — VLANs, Subnets, DMZs |
+| U3 L12 | Dec 1 | Tue | Paper | Peer Review: Segmentation Findings |
+| U3 L13 | Dec 2 | Wed | Tech | 3.3 Network Segmentation — Zero Trust Architecture |
+| U3 L14 | Dec 3 | Thu | Paper | Mock MCQ Sprint: Unit 3 Review |
+| U3 L15 | Dec 4 | Fri | Tech | 🐙 GITHUB LAB: Firewall Config Lab |
+| U3 L16 | Dec 7 | Mon | Tech | 3.4 Firewalls — Types, Rule Sets, Configurations (converted from flex) |
+| U3 L17 | Dec 8 | Tue | Paper | Peer Review: Firewall Config Findings |
+| U3 L18 | Dec 9 | Wed | Tech | 📝 UNIT 3 TEST (converted from flex) |
+| U3 L19 | Dec 10 | Thu | Paper | Synthesis + Current Event (merged): Build Your Own Network Defense Plan |
+| U3 L20 | Dec 11 | Fri | Tech | 🐙 GITHUB LAB: Network Scanning Detection Lab (converted from flex) |
 
-**Winter Break assignment (assigned in P20, collected Jan 4):** Unit 4 device inventory + pre-read of 4.1-4.2 CED excerpt. (Changed from the old "network mapping + review packet" — bridges the Dec 14-17 Unit 4 pre-break start so that content isn't forgotten over break.)
+**Winter Break assignment (assigned in U3 L20, collected Jan 4):** Unit 4 device inventory + pre-read of 4.1-4.2 CED excerpt. (Changed from the old "network mapping + review packet" — bridges the Dec 14-17 Unit 4 pre-break start so that content isn't forgotten over break.)
 
 ---
 
-## P1: 3.1 Network Vulnerabilities — Identifying Common Attack Vectors (Nov 16, Mon — TECH DAY)
+## U3 L1: 3.1 Network Vulnerabilities — Identifying Common Attack Vectors (Nov 16, Mon — TECH DAY)
 
 **⚡ HW Quiz (5 min):** 3 MCQ on Unit 2 test corrections + the Unit 2 → Unit 3 pivot (what's a network vulnerability?).
 
@@ -68,7 +68,7 @@
 
 ---
 
-## P2: Case Study: Equifax Breach — Network Attack Path (Nov 17, Tue — PAPER DAY)
+## U3 L2: Case Study: Equifax Breach — Network Attack Path (Nov 17, Tue — PAPER DAY)
 
 **⚡ HW Quiz (5 min):** Paper quiz — 3 quick questions on attack vectors + vocab.
 
@@ -88,7 +88,7 @@
 
 ---
 
-## P3: 3.1 How Adversaries Exploit Networks (Nov 18, Wed — TECH DAY)
+## U3 L3: 3.1 How Adversaries Exploit Networks (Nov 18, Wed — TECH DAY)
 
 **⚡ HW Quiz (5 min):** 3 MCQ on Equifax case + attack vectors.
 
@@ -108,43 +108,43 @@
 
 ---
 
-## P4: Pre-Lab: Wireless Security Audit Prep (Nov 19, Thu — PAPER DAY)
+## U3 L4: Pre-Lab: Wireless Security Audit Prep (Nov 19, Thu — PAPER DAY)
 
-**⚡ HW Quiz (5 min):** Paper quiz — 3 questions on attack types from P3.
+**⚡ HW Quiz (5 min):** Paper quiz — 3 questions on attack types from U3 L3.
 
 **Learning Objectives:**
 - 3.2.A Explain wireless security vulnerabilities and protections
 - 3.2.B Identify wireless misconfigurations before the Friday lab
 
-**Materials:** Friday's lab handout (wireless-security-audit-lab README), pre-lab worksheet, Delta flight evil twin case study (printed, from Unit 1 P9)
+**Materials:** Friday's lab handout (wireless-security-audit-lab README), pre-lab worksheet, Delta flight evil twin case study (printed, from Unit 1 U3 L9)
 
 **Activities:**
 1. **Read (10 min):** Read Friday's lab handout: Wireless Security Audit (repo: `ivycollegiate-development/wireless-security-audit-lab`).
 2. **Pre-lab worksheet (15 min):** List Wi-Fi attack types (evil twin, deauth, KRACK, WPS brute-force, rogue AP). Predict: which wireless security setting is most commonly misconfigured?
 3. **Vocabulary drill (10 min):** WPA3, WPA2, 802.1X, RADIUS, EAP, SSID, MAC filtering, evil twin. Notecard speed round.
 4. **Discussion (5 min):** "If our school's Wi-Fi is encrypted, can someone in the parking lot still see your traffic?"
-5. **Case study (5 min):** Revisit the Delta flight evil twin incident (Unit 1 P9, Aug 2026). Map it onto today's terms: deauth → rogue AP ("Delta WiFi Fast") → fake captive portal → credential harvest. Which audit check in Friday's lab would catch each step?
+5. **Case study (5 min):** Revisit the Delta flight evil twin incident (Unit 1 U3 L9, Aug 2026). Map it onto today's terms: deauth → rogue AP ("Delta WiFi Fast") → fake captive portal → credential harvest. Which audit check in Friday's lab would catch each step?
 
 **Homework (due Sun 20:30 — Monday quiz):** Complete pre-lab predictions. Vocab flashcard set 2 (wireless terms).
 
 ---
 
-## P5: GITHUB LAB: Wireless Security Audit (Nov 20, Fri — TECH DAY)
+## U3 L5: GITHUB LAB: Wireless Security Audit (Nov 20, Fri — TECH DAY)
 
 **⚡ HW Quiz (5 min):** 3 MCQ on wireless terms.
 
 **Lab spec:** `ivycollegiate-development/wireless-security-audit-lab`. Students audit a simulated wireless environment: identify weak encryption (WEP/WPA), rogue APs, open SSIDs, and misconfigurations; classify findings by severity; recommend fixes. Runs in Codespaces (no local install).
 
 **Activities:**
-1. **Setup (5 min):** Fork repo → Codespaces auto-launches. Review the audit checklist from P4's pre-lab.
-2. **Lab (25 min):** Complete the audit scenarios in the repo: (a) identify which networks are vulnerable and why, (b) detect the evil twin / rogue AP (the same attack pattern as the Delta flight incident from Unit 1 P9), (c) score each finding (likelihood × impact), (d) write remediation for the top 3.
+1. **Setup (5 min):** Fork repo → Codespaces auto-launches. Review the audit checklist from U3 L4's pre-lab.
+2. **Lab (25 min):** Complete the audit scenarios in the repo: (a) identify which networks are vulnerable and why, (b) detect the evil twin / rogue AP (the same attack pattern as the Delta flight incident from Unit 1 U3 L9), (c) score each finding (likelihood × impact), (d) write remediation for the top 3.
 3. **Pair-share (10 min):** Compare findings with a partner — what did they catch that you missed? Submit via GitHub Classroom auto-grading.
 
 **Homework (due Sun 20:30 — Monday quiz):** Finish any incomplete lab steps. Read CED excerpt on 3.1 risk assessment (1 page).
 
 ---
 
-## P6: 3.1 Network Vulnerabilities — Risk Assessment Framework (Nov 23, Mon — TECH DAY)
+## U3 L6: 3.1 Network Vulnerabilities — Risk Assessment Framework (Nov 23, Mon — TECH DAY)
 
 **⚡ HW Quiz (5 min):** 3 MCQ on wireless audit findings + risk concepts.
 
@@ -157,14 +157,14 @@
 
 **Activities:**
 1. **Hook (5 min):** "A school network has a printer exposed to the internet and a server with outdated firmware. Which do you fix first? How do you decide?"
-2. **Direct instruction (20 min):** Risk = likelihood × impact. Risk matrix (5×5). Qualitative vs quantitative assessment. Risk register: asset, threat, vulnerability, likelihood, impact, score, mitigation. NIST-style framing. Apply to the water-system story from P1: the controllers were high-impact (public safety) but the fix (unplug from internet) was cheap — why did that take an FBI advisory to trigger?
-3. **Activity — risk register (15 min):** Given the ICA network diagram from P1, students build a mini risk register for 5 assets (guest Wi-Fi, admin PCs, server room, Chromebook fleet, printer). Score each, rank, propose one control per asset.
+2. **Direct instruction (20 min):** Risk = likelihood × impact. Risk matrix (5×5). Qualitative vs quantitative assessment. Risk register: asset, threat, vulnerability, likelihood, impact, score, mitigation. NIST-style framing. Apply to the water-system story from U3 L1: the controllers were high-impact (public safety) but the fix (unplug from internet) was cheap — why did that take an FBI advisory to trigger?
+3. **Activity — risk register (15 min):** Given the ICA network diagram from U3 L1, students build a mini risk register for 5 assets (guest Wi-Fi, admin PCs, server room, Chromebook fleet, printer). Score each, rank, propose one control per asset.
 
 **Homework (due 20:30):** Complete the risk register. Vocab flashcard set 3: likelihood, impact, risk matrix, risk register, mitigation.
 
 ---
 
-## P7: FRQ Walk-Through + Vocabulary Drill (merged) (Nov 24, Tue — PAPER DAY)
+## U3 L7: FRQ Walk-Through + Vocabulary Drill (merged) (Nov 24, Tue — PAPER DAY)
 
 **⚡ HW Quiz (5 min):** Paper quiz — 3 questions on risk assessment.
 
@@ -185,7 +185,7 @@
 
 ---
 
-## P8: 3.2 Managerial Controls & Wireless — Policies, Acceptable Use (Nov 25, Wed — TECH DAY)
+## U3 L8: 3.2 Managerial Controls & Wireless — Policies, Acceptable Use (Nov 25, Wed — TECH DAY)
 
 **⚡ HW Quiz (5 min):** 3 MCQ on FRQ concepts.
 
@@ -206,7 +206,7 @@
 
 ---
 
-## P9: Thanksgiving Formal Dinner (Nov 26, Thu — PAPER DAY, light)
+## U3 L9: Thanksgiving Formal Dinner (Nov 26, Thu — PAPER DAY, light)
 
 **⚡ HW Quiz (5 min):** Paper quiz — 2 questions on wireless policies.
 
@@ -216,7 +216,7 @@
 
 ---
 
-## P10: GITHUB LAB: Network Segmentation Sim (Nov 27, Fri — TECH DAY)
+## U3 L10: GITHUB LAB: Network Segmentation Sim (Nov 27, Fri — TECH DAY)
 
 **⚡ HW Quiz (5 min):** 3 MCQ on segmentation concepts (DMZ, VLAN basics from pre-reading).
 
@@ -231,7 +231,7 @@
 
 ---
 
-## P11: 3.3 Network Segmentation — VLANs, Subnets, DMZs (Nov 30, Mon — TECH DAY)
+## U3 L11: 3.3 Network Segmentation — VLANs, Subnets, DMZs (Nov 30, Mon — TECH DAY)
 
 **⚡ HW Quiz (5 min):** 3 MCQ on the segmentation sim.
 
@@ -250,14 +250,14 @@
 
 ---
 
-## P12: Peer Review: Segmentation Findings (Dec 1, Tue — PAPER DAY)
+## U3 L12: Peer Review: Segmentation Findings (Dec 1, Tue — PAPER DAY)
 
 **⚡ HW Quiz (5 min):** Paper quiz — 3 questions on segmentation.
 
 **Learning Objectives:**
 - 3.3.B Evaluate a segmentation design against a rubric
 
-**Materials:** Student P10 lab reports, rubric
+**Materials:** Student U3 L10 lab reports, rubric
 
 **Activities:**
 1. **Exchange (5 min):** Swap Friday's segmentation lab reports with a partner.
@@ -269,7 +269,7 @@
 
 ---
 
-## P13: 3.3 Network Segmentation — Zero Trust Architecture (Dec 2, Wed — TECH DAY)
+## U3 L13: 3.3 Network Segmentation — Zero Trust Architecture (Dec 2, Wed — TECH DAY)
 
 **⚡ HW Quiz (5 min):** 3 MCQ on peer review findings + zero trust pre-read.
 
@@ -280,14 +280,14 @@
 
 **Activities:**
 1. **Hook (5 min):** "Your network is a castle with a moat. Everything inside the walls is trusted... but what if the attacker is already inside?"
-2. **Direct instruction (20 min):** Zero trust — "never trust, always verify." Core principles: continuous verification (not just at login), least privilege, microsegmentation (each workload/device isolated), assume breach. Contrast castle-and-moat vs zero trust. NIST SP 800-207 basics. How this reframes the segmentation work from P11: instead of a trusted internal network, every segment is untrusted until proven otherwise.
-3. **Activity — zero trust scorecard (15 min):** Given the school network diagram from P11, students identify: which controls are castle-and-moat (perimeter firewall, trusted internal network) vs zero trust (per-device auth, microsegmentation). What would ICA need to move to zero trust?
+2. **Direct instruction (20 min):** Zero trust — "never trust, always verify." Core principles: continuous verification (not just at login), least privilege, microsegmentation (each workload/device isolated), assume breach. Contrast castle-and-moat vs zero trust. NIST SP 800-207 basics. How this reframes the segmentation work from U3 L11: instead of a trusted internal network, every segment is untrusted until proven otherwise.
+3. **Activity — zero trust scorecard (15 min):** Given the school network diagram from U3 L11, students identify: which controls are castle-and-moat (perimeter firewall, trusted internal network) vs zero trust (per-device auth, microsegmentation). What would ICA need to move to zero trust?
 
 **Homework (due 20:30):** "Pick one app you use daily (e.g., Google Classroom). What zero-trust-style checks happen behind the scenes?"
 
 ---
 
-## P14: Mock MCQ Sprint: Unit 3 Review (Dec 3, Thu — PAPER DAY)
+## U3 L14: Mock MCQ Sprint: Unit 3 Review (Dec 3, Thu — PAPER DAY)
 
 **⚡ HW Quiz (5 min):** Paper quiz — 3 questions on zero trust.
 
@@ -307,7 +307,7 @@
 
 ---
 
-## P15: GITHUB LAB: Firewall Config Lab (Dec 4, Fri — TECH DAY)
+## U3 L15: GITHUB LAB: Firewall Config Lab (Dec 4, Fri — TECH DAY)
 
 **⚡ HW Quiz (5 min):** 3 MCQ on firewall pre-reading.
 
@@ -322,7 +322,7 @@
 
 ---
 
-## P16: 3.4 Firewalls — Types, Rule Sets, Configurations (Dec 7, Mon — TECH DAY)
+## U3 L16: 3.4 Firewalls — Types, Rule Sets, Configurations (Dec 7, Mon — TECH DAY)
 
 **⚡ HW Quiz (5 min):** 3 MCQ on firewall lab.
 
@@ -342,26 +342,26 @@
 
 ---
 
-## P17: Peer Review: Firewall Config Findings (Dec 8, Tue — PAPER DAY)
+## U3 L17: Peer Review: Firewall Config Findings (Dec 8, Tue — PAPER DAY)
 
 **⚡ HW Quiz (5 min):** Paper quiz — 3 questions on firewall types/rules.
 
 **Learning Objectives:**
 - 3.4.C Evaluate firewall configurations against security principles
 
-**Materials:** Student P15 lab reports + P16 findings, rubric
+**Materials:** Student U3 L15 lab reports + U3 L16 findings, rubric
 
 **Activities:**
 1. **Exchange (5 min):** Swap firewall config reports with a partner.
 2. **Evaluate against rubric (15 min):** Evidence quality (rule snapshots + logs), correctness (would the rules do what was claimed?), security soundness (default-deny? least privilege? logging?). One "glow," one "grow."
-3. **Class discussion (10 min):** Compare findings from P16's misconfiguration hunt. Did everyone find the same issues? Any false positives — rules that look wrong but are actually needed?
+3. **Class discussion (10 min):** Compare findings from U3 L16's misconfiguration hunt. Did everyone find the same issues? Any false positives — rules that look wrong but are actually needed?
 4. **Synthesis (10 min):** "What's the single most dangerous firewall misconfiguration you can make?" Quick-write + share.
 
 **Homework (due 20:30):** Study for tomorrow's test. Bring a one-page handwritten study sheet (allowed on test).
 
 ---
 
-## P18: UNIT 3 TEST (Dec 9, Wed — TECH DAY)
+## U3 L18: UNIT 3 TEST (Dec 9, Wed — TECH DAY)
 
 **⚡ No HW quiz — test replaces it.**
 
@@ -376,7 +376,7 @@
 
 ---
 
-## P19: Synthesis + Current Event (merged): Build Your Own Network Defense Plan (Dec 10, Thu — PAPER DAY)
+## U3 L19: Synthesis + Current Event (merged): Build Your Own Network Defense Plan (Dec 10, Thu — PAPER DAY)
 
 **⚡ HW Quiz (5 min):** Paper quiz — 2 questions (post-test check-in on test topics).
 
@@ -396,7 +396,7 @@
 
 ---
 
-## P20: GITHUB LAB: Network Scanning Detection Lab (Dec 11, Fri — TECH DAY)
+## U3 L20: GITHUB LAB: Network Scanning Detection Lab (Dec 11, Fri — TECH DAY)
 
 **⚡ HW Quiz (5 min):** 3 MCQ on detection concepts (NIDS/NIPS, SIEM).
 
@@ -419,9 +419,9 @@
 
 | Lab | Tech Needed | Accounts Required | Setup Time |
 |-----|-------------|-------------------|------------|
-| Wireless Security Audit (P5) | Simulated wireless environment in Codespaces | GitHub Classroom | Repo pre-built |
-| Network Segmentation Sim (P10) | Browser-based network simulator in Codespaces | GitHub Classroom | Repo pre-built |
-| Firewall Config (P15) | Browser firewall simulator OR pfSense on teacher Mac Mini | None (Chromebook → browser) | 30 min pfSense setup if used |
-| Network Scanning Detection (P20) | Pre-captured pcaps + scan artifacts in repo | GitHub Classroom | 15 min prep artifacts |
+| Wireless Security Audit (U3 L5) | Simulated wireless environment in Codespaces | GitHub Classroom | Repo pre-built |
+| Network Segmentation Sim (U3 L10) | Browser-based network simulator in Codespaces | GitHub Classroom | Repo pre-built |
+| Firewall Config (U3 L15) | Browser firewall simulator OR pfSense on teacher Mac Mini | None (Chromebook → browser) | 30 min pfSense setup if used |
+| Network Scanning Detection (U3 L20) | Pre-captured pcaps + scan artifacts in repo | GitHub Classroom | 15 min prep artifacts |
 
 **Fallback low-infra options:** All labs can run from pre-captured artifacts and printed worksheets if Chromebooks or network access fail — the lab repos should include a `paper-fallback.md` with the equivalent worksheet.
