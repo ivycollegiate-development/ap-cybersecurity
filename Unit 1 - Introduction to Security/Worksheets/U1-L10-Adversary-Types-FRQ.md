@@ -94,30 +94,3 @@ Circle one: I can identify adversary types from a scenario —
  ______________________________________________________________________
 
  ______________________________________________________________________
-
----
-
-## Teacher Notes & Instructions
-
-**Setup checklist:**
-- Printed scenario cards for Think-Pair-Share (one category per pair, 6 cards)
-- FRQ prompt handout + simplified AP rubric (1 per student)
-- Printed exit ticket (bottom of this sheet — 6 scenarios, 6 categories)
-- Timer: 15 / 3 / 3 / 5 / 10 / 5
-
-**Pacing:** Quiz (10) → Think-Pair-Share (15) → FRQ (20) → Exit ticket (5) = 50 min.
-
-**Think-Pair-Share facilitation:**
-- Assign categories so each is covered once (6 pairs).
-- Each pair presents in 90 seconds max; class fills the shared table as they present.
-- Push for a *real* real-world example — reject vague "a hacker group" answers; ask "which country? which year?"
-
-**FRQ walk-through:**
-- Give students 11 min of silent writing (3+3+5), then peer-score 4 min, then model answer review 5 min.
-- The model answer for Part A: state adversary (nation-state or transnational criminal org) — justification: high-value semiconductor IP + CEO impersonation (spear-phishing/whaling) is a classic state-actor or organized-crime pattern; wire-transfer fraud specifically is most often organized crime. Either is defensible IF justified with evidence — score for justification, not a single "right" answer.
-- Part B expected: evil twin / rogue AP or man-in-the-middle on public Wi-Fi (preview of 1.3.B — taught tomorrow).
-- Part C expected: VPN, verify the request through a second channel (call the CEO on a known number), MFA, confirm vendor account with finance, don't use public Wi-Fi for sensitive transfers. Any three valid controls score.
-
-**Exit ticket:** ungraded, immediate feedback. If the class misses one category, re-teach that category on the spot with a fresh example.
-
-**Follow-up:** Homework due 20:30 — read Scenario 1C on public Wi-Fi risks; identify the adversary type; one paragraph on how the attack could have been prevented.
