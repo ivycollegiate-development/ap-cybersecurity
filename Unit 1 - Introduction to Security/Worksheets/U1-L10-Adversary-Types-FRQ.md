@@ -1,4 +1,4 @@
-AP Cybersecurity — Unit 1 · Period 8 (Tue, Sep 15)  Name: ______________  Date: ______________
+AP Cybersecurity — Unit 1  Name: ______________  Date: ______________
 
 # Adversary Types Review + FRQ Walk-Through
 
