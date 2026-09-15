@@ -12,7 +12,7 @@
 
 **Period:** 55  |  **LOs:** 1.A, 1.B
 
-**Materials:** Slides, whiteboard, malware fact cards
+**Materials:** Unit 4 vocabulary worksheet ([GDoc](https://docs.google.com/document/d/1EHG68MjcXvLuzqP1L8s8KhWrVk4reqJ694VcecSsR1U/edit)), Slides, whiteboard, malware fact cards
 
 | Time | Activity |
 |------|----------|

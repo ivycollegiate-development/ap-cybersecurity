@@ -55,7 +55,7 @@
 
 **Suggested Skills:** 1.A (Identify assets, vulnerabilities, threats), 1.B (Describe impacts)
 
-**Materials:** Slides, whiteboard, OSI model diagram, PBS NewsHour video (6:33, projector), NYT article (Aug 1, 2026) print/PDF
+**Materials:** Unit 3 vocabulary worksheet ([GDoc](https://docs.google.com/document/d/1cfCBtatLWh_axBbiaIcIVZQyRdAla5mIM7_MGOxIkE0/edit)), Slides, whiteboard, OSI model diagram, PBS NewsHour video (6:33, projector), NYT article (Aug 1, 2026) print/PDF
 
 **Activities:**
 1. **Hook (5 min):** "How many ways can someone attack a network they've never physically touched?" Brainstorm on whiteboard. Then connect to current events: **"In August 2026, hackers linked to Iran hit water systems in at least 7 U.S. states — chemical-treatment controllers, water pressure monitors — by finding internet-connected operational computers. No water was made unsafe, but utilities had to run manual operations. The FBI/EPA advisory: unplug vulnerable controllers from the internet."** Play **PBS NewsHour — "What we know about the cyberattacks on water systems in 7 states"** (https://youtu.be/4cqSk0EGH10, 6:33) — FBI confirms the 7 states and Iran as likely culprit. Then ask: what kind of network did they attack? (NYT, Aug 1 2026 — teacher prints/PDFs the article; students may be paywalled.)

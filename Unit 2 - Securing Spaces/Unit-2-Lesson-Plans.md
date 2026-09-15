@@ -42,7 +42,7 @@
 
 **Period:** 11  |  **LOs:** 1.A
 
-**Materials:** Slides, whiteboard, attack phase cards
+**Materials:** Unit 2 vocabulary worksheet ([GDoc](https://docs.google.com/document/d/1G9xYu19JC8glSZsN7wcSDHrIOXMo5vQ27mm3yEwAlRU/edit)), Slides, whiteboard, attack phase cards
 
 **Activities:**
 1. **Hook (5 min):** "How does a hacker go from 'I want to break in' to 'I have the data'?"

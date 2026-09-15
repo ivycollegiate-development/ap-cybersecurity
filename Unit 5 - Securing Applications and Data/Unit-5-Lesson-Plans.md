@@ -14,7 +14,7 @@
 
 **Period:** 75  |  **LOs:** 1.A, 1.B
 
-**Materials:** Slides, whiteboard, SQL injection demo (teacher-led in browser). **Key Vocabulary:** Application vulnerability, SQL injection (SQLi), Input validation, Input sanitization
+**Materials:** Unit 5 vocabulary worksheet ([GDoc](https://docs.google.com/document/d/15ByGBnfQrQ_rhuiMmNw9BVEp2nVxkkoPw2nyAUzTBig/edit)), Slides, whiteboard, SQL injection demo (teacher-led in browser). **Key Vocabulary:** Application vulnerability, SQL injection (SQLi), Input validation, Input sanitization
 
 | Time | Activity |
 |------|----------|

@@ -60,7 +60,7 @@
   - Quick tour: repos, Issues, Pull Requests, Codespaces
   - Preview: "Every Friday lab uses this. You're building a professional DevOps workflow alongside cybersecurity skills."
 
-**Materials:** Course Syllabus (Google Doc), projector, GitHub Classroom invitation link
+**Materials:** Unit 1 vocabulary worksheet ([GDoc](https://docs.google.com/document/d/1gr5pEUGTrYUKLT1k-tZARHrbl3Cr-P2SSdamUAkwMXg/edit)), Course Syllabus (Google Doc), projector, GitHub Classroom invitation link
 
 **Homework (due 20:30):** Complete GitHub setup if not finished in class. Read "What is Cybersecurity" one-pager. Vocab flashcard set 1 (5 terms from today's preview).
 
@@ -339,7 +339,7 @@
 4. **Pre-Reading Distribution:** "For U1 L14, read this CED excerpt on AI attack vectors. We'll do a hands-on activity: forking a repo with AI-generated phishing samples side-by-side with real ones."
 5. **Exit Ticket:** "Which AI attack worries you most? Why?"
 
-**Materials:** Projector, printed vocabulary sheet ([GDoc](https://docs.google.com/document/d/1ZmMRdtLtZ6dAP4RKWoj8gSYc9dWcI9Ly01inPkNCxVs/edit)), CED excerpt handout ([GDoc](https://docs.google.com/document/d/1-wJk23MaEvi22HdAX2ogyBhUBR5k5AMeLTolV6tZbk0/edit)), quiz ([GDoc](https://docs.google.com/document/d/1umJNzbH_c58redCtRx1dZIwNQWvllU-GptEBlv_bwLA/edit)), Preview AI Attacks & Defense worksheet ([GDoc](https://docs.google.com/document/d/11ym3G7-jCPih-31zKPU-LQtwvuRqcwqMBq2He6egoDE/edit)), Key ([GDoc](https://docs.google.com/document/d/1dwKq7xnp6q-nrhXxs1zg8DLrO2ZssMC3ytB9M4Irm8k/edit)), Key ([GDoc](https://docs.google.com/document/d/11ciDmamjYi2U_ckilp00w5KeBf4E_TB7gpnpmQHeB60/edit)). *Paper day — no student computers.*
+**Materials:** Projector, printed vocabulary sheet ([GDoc](https://docs.google.com/document/d/1gr5pEUGTrYUKLT1k-tZARHrbl3Cr-P2SSdamUAkwMXg/edit)), CED excerpt handout ([GDoc](https://docs.google.com/document/d/1-wJk23MaEvi22HdAX2ogyBhUBR5k5AMeLTolV6tZbk0/edit)), quiz ([GDoc](https://docs.google.com/document/d/1umJNzbH_c58redCtRx1dZIwNQWvllU-GptEBlv_bwLA/edit)), Preview AI Attacks & Defense worksheet ([GDoc](https://docs.google.com/document/d/11ym3G7-jCPih-31zKPU-LQtwvuRqcwqMBq2He6egoDE/edit)), Key ([GDoc](https://docs.google.com/document/d/1dwKq7xnp6q-nrhXxs1zg8DLrO2ZssMC3ytB9M4Irm8k/edit)), Key ([GDoc](https://docs.google.com/document/d/11ciDmamjYi2U_ckilp00w5KeBf4E_TB7gpnpmQHeB60/edit)). *Paper day — no student computers.*
 
 **Homework (due 20:30):** Read CED excerpt on AI attacks (1.4). Write 2 questions you have about AI in cybersecurity.
 
