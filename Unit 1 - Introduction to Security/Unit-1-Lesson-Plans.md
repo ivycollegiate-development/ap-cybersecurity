@@ -12,7 +12,7 @@
 
 **🇹🇼 Taiwan Threat Brief format (recurring):** Every unit opener (U1 L1, U1 L13, U3P1, U4P1, U5P1) starts with a 3-minute Taiwan-focused cyber threat brief — one current event, TWNCERT advisory, or iThome news item relevant to the unit's topic. Keeps threat awareness local and current across the full year.
 
-**🧩 Saturday CTF Alignment:** Two Saturday CTF sessions fall during Unit 1 — **Sep 19 (SESSION 1: picoCTF starter)** and **Sep 26 (SESSION 2: picoCTF continued + first writeup)**. Both build general CTF fluency (recon, flag formats, web basics) that support the Unit 1 topics. By U1 L13 (Sep 18) students should have a picoCTF account and attempted the starter challenges. Session 2 reinforces the writeup habit (GitHub repo under ivycollegiate-development) — the same format used for all GitHub lab submissions.
+**🧩 Saturday CTF Alignment:** *Saturday sessions do not run in the fall — the eight-session CTF series runs entirely in spring 2027 (Jan 16 – May 22); see Saturday-CTF-Sessions.md.* Sessions relevant to Unit 1: **Session 1 (Jan 16: picoCTF starter)** and **Session 2 (Jan 23: picoCTF continued + first writeup review)**, which revisit the recon, flag-format, and web basics taught here. Students keep a picoCTF account and the writeup habit (GitHub repo under ivycollegiate-development) — the same format used for all GitHub lab submissions.
 
 **Unit 1 Period Map:**
 | Period | Date | Day | Type | Topic |

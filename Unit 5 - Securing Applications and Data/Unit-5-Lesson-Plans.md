@@ -6,7 +6,7 @@
 
 **🇹🇼 Taiwan Threat Brief format (recurring):** The unit opener (Lesson 5.1) starts with a 3-minute Taiwan-focused cyber threat brief — one current event, TWNCERT advisory, or iThome news item relevant to application/data security. Keeps threat awareness local and current across the unit.
 
-**🧩 Saturday CTF Alignment:** Two Saturday CTF sessions frame the second half of Unit 5 — **Feb 27 (SESSION 11: Capstone challenge build begins)** and **Mar 6 (SESSION 12: Capstone challenge work)** . Students design and build their own CTF challenge, applying SDLC principles (5.5), secure coding (5.5), and the detection/protection patterns studied in 5.6. The capstone challenge is their most portfolio-worthy artifact — it should be a multi-step web or application challenge reflecting OWASP Top 10 concepts from Juice Shop (Sessions 8-9). Deliverable: challenge files + solution writeup, due before AP exam prep begins.
+**🧩 Saturday CTF Alignment:** *Saturday sessions do not run in the fall — the CTF series runs in spring 2027 (Jan 16 – May 22); see Saturday-CTF-Sessions.md.* Session relevant to Unit 5: **Session 8 (May 22: OWASP Juice Shop)** applies SDLC principles (5.5) and secure coding (5.5), plus the detection/protection patterns studied in 5.6 — it follows the Unit 5 test (early May) as review and portfolio work. The former capstone-challenge sessions (previously the Feb 27 + Mar 6 Saturday slots) have no session slot under the spring-only calendar; if retained, run the capstone as an at-home portfolio project with in-person review, deliverable = challenge files + solution writeup.
 
 ---
 

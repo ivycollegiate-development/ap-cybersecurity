@@ -14,7 +14,7 @@
 
 **🇹🇼 Taiwan Threat Brief format (recurring):** Every unit opener (U3 L1) starts with a 3-minute Taiwan-focused cyber threat brief — one current event, TWNCERT advisory, or iThome news item relevant to the unit's topic. Keeps threat awareness local and current across the full year.
 
-**🧩 Saturday CTF Alignment:** Two Saturday CTF sessions fall during Unit 3 — **Nov 21 (SESSION 6: Wireshark pcap challenge)** directly supports network attack detection (3.5) and aligns with U3 L5-U3 L7 where students analyze wireless scans and network traffic. **Nov 28 (SESSION 7: Log analysis sprint)** reinforces the firewall log and IDS/IPS monitoring from U3 L15-U3 L20. By Session 6 students should have pcap basics; Session 7 connects to the Unit 3 synthesis day (U3 L19) where they design a network defense plan. Keep writeups current — the log analysis session is strong portfolio material.
+**🧩 Saturday CTF Alignment:** *Saturday sessions do not run in the fall — the CTF series runs in spring 2027 (Jan 16 – May 22); see Saturday-CTF-Sessions.md.* Sessions relevant to Unit 3: **Session 6 (May 8: Wireshark pcap challenge)** directly supports network attack detection (3.5) — the wireless scans and traffic analysis from U3 L5-U3 L7. **Session 7 (May 15: Log analysis sprint)** reinforces the firewall log and IDS/IPS monitoring from U3 L15-U3 L20 and connects to the Unit 3 synthesis day (U3 L19) where students design a network defense plan. Keep writeups current — the log analysis session is strong portfolio material.
 
 **Unit 3 Period Map:**
 

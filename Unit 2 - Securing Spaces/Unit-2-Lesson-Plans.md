@@ -10,7 +10,7 @@
 
 **🇹🇼 Taiwan Threat Brief format (recurring):** Every unit opener starts with a 3-minute Taiwan-focused cyber threat brief — one current event, TWNCERT advisory, or iThome news item relevant to the unit's topic. Keeps threat awareness local and current across the full year.
 
-**🧩 Saturday CTF Alignment:** Three Saturday CTF sessions fall during Unit 2 — **Oct 3 (SESSION 3: Recon & OSINT)** aligns with physical security audits and surveillance detection (U1 L10-U1 L11). **Oct 10 (SESSION 4: OverTheWire Bandit)** builds CLI/terminal skills used in badge log analysis (U2 L12). **Oct 24 (SESSION 5: Password cracking fundamentals)** directly supports authentication and access control topics (U2 L6, U2 L8). Students should maintain their CTF writeup repo throughout — the writeup habit is the portfolio thesis.
+**🧩 Saturday CTF Alignment:** *Saturday sessions do not run in the fall — the CTF series runs in spring 2027 (Jan 16 – May 22); see Saturday-CTF-Sessions.md.* Sessions relevant to Unit 2: **Session 3 (Feb 27: Recon & OSINT)** aligns with physical security audits and surveillance detection (U1 L10-U1 L11); **Session 4 (Mar 6: OverTheWire Bandit)** builds the CLI/terminal skills used in badge log analysis (U2 L12); **Session 5 (May 1: Password cracking fundamentals)** directly supports authentication and access control topics (U2 L6, U2 L8). Students should maintain their CTF writeup repo throughout — the writeup habit is the portfolio thesis.
 
 **Unit 2 Period Map:**
 

@@ -4,7 +4,7 @@
 
 **🇹🇼 Taiwan Threat Brief format (recurring):** The unit opener (Lesson 4.1) starts with a 3-minute Taiwan-focused cyber threat brief — one current event, TWNCERT advisory, or iThome news item relevant to device security. Keeps threat awareness local and current across the unit.
 
-**🧩 Saturday CTF Alignment:** Three Saturday CTF sessions land around Unit 4 — **Dec 12 (SESSION 8: OWASP Juice Shop intro)** bridges Unit 3 (network) and Unit 4 (device security) by introducing web app security fundamentals early. **Jan 16 (SESSION 9: Juice Shop continued + writeup catch-up)** falls after midterms and gives students hands-on web vuln experience that connects to device-level attack surfaces (4.1-4.3). **Jan 23 (SESSION 10: MCQ/FRQ midterm drills)** directly supports Unit 4 test prep and midterm readiness. Session 8-9 build a web security foundation that Unit 5 will fully leverage.
+**🧩 Saturday CTF Alignment:** *Saturday sessions do not run in the fall — the CTF series runs in spring 2027 (Jan 16 – May 22); see Saturday-CTF-Sessions.md.* Sessions relevant to Unit 4: **Session 5 (May 1: Password cracking fundamentals)** connects to authentication and credential attacks on devices (4.1-4.3); **Session 8 (May 22: OWASP Juice Shop intro)** gives hands-on web-vuln experience that maps to device-level attack surfaces and the web-facing risks in 4.1-4.3. Sessions build the web security foundation Unit 5 fully leverages.
 
 ---
 
