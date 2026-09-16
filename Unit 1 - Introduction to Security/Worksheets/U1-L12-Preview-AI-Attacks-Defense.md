@@ -1,4 +1,4 @@
-AP Cybersecurity — Unit 1 · Period 10 (Thu, Sep 17)  Name: ______________  Date: ______________
+AP Cybersecurity — Unit 1  Name: ______________  Date: ______________
 
 # Preview: AI Attacks & Defense
 
