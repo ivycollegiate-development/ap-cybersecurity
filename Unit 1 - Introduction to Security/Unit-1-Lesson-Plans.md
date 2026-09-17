@@ -60,7 +60,13 @@
   - Quick tour: repos, Issues, Pull Requests, Codespaces
   - Preview: "Every Friday lab uses this. You're building a professional DevOps workflow alongside cybersecurity skills."
 
-**Materials:** Unit 1 vocabulary worksheet ([GDoc](https://docs.google.com/document/d/1gr5pEUGTrYUKLT1k-tZARHrbl3Cr-P2SSdamUAkwMXg/edit)), Course Syllabus (Google Doc), projector, GitHub Classroom invitation link
+**Materials:**
+- **Deck:** [Course Intro + GitHub Setup Deck](https://docs.google.com/presentation/d/12OiNbHeKbzmfjxEhwDLprTaqelpUSMuIAyAks584XGE/edit)
+- **Quiz:** [U1 L2 — Homework Quiz: GitHub & Basics](https://docs.google.com/document/d/1r0BDi2y-QO5JFPF_KwHkl28Xe4Fun-YO81Amc3XkiE0/edit) + [Key](https://docs.google.com/document/d/1x9kWG3ZNMxp8fcTNLkh7j30OnO1Yh_TyANT1ElFVthM/edit)
+- **Worksheet:** [Unit 1 Vocabulary Sheet](https://docs.google.com/document/d/1gr5pEUGTrYUKLT1k-tZARHrbl3Cr-P2SSdamUAkwMXg/edit)
+- **Syllabus:** [Course Syllabus (Google Doc)](https://docs.google.com/document/d/1RrwvoS1Eq9QSoiDgO84_3i0D5UVIgRP-YJDFh4t552s/edit)
+- **Classroom:** GitHub Classroom invitation link (posted in Google Classroom)
+- **Equipment:** Projector
 
 **Homework (due 20:30):** Complete GitHub setup if not finished in class. Read "What is Cybersecurity" one-pager. Vocab flashcard set 1 (5 terms from today's preview).
 
@@ -80,7 +86,9 @@
 
 **Teacher role:** circulate, check GitHub setup status one-on-one, flag any students still struggling with account creation.
 
-**Materials:** quiz ([GDoc](https://docs.google.com/document/d/1r0BDi2y-QO5JFPF_KwHkl28Xe4Fun-YO81Amc3XkiE0/edit)), Key ([GDoc](https://docs.google.com/document/d/1x9kWG3ZNMxp8fcTNLkh7j30OnO1Yh_TyANT1ElFVthM/edit)). *Paper day — no student computers.*
+**Materials:**
+- **Quiz:** [U1 L2 — Homework Quiz: GitHub & Basics](https://docs.google.com/document/d/1r0BDi2y-QO5JFPF_KwHkl28Xe4Fun-YO81Amc3XkiE0/edit) + [Key](https://docs.google.com/document/d/1x9kWG3ZNMxp8fcTNLkh7j30OnO1Yh_TyANT1ElFVthM/edit)
+- **Equipment:** None (paper day — no student computers)
 
 ---
 
@@ -94,7 +102,12 @@
 
 **Suggested Skills:** 1.A (Identify assets, vulnerabilities, threats), 1.B (Describe impacts)
 
-**Materials:** Scenario 1A email text, projector, GitHub repo: `ivycollegiate-development/apcyber-u1-phishing-samples`, TechCrunch UNC6671 vishing article (printed or link): https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/
+**Materials:**
+- **Deck:** [S.E.T. Framework Deck](https://docs.google.com/presentation/d/12OiNbHeKbzmfjxEhwDLprTaqelpUSMuIAyAks584XGE/edit)
+- **Lab Repo:** `ivycollegiate-development/apcyber-u1-phishing-samples` (GitHub Classroom)
+- **Scenario 1A:** Phishing email text (in deck)
+- **Reading:** [TechCrunch UNC6671 vishing article](https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/) (printed or link)
+- **Equipment:** Projector, GitHub + Codespaces access
 
 **Activities:**
 1. **Hook:** "Have you or someone you know ever fallen for a scam?" Quick show of hands / stories.
@@ -128,7 +141,11 @@
 
 **Suggested Skills:** 1.A, 4.A (Analyze Risk, Evaluate Mitigation Outcomes)
 
-**Materials:** Whiteboard / Jamboard, projector, GitHub Issues from U1 L3, TechCrunch UNC6671 vishing article (printed — supports ELL guided reading)
+**Materials:**
+- **Deck:** [S.E.T. Framework Deck](https://docs.google.com/presentation/d/12OiNbHeKbzmfjxEhwDLprTaqelpUSMuIAyAks584XGE/edit) (continued)
+- **Lab Repo:** `ivycollegiate-development/apcyber-u1-phishing-samples` (GitHub Classroom — Issues from U1 L3)
+- **Reading:** [TechCrunch UNC6671 vishing article](https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/) (printed — supports ELL guided reading)
+- **Equipment:** Whiteboard / Jamboard, projector
 
 **Activities:**
 1. **⚡ Quiz:** Go over answers — surface the most-missed concept.
@@ -155,7 +172,11 @@
   - Instructor highlights exemplary Issues and corrects common misclassifications
 2. **Peer Review:** Pair up, exchange Issue URLs. Give one "glow" and one "grow" on your partner's analysis. Quick class poll: most common misclassification.
 
-**Materials:** Projector (to display select Issues), printed Issue summary sheet if needed, quiz ([GDoc](https://docs.google.com/document/d/15CkRENkc6Juh709JKYahChdaseJw_ze2WNvtF1MSkJM/edit)), Key ([GDoc](https://docs.google.com/document/d/1jeNbXnRnpmWuX1S7SFUFKPtkNnKm2dhysfnwZnlygiQ/edit)). *Paper day — no student computers.*
+**Materials:**
+- **Deck:** [Phishing Lab Review Deck](https://docs.google.com/presentation/d/12OiNbHeKbzmfjxEhwDLprTaqelpUSMuIAyAks584XGE/edit)
+- **Quiz:** [U1 L5 — Homework Quiz: Social Engineering & Phishing](https://docs.google.com/document/d/15CkRENkc6Juh709JKYahChdaseJw_ze2WNvtF1MSkJM/edit) + [Key](https://docs.google.com/document/d/1jeNbXnRnpmWuX1S7SFUFKPtkNnKm2dhysfnwZnlygiQ/edit)
+- **Lab Repo:** `ivycollegiate-development/apcyber-u1-phishing-samples` (student Issues for review)
+- **Equipment:** Projector (to display select Issues), printed Issue summary sheet if needed
 
 **Homework (due 20:30):** Read Scenario 1B login log. Underline 2 suspicious entries and write one sentence on why each is suspicious.
 
@@ -171,7 +192,12 @@
 
 **Suggested Skills:** 1.A, 1.B (Analyze Risk)
 
-**Materials:** Scenario 1B login log table (handout: [GDoc](https://docs.google.com/document/d/1FIzpTOxd7g01oK39NLIY6Mu_zKv2gsKStfE8ox3Oa8s/edit)), Key ([GDoc](https://docs.google.com/document/d/19QiFBYp5LI1DzfVvsCAhV3H8SOkWQVwhrtAb6EAlXSk/edit)), projector (TechCrunch UNC6671 vishing article on hand for the MFA cross-ref: https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/)
+**Materials:**
+- **Deck:** [Password Attack Signs & Weak Authentication Deck](https://docs.google.com/presentation/d/1a1IqnheKbzmfjxEhwDLprTaqelpUSMuIAyAks584XGE/edit)
+- **Quiz:** [U1 L7 — Homework Quiz: Password Attacks](https://docs.google.com/document/d/10PPwpjn_CBJaAFmVvKsz6BqcMCwE6XHU_TiSYlqZWm0/edit) + [Key](https://docs.google.com/document/d/11CSw8YegDPNWUXY5-cKgiOFtEKRKcuZo_zoq1MQ8Dyo/edit)
+- **Scenario 1B Handout:** [Login Log Table](https://docs.google.com/document/d/1FIzpTOxd7g01oK39NLIY6Mu_zKv2gsKStfE8ox3Oa8s/edit) + [Key](https://docs.google.com/document/d/19QiFBYp5LI1DzfVvsCAhV3H8SOkWQVwhrtAb6EAlXSk/edit)
+- **Reading:** [TechCrunch UNC6671 vishing article](https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/) (cross-ref for MFA fatigue)
+- **Equipment:** Projector
 
 **Activities:**
 1. **Hook:** "How many passwords do you think you have?" — students guess, then tally.
@@ -202,7 +228,10 @@
 
 **Teacher role:** circulate, check that Codespaces is working for everyone before U1 L8, answer lab-setup questions. Preview the U1 L8 guided notes worksheet trickiest part (how the cracker script interprets hash types).
 
-**Materials:** quiz ([GDoc](https://docs.google.com/document/d/10PPwpjn_CBJaAFmVvKsz6BqcMCwE6XHU_TiSYlqZWm0/edit)), Key ([GDoc](https://docs.google.com/document/d/11CSw8YegDPNWUXY5-cKgiOFtEKRKcuZo_zoq1MQ8Dyo/edit)). *Paper day — no student computers.*
+**Materials:**
+- **Quiz:** [U1 L7 — Homework Quiz: Password Attacks](https://docs.google.com/document/d/10PPwpjn_CBJaAFmVvKsz6BqcMCwE6XHU_TiSYlqZWm0/edit) + [Key](https://docs.google.com/document/d/11CSw8YegDPNWUXY5-cKgiOFtEKRKcuZo_zoq1MQ8Dyo/edit)
+- **Lab Prep:** [U1 L8 Guided Notes Worksheet](https://docs.google.com/document/d/1Yz9r0l1N-DrcMQ53FW21apMswYn6Bk8GJAuHvmbIDY8/edit) + [Answer Key](https://docs.google.com/document/d/1xilJhdvUvlnopVmy0dQewNyWpm2Gs5igBSNxAnPoZj0/edit) (includes verified 8-row results table + stage-by-stage analysis)
+- **Equipment:** None (paper day — no student computers)
 
 ---
 
@@ -215,7 +244,12 @@
 
 **Suggested Skills:** 2.D (Mitigate Risk)
 
-**Materials:** GitHub repo: `ivycollegiate-development/apcyber-u1-password-strength-lab`, guided notes worksheet ([GDoc](https://docs.google.com/document/d/1Yz9r0l1N-DrcMQ53FW21apMswYn6Bk8GJAuHvmbIDY8/edit)), [Answer Key](https://docs.google.com/document/d/1xilJhdvUvlnopVmy0dQewNyWpm2Gs5igBSNxAnPoZj0/edit) — includes the verified 8-row results table (7 crack, row 8 uncracked by design) + stage-by-stage analysis
+**Materials:**
+- **Deck:** [Strengthening Authentication Lab Deck](https://docs.google.com/presentation/d/1a1IqnheKbzmfjxEhwDLprTaqelpUSMuIAyAks584XGE/edit)
+- **Lab Repo:** `ivycollegiate-development/apcyber-u1-password-strength-lab` (GitHub Classroom)
+- **Worksheet:** [Guided Notes](https://docs.google.com/document/d/1Yz9r0l1N-DrcMQ53FW21apMswYn6Bk8GJAuHvmbIDY8/edit) + [Answer Key](https://docs.google.com/document/d/1xilJhdvUvlnopVmy0dQewNyWpm2Gs5igBSNxAnPoZj0/edit)
+- **GitHub Action:** Validates report format on PR, flags uncracked hashes that should have cracked
+- **Equipment:** GitHub + Codespaces access (one-click launch)
 
 **Activities:**
 1. **⚡ Quiz + Lab Kickoff:** Quiz, then walk through the lab worksheet together. Show the repo structure: hashed password file + cracker script + README template. ⚡ Codespaces: one-click launch — no local setup.
@@ -242,7 +276,11 @@
 
 **Suggested Skills:** 1.A (Identify assets, vulnerabilities, threats)
 
-**Materials:** Whiteboard, projector, Draw the Adversary cards handout ([GDoc](https://docs.google.com/document/d/1hZupLP1xheFO3P49yhjs2Jfdz-2rPTuMvZ2UI7-tPho/edit)), printed CNN "Cyber privateers" article (Aug 13 2026, [GDoc](https://docs.google.com/document/d/1nDQKJPXFh0o7-qgRPE_De_KiOgQDuH1fkw2qc4jZHj4/edit))
+**Materials:**
+- **Deck:** [Adversary Types Deck](https://docs.google.com/presentation/d/1P9Ceq-olOio7-32uAwA5maVZ9WyYykno5tEMkQxEZO8/edit)
+- **Handout:** [Draw the Adversary Cards](https://docs.google.com/document/d/1hZupLP1xheFO3P49yhjs2Jfdz-2rPTuMvZ2UI7-tPho/edit)
+- **Reading:** [CNN "Cyber privateers" article](https://docs.google.com/document/d/1nDQKJPXFh0o7-qgRPE_De_KiOgQDuH1fkw2qc4jZHj4/edit) (printed, Aug 13 2026)
+- **Equipment:** Whiteboard, projector
 
 **Activities:**
 0. **🎯 CYBER ATTACK OF THE DAY — "Cyber privateers" (Aug 2026):** Read the printed CNN article: a Trump administration memo (Aug 12) authorizes vetted private US companies to surveil and disrupt foreign cybercriminal networks under DOJ/DHS oversight — a government-sanctioned "hack back" program. Former officials warn of deconfliction chaos ("too many cooks"), legal liability pushed onto companies, and collateral damage (taking down a foreign data center could hit a hospital). Warm-up: which TWO of today's six adversary categories does this story involve?
@@ -282,7 +320,14 @@
   - **Extension (if time) — cyber privateers FRQ:** Use the U1 L9 story as a second prompt: "A US company joins a government program authorizing it to disrupt a foreign criminal group's network." Part A: identify the adversary types involved (criminal org = target; state adversaries = the reason the program exists). Part B: what legal/ethical risks does the company face? (liability, oversight, collateral damage — e.g., hitting a hospital in the same data center). Part C: who should be allowed to hack, and under what rules?
 3. **Exit Ticket:** Match 6 short scenarios to adversary categories (ungraded, immediate feedback).
 
-**Materials:** Printed scenarios, FRQ prompt handout (U1 L10 worksheet: [GDoc](https://docs.google.com/document/d/1vlRwSgjBUWLibYsB4D_vN0t0gxVklNUrbftTQtG7Kbg/edit)), simplified AP rubric ([GDoc](https://docs.google.com/document/d/1IhyFSy3u9yxMrKYrCXxZimD1bmOYOl8-NuxPYwEPzxM/edit)), printed CNN "Cyber privateers" article (from U1 L9, [GDoc](https://docs.google.com/document/d/1nDQKJPXFh0o7-qgRPE_De_KiOgQDuH1fkw2qc4jZHj4/edit)), quiz ([GDoc](https://docs.google.com/document/d/1oBKOY35FdLU3IME0uDvjBv90C7czCnVhfYtzNVMA2Ro/edit)), Key ([GDoc](https://docs.google.com/document/d/1rWFDYiFh71yGDyw8e9ZZObhkSYoBXCrcu82GW5bn4A0/edit)). Teacher guide ([GDoc](https://docs.google.com/document/d/1RrwvoS1Eq9QSoiDgO84_3i0D5UVIgRP-YJDFh4t552s/edit)) — teacher-only companion: setup checklist, pacing, FRQ model answers, follow-up. *Paper day — no student computers.*
+**Materials:**
+- **Deck:** [Adversary Types Review + FRQ Walk-Through Deck](https://docs.google.com/presentation/d/1P9Ceq-olOio7-32uAwA5maVZ9WyYykno5tEMkQxEZO8/edit)
+- **Quiz:** [U1 L10 — Homework Quiz: Adversary Types](https://docs.google.com/document/d/1oBKOY35FdLU3IME0uDvjBv90C7czCnVhfYtzNVMA2Ro/edit) + [Key](https://docs.google.com/document/d/1rWFDYiFh71yGDyw8e9ZZObhkSYoBXCrcu82GW5bn4A0/edit)
+- **FRQ Worksheet:** [U1 L10 FRQ Handout](https://docs.google.com/document/d/1vlRwSgjBUWLibYsB4D_vN0t0gxVklNUrbftTQtG7Kbg/edit)
+- **FRQ Rubric:** [Simplified AP Rubric](https://docs.google.com/document/d/1IhyFSy3u9yxMrKYrCXxZimD1bmOYOl8-NuxPYwEPzxM/edit)
+- **Reading:** [CNN "Cyber privateers" article](https://docs.google.com/document/d/1nDQKJPXFh0o7-qgRPE_De_KiOgQDuH1fkw2qc4jZHj4/edit) (from U1 L9)
+- **Teacher Guide:** [Setup Checklist + Pacing + Model Answers](https://docs.google.com/document/d/1RrwvoS1Eq9QSoiDgO84_3i0D5UVIgRP-YJDFh4t552s/edit) (teacher-only)
+- **Equipment:** Printed scenarios, printed articles
 
 **Homework (due 11:59 PM tonight):** Read Scenario 1C on public Wi-Fi risks. Identify the adversary type and write one paragraph on how the attack could have been prevented.
 
@@ -301,7 +346,13 @@
 
 **Suggested Skills:** 1.A, 2.A (Analyze Risk, Select Controls)
 
-**Materials:** Projector, teacher laptop for evil twin demo, Scenario 1C handout ([GDoc](https://docs.google.com/document/d/1WDlvGIZx22nwUGv20xZPAGVCRc5m15JhoHI1hRFGCus/edit)), printed Delta flight article (Tom's Hardware, Aug 11 2026, [GDoc](https://docs.google.com/document/d/1nVE77YCvfgWBZSnkiuPOYdvYmBD4AlUrdPq0lzvgbA8/edit)), mitigation toolkit ([GDoc](https://docs.google.com/document/d/1Qami6MWU1lvp3nkMHKb-Oc2-dnMkulE1BKI6no1GR7g/edit))
+**Materials:**
+- **Deck:** [Wireless Attacks + Personal Protection Deck](https://docs.google.com/presentation/d/1P9Ceq-olOio7-32uAwA5maVZ9WyYykno5tEMkQxEZO8/edit)
+- **Scenario 1C Handout:** [Public Wi-Fi Risks](https://docs.google.com/document/d/1WDlvGIZx22nwUGv20xZPAGVCRc5m15JhoHI1hRFGCus/edit)
+- **Reading:** [Delta flight evil twin article](https://docs.google.com/document/d/1nVE77YCvfgWBZSnkiuPOYdvYmBD4AlUrdPq0lzvgbA8/edit) (Tom's Hardware, Aug 11 2026, printed)
+- **Handout:** [Mitigation Toolkit](https://docs.google.com/document/d/1Qami6MWU1lvp3nkMHKb-Oc2-dnMkulE1BKI6no1GR7g/edit)
+- **Demo:** Teacher laptop for evil twin demo ("ICA_Guest" hotspot)
+- **Equipment:** Projector
 
 **Activities:**
 0. **🎯 CYBER ATTACK OF THE DAY — Delta flight evil twin (Aug 2026):** Read the printed Tom's Hardware article: a DEF CON attendee on Delta Flight 591 (LAS→ATL) used a Wi-Fi Pineapple to deauth passengers off the in-flight Wi-Fi, then broadcast a rogue "Delta WiFi Fast" hotspot with a fake login page harvesting Google credentials. Crew disabled the Wi-Fi for ~30 min; the plane was met at the gate. Delta confirmed no airline systems were hacked — the attack targeted *passengers*, not the airline. Warm-up: which of today's wireless attack types did this attacker use?
@@ -339,7 +390,13 @@
 4. **Pre-Reading Distribution:** "For U1 L14, read this CED excerpt on AI attack vectors. We'll do a hands-on activity: forking a repo with AI-generated phishing samples side-by-side with real ones."
 5. **Exit Ticket:** "Which AI attack worries you most? Why?"
 
-**Materials:** Projector, printed vocabulary sheet ([GDoc](https://docs.google.com/document/d/1gr5pEUGTrYUKLT1k-tZARHrbl3Cr-P2SSdamUAkwMXg/edit)), CED excerpt handout ([GDoc](https://docs.google.com/document/d/1-wJk23MaEvi22HdAX2ogyBhUBR5k5AMeLTolV6tZbk0/edit)), quiz ([GDoc](https://docs.google.com/document/d/1umJNzbH_c58redCtRx1dZIwNQWvllU-GptEBlv_bwLA/edit)), Preview AI Attacks & Defense worksheet ([GDoc](https://docs.google.com/document/d/11ym3G7-jCPih-31zKPU-LQtwvuRqcwqMBq2He6egoDE/edit)), Key ([GDoc](https://docs.google.com/document/d/1dwKq7xnp6q-nrhXxs1zg8DLrO2ZssMC3ytB9M4Irm8k/edit)), Key ([GDoc](https://docs.google.com/document/d/11ciDmamjYi2U_ckilp00w5KeBf4E_TB7gpnpmQHeB60/edit)). *Paper day — no student computers.*
+**Materials:**
+- **Deck:** [Preview AI Attacks & Defense Deck](https://docs.google.com/presentation/d/1P9Ceq-olOio7-32uAwA5maVZ9WyYykno5tEMkQxEZO8/edit)
+- **Quiz:** [U1 L12 — Homework Quiz: Wireless Attacks](https://docs.google.com/document/d/1umJNzbH_c58redCtRx1dZIwNQWvllU-GptEBlv_bwLA/edit) + [Key](https://docs.google.com/document/d/1dwKq7xnp6q-nrhXxs1zg8DLrO2ZssMC3ytB9M4Irm8k/edit)
+- **Worksheet:** [Preview AI Attacks & Defense Worksheet](https://docs.google.com/document/d/11ym3G7-jCPih-31zKPU-LQtwvuRqcwqMBq2He6egoDE/edit) + [Key](https://docs.google.com/document/d/11ciDmamjYi2U_ckilp00w5KeBf4E_TB7gpnpmQHeB60/edit)
+- **Handout:** [Vocabulary Sheet](https://docs.google.com/document/d/1gr5pEUGTrYUKLT1k-tZARHrbl3Cr-P2SSdamUAkwMXg/edit)
+- **Handout:** [CED Excerpt on AI Attacks (1.4)](https://docs.google.com/document/d/1-wJk23MaEvi22HdAX2ogyBhUBR5k5AMeLTolV6tZbk0/edit)
+- **Equipment:** Projector
 
 **Homework (due 20:30):** Read CED excerpt on AI attacks (1.4). Write 2 questions you have about AI in cybersecurity.
 
@@ -359,6 +416,17 @@
 
 **Homework (due Sun 20:30):** Catch up any incomplete lab work. Preview U1 L14: watch the Fireship videos — the original Hugging Face hack (link in Google Classroom, 4:33), the sequel "The most interesting hack in history just got weirder..." (https://youtu.be/0Rp9KJCEIvg, ~6 min, published Sep 2 — OpenAI's postmortem), and optionally Breaking Points' follow-up "OpenAI launches GPT-6 'Astra' as new details emerge about AI agents running wild" (https://youtu.be/JZATZ8im3oQ, ~30 min — segments only; 0:00–7:00 for the launch + second-escape reporting).
 
+**Materials:**
+- **Lab Repos:**
+  - `ivycollegiate-development/apcyber-u1-phishing-samples` (catch-up)
+  - `ivycollegiate-development/apcyber-u1-password-strength-lab` (extended challenges)
+  - `ivycollegiate-development/apcyber-u1-vulnerable-code-lab` (preview for U1 L17)
+- **Videos:**
+  - Fireship: [Original Hugging Face hack](https://youtu.be/...) (4:33, link in Google Classroom)
+  - Fireship: [Sequel — "The most interesting hack in history just got weirder..."](https://youtu.be/0Rp9KJCEIvg) (~6 min)
+  - Breaking Points: [Follow-up on GPT-6 "Astra" launch](https://youtu.be/JZATZ8im3oQ) (~30 min, segments 0:00–7:00)
+- **Equipment:** GitHub + Codespaces access
+
 ---
 
 ## U1 L14: 1.4 AI-Based Cybersecurity Attacks (Sep 21, Mon — TECH DAY)
@@ -371,7 +439,16 @@
 
 **Suggested Skills:** 1.A, 1.B, 4.C (Analyze Risk, Evaluate Mitigation Outcomes)
 
-**Materials:** Scenario 1D, projector, GitHub repo: `ivycollegiate-development/apcyber-u1-ai-phishing-samples`, printed Guardian article: "Taiwan says it was hit by 'abnormal' AI-assisted cyber-attack" (Aug 13, 2026), Fireship sequel video https://youtu.be/0Rp9KJCEIvg (~6 min; skip sponsor ~first 60s), OpenAI postmortem: openai.com/index/hugging-face-incident-and-the-road-ahead (Aug 26, 2026, free)
+**Materials:**
+- **Deck:** [AI-Based Cybersecurity Attacks Deck](https://docs.google.com/presentation/d/1P9Ceq-olOio7-32uAwA5maVZ9WyYykno5tEMkQxEZO8/edit)
+- **Lab Repo:** `ivycollegiate-development/apcyber-u1-ai-phishing-samples` (GitHub Classroom)
+- **Scenario 1D:** Voice cloning attack scenario (in deck)
+- **Reading:** [Guardian article — "Taiwan says it was hit by 'abnormal' AI-assisted cyber-attack"](https://theguardian.com, Aug 13, 2026) (printed/PDF handout)
+- **Videos:**
+  - Fireship sequel: [OpenAI postmortem](https://youtu.be/0Rp9KJCEIvg) (~6 min; skip sponsor ~first 60s)
+  - OpenAI postmortem: [openai.com/index/hugging-face-incident-and-the-road-ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead) (Aug 26, 2026, free)
+- **Demo:** AI voice cloning (teacher-plays sample → AI clone)
+- **Equipment:** Projector, GitHub + Codespaces access
 
 **Activities:**
 1. **Hook:** 🎯 CYBER ATTACK OF THE DAY — lead with the Taiwan AI-assisted attack: "Taiwan's government agencies were hit by an AI-assisted attack last month — 85+ accounts, 2,500+ records, and it spread to the nuclear safety agency. Let's look at how." Then a short AI voice cloning demo (teacher-plays sample → AI clone of the same). "Would you fall for this?"
@@ -415,7 +492,11 @@
 
 **Teacher role:** circulate, check U1 L14 Issue completion, preview the U1 L17 lab structure (apcyber-u1-vulnerable-code-lab repo walk-through), flag students who need extra prep time.
 
-**Materials:** quiz ([GDoc](https://docs.google.com/document/d/18OnVBApt9XZNIE89Ga7Ms3pYI8STejVccPRA9U8cgVk/edit)), Key ([GDoc](https://docs.google.com/document/d/1Ft8Go7dXJXBg7zVggC7QrZvNvvCzyO3zO7QrO3ok_CY/edit)). *Paper day — no student computers.*
+**Materials:**
+- **Quiz:** [U1 L15 — Homework Quiz: AI & Cyber](https://docs.google.com/document/d/18OnVBApt9XZNIE89Ga7Ms3pYI8STejVccPRA9U8cgVk/edit) + [Key](https://docs.google.com/document/d/1Ft8Go7dXJXBg7zVggC7QrZvNvvCzyO3zO7QrO3ok_CY/edit)
+- **Lab Repo:** `ivycollegiate-development/apcyber-u1-ai-phishing-samples` (catch-up)
+- **Reading:** AI defense one-pager + CED excerpt on 1.5 (for U1 L16/U1 L17 prep)
+- **Equipment:** None (paper day — no student computers)
 
 ---
 
@@ -428,7 +509,15 @@
 
 **Suggested Skills:** 2.A, 4.C (Select Controls, Evaluate Outcomes)
 
-**Materials:** Projector, CodeQL demo environment
+**Materials:**
+- **Deck:** [AI in Cyber Defense Deck](https://docs.google.com/presentation/d/13Dp5BFjZJRFG71_cqtxCkBKjXU_Vqs39tSgwMp-Pixc/edit) (1.5_Leveraging_AI_in_Cyber_Defense — Student Copy)
+- **Demo:** CodeQL live demo on vulnerable code snippet (SQL injection)
+- **Case Studies:**
+  - Hugging Face breach response (Jul 2026) — AI-assisted supply chain auditing
+  - OpenAI postmortem response measures (Aug 26, 2026) — CoT monitoring, sandbox isolation, escalation rules, safe-stop grading
+  - OpenAI GPT-6 "Astra" launch monitoring stress-test (Sep 3, 2026) — sandbagging problem
+  - Taiwan MDA defense-in-action (Jul 20, 2026) — detect → alert → investigate → harden
+- **Equipment:** Projector, CodeQL demo environment
 
 **Activities:**
 1. **Warm-Up:** ⚡ Quiz + review. "AI is used for attacks. How do defenders use it?" Quick brainstorm — board the ideas.
@@ -465,7 +554,13 @@
 - 1.5.B Evaluate AI defense tool effectiveness
 - Scenario 1E application
 
-**Materials:** GitHub repo: `ivycollegiate-development/apcyber-u1-vulnerable-code-lab`, AI tool access (Claude/ChatGPT or built-in CodeQL), lab worksheet ([GDoc](https://docs.google.com/document/d/1fYVgcq-yDZMzVM7_G_pG6M3HfdT97nah2usnAhR6fQY/edit)), Key ([GDoc](https://docs.google.com/document/d/1B6IFue2qz7vIvpexWFBgwTb9LRCiIhCsfpwsAC4leJo/edit))
+**Materials:**
+- **Deck:** [AI Defense Lab + Scenario 1E Deck](https://docs.google.com/presentation/d/1P9Ceq-olOio7-32uAwA5maVZ9WyYykno5tEMkQxEZO8/edit)
+- **Lab Repo:** `ivycollegiate-development/apcyber-u1-vulnerable-code-lab` (GitHub Classroom)
+- **Worksheet:** [AI Defense Lab Worksheet](https://docs.google.com/document/d/1fYVgcq-yDZMzVM7_G_pG6M3HfdT97nah2usnAhR6fQY/edit) + [Key](https://docs.google.com/document/d/1B6IFue2qz7vIvpexWFBgwTb9LRCiIhCsfpwsAC4leJo/edit)
+- **AI Tools:** Claude/ChatGPT (second tab) or built-in CodeQL analysis
+- **GitHub Action:** Runs linter + security checks on PR (green checkmark = all vulnerabilities addressed)
+- **Equipment:** GitHub + Codespaces access (pre-loaded with AI tools)
 
 **Activities:**
 1. **⚡ Quiz + Lab Kickoff:** Quiz, then lab walk-through — show the repo with vulnerable Python/JS snippets.
@@ -497,7 +592,11 @@
 3. **📝 UNIT 1 TEST:** Paper-based (even though it's a tech day — fairness). Covers all LO 1.1-1.5. 15 MCQ + 2 short answer.
   - **Students may reference their PRs and Issues from the unit as a "portfolio of work" during the review portion, but not during the test.**
 
-**Materials:** Printed test papers, whiteboard for concept map
+**Materials:**
+- **Deck:** [Unit 1 Review & Test Deck](https://docs.google.com/presentation/d/1P9Ceq-olOio7-32uAwA5maVZ9WyYykno5tEMkQxEZO8/edit)
+- **Test:** Printed Unit 1 test papers (15 MCQ + 2 short answer, covers all LO 1.1–1.5)
+- **Review:** Student PRs and Issues from the unit (portfolio of work — reference allowed during review portion only)
+- **Equipment:** Whiteboard for concept map, printed test papers
 
 ---
 
