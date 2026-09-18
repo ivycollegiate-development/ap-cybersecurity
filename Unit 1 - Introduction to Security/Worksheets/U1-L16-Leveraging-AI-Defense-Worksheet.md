@@ -2,7 +2,7 @@ AP Cybersecurity — Unit 1  Name: ______________  Date: ______________
 
 # Leveraging AI in Cyber Defense — Worksheet (Decks 1.5 + 1.2)
 
-Today AI is the shield. This worksheet pairs Unit 1.5 (AI defense) with Unit 1.2 (suspicious logins), because the defender's AI watches for exactly the signs you studied in 1.2.
+Today AI is the shield. This worksheet pairs Unit 1.5 (AI defense) with Unit 1.2 (suspicious logins), because the defender's AI watches for exactly the signs you studied in 1.2. Heads up: we are going back over deck 1.2 as part of this — Sections 3 and 4 lean on it, so treat those questions as review, not new material.
 
 ## 1: The Haystack Math (Deck 1.5, Cold Open)
 
