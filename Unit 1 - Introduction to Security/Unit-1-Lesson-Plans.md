@@ -33,10 +33,10 @@
 | U1 L14 | Sep 21 | Mon | Tech | 1.4 AI-Based Cybersecurity Attacks |
 | U1 L15 | Sep 22 | Tue | Paper | Study-Hall/Prep 3 |
 | U1 L16 | Sep 23 | Wed | Tech | 1.5 AI in Cyber Defense |
-| U1 L17 | Sep 25 | Fri | Tech | 1.5 AI Defense Lab + Scenario 1E |
+| U1 L17 | Sep 24 | Thu | Tech | 1.5 AI Defense Lab + Scenario 1E |
 | U1 L18 | Sep 28 | Mon | Tech | Unit 1 Review & Test |
 
-*Sep 24 Thu = Mid-Autumn Festival — no class.*
+*Sep 24 Thu = Mid-Autumn Festival (holiday) — school holds class anyway: U1 L17 lab runs Thu Sep 24. Fri Sep 25 = attestation catch-up + Unit 1 test review. Unit 1 test stays Mon Sep 28.*
 
 ---
 
@@ -545,7 +545,9 @@
 
 ---
 
-## U1 L17: AI Defense Lab + Scenario 1E (Sep 25, Fri — TECH DAY)
+## U1 L17: AI Defense Lab + Scenario 1E (Sep 24, Thu — TECH DAY)
+
+*Rescheduled: holiday-class Thu Sep 24; Fri Sep 25 = attestation catch-up + test review.*
 
 **⚡ HW Quiz:** Quick-check on lab prep + weakest-LO identification.
 
@@ -555,7 +557,7 @@
 - Scenario 1E application
 
 **Materials:**
-- **Deck:** [AI Defense Lab + Scenario 1E Deck](https://docs.google.com/presentation/d/1P9Ceq-olOio7-32uAwA5maVZ9WyYykno5tEMkQxEZO8/edit)
+- **Deck:** [1.5 Leveraging AI in Cyber Defense Deck](https://docs.google.com/presentation/d/13Dp5BFjZJRFG71_cqtxCkBKjXU_Vqs39tSgwMp-Pixc/edit) (no separate lab deck; wrong-link fix 2026-09-23)
 - **Lab Repo:** `ivycollegiate-development/apcyber-u1-vulnerable-code-lab` (GitHub Classroom)
 - **Worksheet:** [AI Defense Lab Worksheet](https://docs.google.com/document/d/1fYVgcq-yDZMzVM7_G_pG6M3HfdT97nah2usnAhR6fQY/edit) + [Key](https://docs.google.com/document/d/1B6IFue2qz7vIvpexWFBgwTb9LRCiIhCsfpwsAC4leJo/edit)
 - **AI Tools:** Claude/ChatGPT (second tab) or built-in CodeQL analysis
