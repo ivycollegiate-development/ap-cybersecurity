@@ -57,45 +57,47 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 
 ---
 
-## Unit 2: Securing Spaces (23 periods + test week)
+## Unit 2: Securing Spaces (Sep 29 - Nov 13, 29 periods, test on P29)
+
+*Dates below are authoritative and mirror the `26-27 AP CyberSecurity` tab of the Jones Lesson Plans sheet.*
+*AP Cyber is seniors-only: no PSAT testing block affects this section, so Oct 14-15 run as normal class days.*
 
 | Period | Date | Day | Topic | Activity |
 |--------|------|-----|-------|----------|
-| P1 | Sep 29 | Tue | 📄 Case Study: Colonial Pipeline Physical Breach | Read case, map vulnerability→exploit→impact, pair discussion |
-| P2 | Sep 30 | Wed | 2.1 Cyber Foundations — Phases, Risk, Defense in Depth | Direct instruction + guided notes. ⚡ HW quiz opens |
-| P3 | Oct 1 | Thu | 📄 Pre-Lab: Physical Security Audit Prep | Pre-lab worksheet, predict flagged access points, vocab drill |
-| P4 | Oct 2 | Fri | 🐙 GITHUB LAB: Physical Security Audit Lab | fork → Codespaces → submit → pair-share |
-| P5 | Oct 5 | Mon | 2.1 Cyber Foundations — Attack Phases Deep Dive | Direct instruction + guided notes |
-| P6 | Oct 6 | Tue | 📄 Peer Review: Physical Security Audit Findings | Rubric exchange, one glow + one grow, common misses |
-| P7 | Oct 7 | Wed | 2.1 Cyber Foundations — Risk Management Strategies | Direct instruction + guided notes |
-| P8 | Oct 8 | Thu | 📄 Pre-Lab: Surveillance Detection Prep | Camera blind-spot diagram, sensor types, placement discussion |
-| P9 | Oct 9 | Fri | 🐙 GITHUB LAB: Surveillance Detection Lab | fork → Codespaces → submit → pair-share |
-| P10 | Oct 12 | Mon | 2.1 Cyber Foundations — Defense in Depth Layers | Direct instruction + guided notes |
-| P11 | Oct 13 | Tue | 📄 FRQ Walk-Through: Physical Security Scenario | Deconstruct prompt, write (10 min), peer-score, model answer |
-| P12 | Oct 14 | Wed | 2.2 Physical Vulnerabilities — Access Points & Surveillance | Direct instruction + guided notes |
-| P13 | Oct 15 | Thu | 📄 PSAT G11 (paper day — light) | Reflection / discussion only |
-| P14 | Oct 19 | Mon | 2.2 Physical Vulnerabilities — Social Engineering at the Door | Direct instruction + guided notes |
-| P15 | Oct 20 | Tue | 📄 Threat Modeling: STRIDE on a Data Center | STRIDE mini-lesson, groups apply to data center, present |
-| P16 | Oct 21 | Wed | 2.3 Protecting Physical Spaces — Locks, Badges, Biometrics | Direct instruction + guided notes |
-| P17 | Oct 22 | Thu | 📄 Current Event: Recent Physical Breach Analysis | CED framework analysis + CSO quick-write |
-| P18 | Oct 23 | Fri | 🔄 Flex / Catch-Up Day | Buffer |
-| P19 | Oct 26 | Mon | 2.3 Protecting Physical Spaces — Environmental Controls | Direct instruction + guided notes |
-| P20 | Oct 27 | Tue | 📄 Mock MCQ Sprint: Unit 2 Review | 5 timed MCQs, peer-grade, re-teach misses, self-assessment |
-| P21 | Oct 28 | Wed | 2.4 Detecting Physical Attacks — Sensors, Logs, Alarms | Direct instruction + guided notes |
-| P22 | Oct 29 | Thu | 📄 Break Prep + Unit Review: Physical Security Audit Preview | Distribute Fall Break assignment (audit of home), walk through checklist, unit recap |
-| P23 | Oct 30 | Fri | 🔄 Flex / Catch-Up Day [HALF-DAY] | Fall Break dismissal @12:30 |
+| P1 | 09/29 | Tue | 2.1 — Case Study: Colonial Pipeline Physical Breach | |
+| P2 | 09/30 | Wed | 2.1 — Phases of a Cyberattack | |
+| P3 | 10/01 | Thu | 2.1 — Risk Assessment | |
+| P4 | 10/02 | Fri | 2.1 — Defense in Depth | |
+| P5 | 10/05 | Mon | Flex / Catch-Up Day | |
+| P6 | 10/06 | Tue | 2.1 — Risk Management Options | |
+| P7 | 10/07 | Wed | 2.1 — Lab: Risk Register | |
+| P8 | 10/08 | Thu | 2.2 — Physical Vulnerabilities & Attacks | |
+| P9 | 10/09 | Fri | 2.2 — Physical Attack Case Studies | |
+| P10 | 10/12 | Mon | 2.3 — Protecting Physical Spaces | |
+| P11 | 10/13 | Tue | 2.3 — Lab: Physical Security Audit | |
+| P12 | 10/14 | Wed | 2.4 — Video Surveillance & Access Logs | |
+| P13 | 10/15 | Thu | 2.4 — Detecting Physical Attacks: Log Analysis and Alerting (Paper Day) | |
+| P14 | 10/16 | Fri | 2.4 — Lab: Badge Log Analysis | |
+| P15 | 10/19 | Mon | 2.4 — Video & Log Correlation | |
+| P16 | 10/20 | Tue | 2.2-2.4 — Mini-Project: Design (Day 1) | |
+| P17 | 10/21 | Wed | 2.2-2.4 — Mini-Project: Peer Review (Day 2) | |
+| P18 | 10/22 | Thu | 2.2-2.4 — Mini-Project: Presentations (Day 3) | |
+| P19 | 10/23 | Fri | Unit 2 Review | |
+| P20 | 10/26 | Mon | 2.4 — Detecting Physical Attacks: Sensors, Logs, Alarms | |
+| P21 | 10/27 | Tue | Mock MCQ Sprint: Unit 2 Review (Unit 2) | |
+| P22 | 10/28 | Wed | Unit 2 Synthesis: Build a Physical Security Program | |
+| P23 | 10/29 | Thu | Break Prep + Unit Review: Physical Security Audit Preview | |
+| P24 | 10/30 | Fri | Flex / Catch-Up | |
+| P25 | 11/09 | Mon | Unit 2 Review Day 1 (Unit 2) | |
+| P26 | 11/10 | Tue | Unit 2 Review Day 2 (Unit 2) | |
+| P27 | 11/11 | Wed | Mock MCQ Sprint: Unit 2 (Unit 2) | |
+| P28 | 11/12 | Thu | Unit 2 Review Day 4 (Unit 2) | |
+| P29 | 11/13 | Fri | Unit 2 Test | |
 
-**🍂 Fall Break: Oct 31 - Nov 8.** Assignment: Physical security audit of home (notebook exercise, no tech). **🇹🇼 Taiwan context (approved Aug 26):** the audit includes local-risk questions — shared building network infrastructure common in Taiwanese apartments/communities, and physical resilience for typhoon/flood events. Students note 1 shared-infrastructure risk + 1 weather-resilience gap alongside their standard findings.
-
-### Unit 2 Test Week (Nov 9-13)
-
-| Period | Date | Day | Topic | Activity |
-|--------|------|-----|-------|----------|
-| R1 | Nov 9 | Mon | Unit 2 Review Day 1 | ⚡ Quiz on Fall Break audit assignment. First day back — review 2.1-2.2, collect/discuss audits |
-| R2 | Nov 10 | Tue | Unit 2 Review Day 2 | ⚡ HW quiz. FRQ practice + targeted re-teach of weak LOs |
-| R3 | Nov 11 | Wed | 📄 Mock MCQ Sprint: Unit 2 | 5 timed MCQs, peer-grade, re-teach most-missed |
-| R4 | Nov 12 | Thu | Unit 2 Review Day 4 | ⚡ HW quiz. Targeted weak-area review, open Q&A, study guide |
-| **T** | **Nov 13** | **Fri** | **📝 UNIT 2 TEST** | Paper-based, all 2.1-2.4 LOs |
+**Unit 2 GitHub labs:** Physical Security Audit (Oct 2) - Risk Register (Oct 7) - Badge Log Analysis (Oct 16).
+**Mini-project (2.2-2.4):** Design Oct 20 - Peer Review Oct 21 - Presentations Oct 22.
+**Fall Break (Oct 31 - Nov 8):** home physical-security audit, paper exercise, no tech. Assigned Oct 29, collected Nov 9. Taiwan-specific: shared building network infrastructure in local apartments, plus typhoon/flood physical resilience - students note 1 shared-infrastructure risk and 1 weather-resilience gap.
+**Unit 2 Test:** Mon Nov 13 (P29). Review block Nov 9-12 falls BEFORE the test, not after.
 
 ---
 

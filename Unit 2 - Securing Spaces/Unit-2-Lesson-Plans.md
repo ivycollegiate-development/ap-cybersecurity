@@ -1,9 +1,9 @@
 # Unit 2 — Securing Spaces: Detailed Lesson Plans
 
-**Time Allotment:** 19 periods (14 tech + 5 paper), Sep 30–Oct 26  
+**Time Allotment:** 29 periods, Sep 29 - Nov 13 (Unit 2 Test on Mon Nov 13)  
 **CED Topics:** 2.1–2.4 (Phases of a Cyberattack, Risk Assessment, Defense in Depth, Physical Security)  
 **Course Skills:** Analyze Risk (Skill 1), Mitigate Risk (Skill 2), Detect Attacks (Skill 3), Collaborate (Skill 4)  
-**Labs:** 5 (risk register, physical audit, badge log analysis, video/log correlation, mini-project)  
+**Labs:** 3 GitHub labs (risk register, physical audit, badge log analysis) + 1 mini-project + 1 paper break assignment  
 **Tech Days:** Mon/Wed/Fri — full internet + Google Sheets + Python/spreadsheet analysis  
 **Paper Days:** Tue/Thu — no computers; case studies, scenario analysis, physical activities  
 **⚡ Graded HW Quiz Convention:** Every class period opens with a 5-10 min graded quiz on the previous night's homework (homework assigned in class, due 20:30 the night before; weekend homework due Sun 20:30). Tech days = quick MCQ; paper days = written quiz. Test days skip the quiz.
@@ -14,8 +14,46 @@
 
 **Unit 2 Period Map:**
 
-| Period | Date | Day | Type | Topic |
-|--------|------|-----|------|-------|
+*Canonical dates: this map and the `26-27 AP CyberSecurity` tab of the Jones Lesson Plans sheet agree. The sheet wins on any conflict.*
+
+*AP Cyber is seniors-only — no PSAT block affects this section, so Oct 14-15 are normal class days. The Oct 15 paper day is real content, not a testing accommodation.*
+
+| Period | Lesson | Date | Day | Type | Topic |
+|--------|--------|------|-----|------|-------|
+| P1 | (case study) | Sep 29 | Tue | Paper | Case Study: Colonial Pipeline Physical Breach |
+| P2 | U2 L1 | Sep 30 | Wed | Tech | Phases of a Cyberattack |
+| P3 | U2 L2 | Oct 1 | Thu | Paper | Risk Assessment |
+| P4 | U2 L3 | Oct 2 | Fri | Tech | Defense in Depth |
+| P5 | U2 L4 | Oct 5 | Mon | Tech | Flex / Catch-Up Day |
+| P6 | U2 L5 | Oct 6 | Tue | Paper | Risk Management Options |
+| P7 | U2 L6 | Oct 7 | Wed | Tech | Risk Register Lab |
+| P8 | U2 L7 | Oct 8 | Thu | Paper | Physical Vulnerabilities & Attacks |
+| P9 | U2 L8 | Oct 9 | Fri | Tech | Physical Attack Case Studies |
+| P10 | U2 L9 | Oct 12 | Mon | Tech | Protecting Physical Spaces |
+| P11 | U2 L10 | Oct 13 | Tue | Paper | Physical Security Audit Lab |
+| P12 | U2 L11 | Oct 14 | Wed | Tech | Video Surveillance & Access Logs |
+| P13 | U2 L12 | Oct 15 | Thu | Paper | Detecting Physical Attacks: Log Analysis and Alerting |
+| P14 | U2 L13 | Oct 16 | Fri | Tech | Badge Log Analysis Lab |
+| P15 | U2 L14 | Oct 19 | Mon | Tech | Video & Log Correlation |
+| P16 | U2 L15 | Oct 20 | Tue | Tech | Mini-Project: Day 1 — Design |
+| P17 | U2 L16 | Oct 21 | Wed | Tech | Mini-Project: Day 2 — Peer Review |
+| P18 | U2 L17 | Oct 22 | Thu | Tech | Mini-Project: Day 3 — Presentations |
+| P19 | U2 L18 | Oct 23 | Fri | Tech | Unit 2 Review |
+| **P20** | **U2 L19** | **Oct 26** | **Mon** | **Test** | **~~Unit 2 Test~~ — MOVED to Nov 13, see P29** |
+| P21 | U2 L20 | Oct 27 | Tue | Paper | Mock MCQ Sprint: Unit 2 |
+| P22 | U2 L21 | Oct 28 | Wed | Paper | Unit 2 Synthesis: Build a Physical Security Program |
+| P23 | U2 L22 | Oct 29 | Thu | Paper | Break Prep: Fall Break audit launch + unit recap |
+| P24 | U2 L23 | Oct 30 | Fri | Tech | Flex / Catch-Up Day [HALF DAY] |
+| — | — | Oct 31 - Nov 8 | — | — | **FALL BREAK** — home physical-security audit, paper, no tech |
+| P25 | U2 L24 | Nov 9 | Mon | Paper | Unit 2 Review Day 1 + Fall Break audit quiz |
+| P26 | U2 L25 | Nov 10 | Tue | Paper | Unit 2 Review Day 2 — FRQ practice + targeted re-teach |
+| P27 | U2 L26 | Nov 11 | Wed | Paper | Mock MCQ Sprint: Unit 2 |
+| P28 | U2 L27 | Nov 12 | Thu | Paper | Unit 2 Review Day 4 — targeted review, study guide |
+| **P29** | **U2 L28** | **Nov 13** | **Fri** | **Test** | **📝 UNIT 2 TEST** |
+
+**Why the test moved:** it was scheduled Oct 26, which put four days of 2.4 content and five days of review *after* the exam. Every Unit 2 learning objective is now taught (through Oct 28) and re-taught (Nov 9-12) before the test on Nov 13.
+
+--------|------|-----|------|-------|
 | U2 L1 | Sep 30 | Wed | Tech | Phases of a Cyberattack |
 | U2 L2 | Oct 1 | Thu | Paper | Risk Assessment |
 | U2 L3 | Oct 2 | Fri | Tech | Defense in Depth |
@@ -292,13 +330,152 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## U2 L19: Unit 2 Test (Oct 26, Mon — TEST DAY)
+## U2 L19: Flex / Catch-Up + Review Day (Oct 26, Mon — TECH DAY)
 
-**Period:** 29  |  **LOs:** All Unit 2
+**Period:** 20  |  **LOs:** All Unit 2 (consolidation)
+
+**Note:** This slot previously held the Unit 2 Test. The test moved to Nov 13 (P29) so that all of 2.4 and the full review block land before the exam. The date is preserved as a consolidation day.
 
 **Activities:**
-1. **Test (40 min):** 20 MC (2 min each) + 1 FRQ. Covers attack phases, risk assessment, physical attacks, controls, detection methods.
-2. **Early finishers:** Read Unit 3 preview.
+1. **⚡ Graded HW quiz** (5-10 min, MCQ) on the mini-project presentation homework.
+2. **Guided re-read** of 2.4 (detection) — the objective students most often miss on the CED practice items.
+3. **Open lab / catch-up** for anyone behind on a Unit 2 lab submission.
+4. **Exit ticket:** one written sentence — which Unit 2 objective do you still not own?
+
+---
+
+## U2 L20: Mock MCQ Sprint: Unit 2 (Oct 27, Tue — PAPER DAY)
+
+**Period:** 21  |  **LOs:** 2.1-2.4
+
+**Activities:**
+1. **5 timed MCQs** on Unit 2 (5 min total, one pass, no notes).
+2. **Peer-grade** against the answer key, then re-read the CED rationale for every miss.
+3. **Re-teach board:** teacher records the objective codes of the most-missed items; these drive the Nov 9-12 review block.
+4. **Self-assessment:** students file their misses in the Unit 2 study guide, which is distributed today.
+
+**Assessment:** Mock MCQ score recorded, not a test grade. Feeds re-teach targeting.
+
+---
+
+## U2 L21: Unit 2 Synthesis — Build a Physical Security Program (Oct 28, Wed — PAPER DAY)
+
+**Period:** 22  |  **LOs:** 2.1.A, 2.2.A, 2.3.A, 2.4.A
+
+**Scenario:** A Taiwanese semiconductor firm is moving into a new Taichung office. Design the physical security program.
+
+**Activities:**
+1. **Group design (20 min):** groups build a layered program — perimeter, entry control, interior zones, monitoring, detection, response. Each control must be justified by naming the Unit 2 LO it satisfies.
+2. **Group presentations (15 min):** each group walks the class through its layer stack.
+3. **Gap hunt:** class identifies which LO no group covered. Usually 2.3 environmental controls — call that out explicitly.
+4. **Study guide issued** to open the Nov 9-13 review block.
+
+**Assessment:** Design sheets collected; coverage gaps used to set review priorities.
+
+**🇹🇼 Taiwan context:** semiconductor supply-chain context gives the physical-security stakes real weight — a fab is both a high-value target and a hard target because of the clean-room layering.
+
+---
+
+## U2 L22: Break Prep — Fall Break Audit Launch (Oct 29, Thu — PAPER DAY)
+
+**Period:** 23  |  **LOs:** 2.2, 2.3, 2.4 (applied)
+
+**Activities:**
+1. **⚡ Graded HW quiz** (5-10 min, paper) on mini-project homework.
+2. **Fall Break assignment launch (20 min):** distribute the home physical-security audit. Walk the checklist requirement by requirement, show a completed sample, state the due date (first class back, Mon Nov 9) and the format.
+3. **Taiwan-specific requirements** — students must additionally note (a) one risk from shared building network infrastructure common in Taiwanese apartments and communities, and (b) one physical-resilience gap relevant to typhoon and flood seasons.
+4. **Clarify it is a paper exercise** — notebook, no technology required, no GitHub over the break.
+5. **Unit 2 recap** for the remaining time: open Q&A on any objective students flag as shaky.
+
+**Assessment:** Graded HW quiz. Fall Break audit assignment issued (Google Classroom, due Nov 9 before class).
+
+---
+
+## U2 L23: Flex / Catch-Up Day (Oct 30, Fri — HALF DAY, DISMISS 12:30)
+
+**Period:** 24  |  **LOs:** None — buffer
+
+**Activities:**
+1. Catch-up time for outstanding Unit 2 lab submissions.
+2. Quiet reading: Unit 3 preview (Securing Networks), first CED excerpt.
+3. No new content. Dismissal 12:30 — Fall Break begins.
+
+---
+
+## 🍂 FALL BREAK — Oct 31 to Nov 8
+
+**Assignment:** home physical-security audit (paper, no technology).
+**Assigned:** Oct 29 (P23)  |  **Collected:** Nov 9 (P25)  |  **Quized:** Nov 9 HW quiz.
+
+**Format:** student notebook or loose-leaf. Notebooks are not collected over the break.
+
+---
+
+## U2 L24: Unit 2 Review Day 1 (Nov 9, Mon — PAPER DAY)
+
+**Period:** 25  |  **LOs:** 2.1, 2.2
+
+**Activities:**
+1. **⚡ Graded HW quiz (10 min)** on the Fall Break physical-security audit. This is the one graded assessment of the break work.
+2. **Audit debrief (15 min):** anonymize the class findings — the most common weakness across the section gets named, and the strongest finds get read out.
+3. **Review Day 1 (20 min):** 2.1 attack phases and 2.2 physical vulnerabilities, driven by what the audit quiz revealed.
+4. **Study guide work time** for the remaining minutes.
+
+**Assessment:** Fall Break audit quiz (graded) — sets the re-teach agenda for the week.
+
+---
+
+## U2 L25: Unit 2 Review Day 2 (Nov 10, Tue — PAPER DAY)
+
+**Period:** 26  |  **LOs:** all Unit 2, weighted to quiz misses
+
+**Activities:**
+1. **⚡ Graded HW quiz** (5-10 min, paper).
+2. **FRQ practice (25 min):** one physical-security FRQ. Deconstruct the prompt, 10 min writing, peer-score against the rubric, then read the model answer.
+3. **Targeted re-teach (15 min):** the two weakest LOs from the Nov 9 quiz.
+
+**Assessment:** Graded HW quiz; FRQ practice scored with the rubric (practice, not a test grade).
+
+---
+
+## U2 L26: Mock MCQ Sprint: Unit 2 (Nov 11, Wed — PAPER DAY)
+
+**Period:** 27  |  **LOs:** 2.1-2.4
+
+**Activities:**
+1. **5 timed MCQs** on Unit 2, parallel to the Oct 27 sprint so students see their own delta.
+2. **Peer-grade**, re-read rationales for every miss.
+3. **Re-teach the most-missed objective** immediately, in the same period.
+4. **Delta check:** each student writes down which objective moved from red to yellow since Oct 27.
+
+**Assessment:** Mock MCQ score recorded, not a test grade.
+
+---
+
+## U2 L27: Unit 2 Review Day 4 (Nov 12, Thu — PAPER DAY)
+
+**Period:** 28  |  **LOs:** all Unit 2
+
+**Activities:**
+1. **⚡ Graded HW quiz** (5-10 min, paper).
+2. **Targeted weak-area review** driven by the Nov 11 sprint results.
+3. **Open Q&A** — the last chance to ask anything before the test.
+4. **Study guide finalization** and test logistics (Friday Nov 13, 20 MCQ + 1 FRQ, paper-based).
+
+**Assessment:** Graded HW quiz; study guide complete.
+
+---
+
+## U2 L28: Unit 2 Test (Nov 13, Fri — TEST DAY)
+
+**Period:** 29  |  **LOs:** 2.1-2.4
+
+**Activities:**
+1. **Test (40 min):** 20 MCQ (2 min each) + 1 FRQ. Covers attack phases, risk assessment, risk treatment options, physical vulnerabilities, physical protections, and detection methods.
+2. **Early finishers:** read the Unit 3 preview.
+3. No HW quiz on test day.
+
+**Assessment:** Unit 2 Test (paper) — graded.
 
 ---
 
@@ -311,3 +488,6 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 | Badge log analysis | CSV + spreadsheet | None | 10 min |
 | Video/log correlation | Printed scenario packet | None | 5 min |
 | Mini-project | Google Slides | School Google account | Launch materials |
+| Fall Break audit | **None — paper only** | None | 0 |
+
+**Do not add a fourth/fifth GitHub lab to Unit 2.** The three existing labs (risk register, physical audit, badge log analysis) plus the mini-project are sufficient; the four Unit 2 weeks are already the tightest stretch of the term.
