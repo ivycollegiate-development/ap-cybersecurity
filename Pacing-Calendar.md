@@ -231,28 +231,46 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 | 109 | Apr 15 | Thu | Course-wide review: Unit 5 |
 | 110 | Apr 16 | Fri | Practice exam (MC) round 2 |
 | — | Apr 17 | Sat | Earth Day Event |
-| 111 | Apr 19 | Mon | Practice exam review |
-| 112 | Apr 20 | Tue | FRQ / performance task practice |
-| — | Apr 21 | Wed | PSAT G10 |
-| 113 | Apr 22 | Thu | Targeted review (weak areas) |
+| 111 | Apr 19 | Mon | Practice exam review; score distribution, the three worst items |
+| 112 | Apr 20 | Tue | FRQ / performance task practice (timed) |
+| — | Apr 21 | Wed | PSAT G10 (no class) |
+| 113 | Apr 22 | Thu | Targeted review, weak topic 1 (part 1) |
+| 114 | Apr 23 | Fri | Targeted review, weak topic 1 (part 2) |
 | — | Apr 24 | Sat | Common Good Day |
-| 114 | Apr 26 | Mon | Final prep + study strategies |
+| 115 | Apr 26 | Mon | Practice exam round 2 results — the six misses |
+| 116 | Apr 27 | Tue | Targeted review, weak topic 2 |
+| 117 | Apr 28 | Wed | Command-line tool fluency check |
+| 118 | Apr 29 | Thu | Full topic sweep, Units 1-3 |
+| 119 | Apr 30 | Fri | Full topic sweep, Units 4-5 |
+| 120 | May 3 | Mon | Review logistics + Q&A; calculator/answer-sheet check |
+| 121 | May 4 | Tue | Final review; light, confidence-building |
 
 *AP Exam: Wednesday, May 5, 2027 (8:00 AM local).*
 
 ---
 
-## Post-AP Activities (~10 periods)
+## Post-AP Activities (13 periods) — portfolio & career
 
-| Period | Date | Day | Activity |
-|--------|------|-----|----------|
-| 115+ | May (post-exam) | | Cybersecurity career exploration |
-| | | | Capture the Flag (CTF) competition |
-| | | | Guest speaker / industry panel |
-| | | | Final projects / presentations |
-| — | May 20-25 | | Thesis Week |
-| — | May 29 | | Celebrate Seniors |
-| — | May 30 | | Commencement |
+| Period | Date | Day | Activity | Lesson file |
+|--------|------|-----|----------|-------------|
+| 122 | May 6 | Thu | Exam debrief: what surprised you, what you'd answer differently | U6-L01 |
+| 123 | May 7 | Fri | CTF Session 6 debrief — network forensics | U6-L02 |
+| — | May 8 | Sat | CTF Session 7 | — |
+| 124 | May 10 | Mon | Portfolio assembly: what a cybersecurity portfolio actually is | U6-L03 |
+| 125 | May 11 | Tue | Credential ladder: certs, degrees, and what employers really ask | U6-L04 |
+| 126 | May 12 | Wed | Career paths: analyst, engineer, incident response, research | U6-L05 |
+| 127 | May 13 | Thu | Log analysis debrief prep | U6-L06 |
+| 128 | May 14 | Fri | Portfolio build day 1 — capstone writeup | U6-L07 |
+| 129 | May 17 | Mon | The three-minute technical talk | U6-L08 |
+| 130 | May 18 | Tue | Ethics and law — Taiwan's PIPL | U6-L09 |
+| 131 | May 19 | Wed | OWASP Juice Shop debrief prep | U6-L10 |
+| — | May 20-25 | | Thesis Week | — |
+| — | May 22 | Sat | CTF Session 8 | — |
+| 132 | May 26 | Wed | Portfolio build day 2 — polish, README | U6-L11 |
+| 133 | May 27 | Thu | Portfolio peer review and revision | U6-L12 |
+| 134 | May 28 | Fri | Portfolio presentations | U6-L13 |
+| — | May 29 | Sat | Celebrate Seniors | — |
+| — | May 30 | Sun | Commencement | — |
 | — | May 31 - Jun 3 | | No school final exam (AP exam was May 5) |
 | — | Jun 3 | | Summer Break dismiss @1pm |
 
