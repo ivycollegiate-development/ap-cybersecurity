@@ -8,9 +8,10 @@ You'll fork a repo containing Python and JavaScript code snippets with security 
 
 ## 1: Lab Setup
 
-1. Open the repo link in GitHub
+1. Open the repo link in GitHub (in your browser)
 2. Fork the repo to your account
-3. Launch Codespaces (one click)
+3. Open your VS Code workspace (vscode.ivycollegiate.org) and clone your fork:
+   `git clone https://github.com/<your-username>/apcyber-u1-vulnerable-code-lab.git`
 4. Open the `vulnerabilities/` folder — each file contains at least one security flaw
 
 ## 2: Vulnerability Hunt
@@ -39,7 +40,17 @@ As you find each vulnerability, record it in the table below.
 For each file:
 1. Edit the code to fix the vulnerability
 2. Commit the change with a message describing what you fixed and why
-3. Push to your fork
+3. Push to your fork (use your GitHub Personal Access Token when asked for a password)
+
+If the push fails with an authentication error, create a Personal Access Token (PAT):
+
+1. In your browser: GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens
+2. Click Generate new token. Name it: `u1-l17-lab`. Repository access: Only select repositories → `apcyber-u1-vulnerable-code-lab`
+3. Under Permissions → Repository permissions, set Contents to *Read and write*
+4. Click Generate token and copy the token (you will not see it again)
+5. Push again. When asked for a Username, enter your GitHub username. When asked for a Password, paste the PAT
+
+If the push succeeds, you are done — no PAT needed.
 
 ## 4: Open a Pull Request
 

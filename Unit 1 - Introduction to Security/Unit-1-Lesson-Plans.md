@@ -562,7 +562,7 @@
 - **Worksheet:** [AI Defense Lab Worksheet](https://docs.google.com/document/d/1fYVgcq-yDZMzVM7_G_pG6M3HfdT97nah2usnAhR6fQY/edit) + [Key](https://docs.google.com/document/d/1B6IFue2qz7vIvpexWFBgwTb9LRCiIhCsfpwsAC4leJo/edit)
 - **AI Tools:** Claude/ChatGPT (second tab) or built-in CodeQL analysis
 - **GitHub Action:** Runs linter + security checks on PR (green checkmark = all vulnerabilities addressed)
-- **Equipment:** GitHub + Codespaces access (pre-loaded with AI tools)
+- **Equipment:** VS Code server (vscode.ivycollegiate.org) + GitHub access
 
 **Activities:**
 1. **⚡ Quiz + Lab Kickoff:** Quiz, then lab walk-through — show the repo with vulnerable Python/JS snippets.
@@ -572,7 +572,7 @@
   3. Fix each vulnerability and commit the fix
   4. Open a Pull Request
   - 🤖 GitHub Action runs on PR: runs linter + security checks. Green checkmark = all vulnerabilities addressed.
-  - ⚡ Codespaces: pre-loaded with AI tools.
+  - ⚡ VS Code server: students work in their vscode.ivycollegiate.org workspace (clone the fork, edit, push with PAT).
 3. **Reflection — Attestation Comment (required):** Write a PR comment that ATTESTS to your work, in this format:
    - **What I fixed:** [each vulnerability, one line each]
    - **How I verified:** [what check you ran / why you're confident the fix is complete]
@@ -652,6 +652,6 @@
 |-----|------------|-------|-------|
 | Phishing Classification (U1 L3) | `apcyber-u1-phishing-samples` | Codespaces, GitHub Issues | File Issues classifying 5 emails by tactic. No other tools needed |
 | Password Strength Analyzer (U1 L8) | `apcyber-u1-password-strength-lab` | Codespaces, cracker script, GitHub Actions | Students run cracker on hashed file; PR validated by Action |
-| AI-Powered Code Review (U1 L17) | `apcyber-u1-vulnerable-code-lab` | Codespaces, CodeQL, AI tool (Claude/ChatGPT) | Students use AI to find vulns, fix, PR; Action runs security checks |
+| AI-Powered Code Review (U1 L17) | `apcyber-u1-vulnerable-code-lab` | VS Code server, CodeQL, AI tool (Claude/ChatGPT) | Students use AI to find vulns, fix, PR; Action runs security checks |
 
-Unit 1 labs are intentionally low-infrastructure — no VMs or special software required beyond GitHub + Codespaces. All three labs use `ivycollegiate-development` org repos with GitHub Classroom auto-grading via Actions.
+Unit 1 labs are intentionally low-infrastructure — no VMs or special software required beyond GitHub + the VS Code server (vscode.ivycollegiate.org). All three labs use `ivycollegiate-development` org repos with GitHub Classroom auto-grading via Actions.
