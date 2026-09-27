@@ -8,9 +8,7 @@
 - 4.2.A Evaluate the authentication posture of a personal account and explain what an attacker gains by defeating it
 - 4.3.A Identify one hardening or patching gap on a personally owned device and the residual risk after the fix
 
-**Materials:** Printed device audit packet, completed sample audit (2 pages, teacher's own phone and laptop), the four Unit 4 malware cards printed as a reference bank, Unit 4 study guide (start it over break), timer
-
-> **TODO before teaching:** the print packet is not built yet. It needs a GDoc link here, and it should be a copy-only GDoc attached view-only in Classroom, never a PDF export.
+**Materials:** Printed device audit packet ([GDoc](https://docs.google.com/document/d/1o6FlZDoGBoWmAas4Iviac3bH99ny-OJR6HjO0eu7E8s/edit) — copy only, attach view-only in Classroom, never export a PDF), completed sample audit (2 pages, teacher's own phone and laptop), the four Unit 4 malware cards printed as a reference bank, Unit 4 study guide (start it over break), timer
 
 **No computers for the break work.** This assignment is paper only — the printed packet, a pen, and your own devices, but not for the write-up. No GitHub, no submissions, no tech during Winter Break. If you want to note your phone's OS version or check a settings screen, that is fine, but the audit is by hand.
 
