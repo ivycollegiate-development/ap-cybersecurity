@@ -193,7 +193,7 @@
 **Suggested Skills:** 1.A, 1.B (Analyze Risk)
 
 **Materials:**
-- **Deck:** [Password Attack Signs & Weak Authentication Deck](https://docs.google.com/presentation/d/1a1IqnheKbzmfjxEhwDLprTaqelpUSMuIAyAks584XGE/edit)
+- **Deck:** [Password Attack Signs & Weak Authentication Deck](https://docs.google.com/presentation/d/1a1IqnVYNOqC0K2SvRLO_3iEAgLT3XiU6MPAqVUHjBCo/edit)
 - **Quiz:** [U1 L7 — Homework Quiz: Password Attacks](https://docs.google.com/document/d/10PPwpjn_CBJaAFmVvKsz6BqcMCwE6XHU_TiSYlqZWm0/edit) + [Key](https://docs.google.com/document/d/11CSw8YegDPNWUXY5-cKgiOFtEKRKcuZo_zoq1MQ8Dyo/edit)
 - **Scenario 1B Handout:** [Login Log Table](https://docs.google.com/document/d/1FIzpTOxd7g01oK39NLIY6Mu_zKv2gsKStfE8ox3Oa8s/edit) + [Key](https://docs.google.com/document/d/19QiFBYp5LI1DzfVvsCAhV3H8SOkWQVwhrtAb6EAlXSk/edit)
 - **Reading:** [TechCrunch UNC6671 vishing article](https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/) (cross-ref for MFA fatigue)
@@ -245,7 +245,7 @@
 **Suggested Skills:** 2.D (Mitigate Risk)
 
 **Materials:**
-- **Deck:** [Strengthening Authentication Lab Deck](https://docs.google.com/presentation/d/1a1IqnheKbzmfjxEhwDLprTaqelpUSMuIAyAks584XGE/edit)
+- **Deck:** [Strengthening Authentication Lab Deck](https://docs.google.com/presentation/d/1a1IqnVYNOqC0K2SvRLO_3iEAgLT3XiU6MPAqVUHjBCo/edit)
 - **Lab Repo:** `ivycollegiate-development/apcyber-u1-password-strength-lab` (GitHub Classroom)
 - **Worksheet:** [Guided Notes](https://docs.google.com/document/d/1Yz9r0l1N-DrcMQ53FW21apMswYn6Bk8GJAuHvmbIDY8/edit) + [Answer Key](https://docs.google.com/document/d/1xilJhdvUvlnopVmy0dQewNyWpm2Gs5igBSNxAnPoZj0/edit)
 - **GitHub Action:** Validates report format on PR, flags uncracked hashes that should have cracked
@@ -591,14 +591,15 @@
 **Activities:**
 1. **Kahoot-Style Review:** Focus on hardest LOs: 1.5.A (AI defense tools), 1.3.B (wireless attacks), 1.3.C (protections). Collaborative concept map on whiteboard: all 5 topics interconnected.
 2. **Practice AP-Style MCQs:** 3 quick MCQs to warm up, peer-grade, discuss reasoning.
-3. **📝 UNIT 1 TEST:** Paper-based (even though it's a tech day — fairness). Covers all LO 1.1-1.5. 15 MCQ + 2 short answer.
+3. **📝 UNIT 1 TEST:** Paper-based (even though it's a tech day — fairness). Covers all LO 1.1-1.5. **40 MCQ + 3 free-response = 55 points.**
   - **Students may reference their PRs and Issues from the unit as a "portfolio of work" during the review portion, but not during the test.**
 
 **Materials:**
-- **Deck:** [Unit 1 Review & Test Deck](https://docs.google.com/presentation/d/1P9Ceq-olOio7-32uAwA5maVZ9WyYykno5tEMkQxEZO8/edit)
-- **Test:** Printed Unit 1 test papers (15 MCQ + 2 short answer, covers all LO 1.1–1.5)
+- **Review:** Kahoot — import `Review/U1-Kahoot-Import.xlsx` (14 questions pulled from the Unit 1 test bank). No slide deck for this period; the review runs Kahoot → whiteboard concept map → 3 practice MCQs → test. (Deck link corrected 2026-09-27: this previously pointed at the Topic 1.3 public-networks deck, which is not the review deck.)
+- **Test:** Printed Unit 1 test papers — **40 MCQ + 3 free-response, 55 points**, from [Unit 1 Test (Bank Version)](https://docs.google.com/document/d/1hVpos2P7Phbg_CpQVb5iL1Q3hyqRgeeOXr6v3gvy1YU/edit) (covers all LO 1.1–1.5)
 - **Review:** Student PRs and Issues from the unit (portfolio of work — reference allowed during review portion only)
 - **Equipment:** Whiteboard for concept map, printed test papers
+- **Answer key:** `AP Cybersecurity — Unit 1 Test (Bank Version) — Answer Key` in Drive (owner-only; do not attach or print with student papers)
 
 ---
 
