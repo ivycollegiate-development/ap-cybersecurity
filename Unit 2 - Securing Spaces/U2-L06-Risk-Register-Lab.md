@@ -7,7 +7,7 @@
 - 2.1.F Propose a control for a scored risk and recompute residual risk
 - 2.1.E Build a risk register that a third party could act on
 
-**Materials:** Slides, risk register template ([GDoc](https://docs.google.com/document/d/1Gw3Xa60zTpQIgZik17NBuQK-FMhtpDHg6X52PBNix2M/edit)), scenario brief ([GDoc](https://docs.google.com/document/d/1XE6ncP4VkZ3LPqaJw0zndRZf97nopI5gFu1RMDhu4zI/edit)), projector for the gallery walk
+**Materials:** Slides, risk register template ([GDoc](https://docs.google.com/document/d/10MbSe4Af18mXFv7EoqaxsAG9JM2q_i7p1dJtH8xXTYI/edit)), scenario brief (written on the register template, top section), projector for the gallery walk
 
 ---
 

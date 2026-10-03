@@ -6,7 +6,7 @@
 - 2.1.F Explain and compare the four risk treatment options — avoid, transfer, mitigate, accept
 - 2.1.E Justify a treatment choice for a specific scenario using likelihood, impact, and cost
 
-**Materials:** Slides, treatment-options reference sheet, six costed scenario handouts ([GDoc](https://docs.google.com/document/d/1Gw3Xa60zTpQIgZik17NBuQK-FMhtpDHg6X52PBNix2M/edit)), exit ticket slip
+**Materials:** Slides, treatment-options reference sheet, six costed scenario handouts ([GDoc](https://docs.google.com/document/d/1_JiDn4XJsZizncLnWlajyl0y1ISoTKP8ReatfBB4keg/edit)), exit ticket slip
 
 **No computers today.** Paper day — the scenario work happens on the handout.
 

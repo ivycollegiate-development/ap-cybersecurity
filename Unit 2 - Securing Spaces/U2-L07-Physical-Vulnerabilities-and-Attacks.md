@@ -7,7 +7,7 @@
 - 2.2.B Describe shoulder surfing and identify what makes a credential easy to capture
 - 2.2.C Compare social engineering at the door, card cloning, and lock picking as physical attack methods
 
-**Materials:** Slides, printed school floor plan (one per student, handed out at the door), tailgating security footage on the projector, attack-method reference card
+**Materials:** Slides, printed school floor plan ([GDoc](https://docs.google.com/document/d/1Dwlznkm8sA4xgN_qjHrFIy9NsCBnqX-RrSqkHx-3RGw/edit) — print one per student, handed out at the door), tailgating security footage on the projector, attack-method reference card
 
 **No computers today.** Paper day — the floor-plan activity is on the printed plan.
 

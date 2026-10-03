@@ -64,7 +64,7 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 
 | Period | Date | Day | Topic | Activity |
 |--------|------|-----|-------|----------|
-| P1 | 09/29 | Tue | 2.1 — Case Study: Colonial Pipeline Physical Breach | |
+| P1 | 09/29 | Tue | 2.1 — Case Study: ShinyHunters Breach of FBIjobs.gov | Taiwan Threat Brief opener. Read the case; sort claimed vs reporter-confirmed. Pairs map vulnerability -> exploit -> impact |
 | P2 | 09/30 | Wed | 2.1 — Phases of a Cyberattack | |
 | P3 | 10/01 | Thu | 2.1 — Risk Assessment | |
 | P4 | 10/02 | Fri | 2.1 — Defense in Depth | |

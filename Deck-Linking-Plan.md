@@ -35,31 +35,31 @@ Teaching-day rows -> JuiceMind section deck for that day's CED topic. Unit revie
 | 29 | 09/26/2026 | Saturday |  |  | — |
 | 30 | 09/27/2026 | Sunday |  |  | — |
 | 31 | 09/28/2026 | Monday | Unit 1 Review & Test | Debrief | https://docs.google.com/presentation/d/1sePBA9UbSXjF5veljyeCO_Qz3Qn6camAN-eJ-7ag00k/edit + https://docs.google.com/presentation/d/1uTy6g1DHpg69g_rouyw3zb3GqdL3aJ3UzgAEAtefeVA/edit + https://docs.google.com/presentation/d/1i6wZP8jUslj1UEVV9lXwY6u-ULSaOkfLK7VYa2_mOsE/edit + https://docs.google.com/presentation/d/1hrv0kIS36HrwCwvzFpfbXJB2JvLYXPQOgdkQ3AvPWWE/edit + https://docs.google.com/presentation/d/1nZt907faT7hM1Bz5Ilc8PY_iW5h4Zto17rOWbFmGox4/edit |
-| 32 | 09/29/2026 | Tuesday | Case Study: Colonial Pipeline Physical Breach | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
-| 33 | 09/30/2026 | Wednesday | 2.1 Cyber Foundations — Phases, Risk, Defense in Depth | Deck | https://docs.google.com/presentation/d/11ttJx-P9l_TYZGcG-WuztXdGCDKis0jzLUcc9k5peU4/edit |
-| 34 | 10/01/2026 | Thursday | Pre-Lab: Physical Security Audit Prep | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
-| 35 | 10/02/2026 | Friday | GITHUB LAB: Physical Security Audit Lab | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
+| 32 | 09/29/2026 | Tuesday | 2.1 Case Study: ShinyHunters Breach of FBIjobs.gov | Deck | https://docs.google.com/presentation/d/11ttJx-P9l_TYZGcG-WuztXdGCDKis0jzLUcc9k5peU4/edit |
+| 33 | 09/30/2026 | Wednesday | 2.1 Cyber Foundations — Phases of a Cyberattack | Deck | https://docs.google.com/presentation/d/11ttJx-P9l_TYZGcG-WuztXdGCDKis0jzLUcc9k5peU4/edit |
+| 34 | 10/01/2026 | Thursday | 2.1 Cyber Foundations — Risk Assessment | Deck | https://docs.google.com/presentation/d/11ttJx-P9l_TYZGcG-WuztXdGCDKis0jzLUcc9k5peU4/edit |
+| 35 | 10/02/2026 | Friday | 2.1 Cyber Foundations — Defense in Depth | Deck | https://docs.google.com/presentation/d/11ttJx-P9l_TYZGcG-WuztXdGCDKis0jzLUcc9k5peU4/edit |
 | 36 | 10/03/2026 | Saturday |  |  | — |
 | 37 | 10/04/2026 | Sunday |  |  | — |
-| 38 | 10/05/2026 | Monday | 2.1 Cyber Foundations — Attack Phases Deep Dive | Deck | https://docs.google.com/presentation/d/11ttJx-P9l_TYZGcG-WuztXdGCDKis0jzLUcc9k5peU4/edit |
-| 39 | 10/06/2026 | Tuesday | Peer Review: Physical Security Audit Findings | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
-| 40 | 10/07/2026 | Wednesday | 2.1 Cyber Foundations — Risk Management Strategies | Deck | https://docs.google.com/presentation/d/11ttJx-P9l_TYZGcG-WuztXdGCDKis0jzLUcc9k5peU4/edit |
-| 41 | 10/08/2026 | Thursday | Pre-Lab: Surveillance Detection Prep | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
-| 42 | 10/09/2026 | Friday | GITHUB LAB: Surveillance Detection Lab | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
+| 38 | 10/05/2026 | Monday | Flex / Catch-Up Day | Deck | https://docs.google.com/presentation/d/11ttJx-P9l_TYZGcG-WuztXdGCDKis0jzLUcc9k5peU4/edit |
+| 39 | 10/06/2026 | Tuesday | 2.1 Risk Management Options (avoid / transfer / mitigate / accept) | Deck | https://docs.google.com/presentation/d/11ttJx-P9l_TYZGcG-WuztXdGCDKis0jzLUcc9k5peU4/edit |
+| 40 | 10/07/2026 | Wednesday | 2.1 Lab: Risk Register | Deck | https://docs.google.com/presentation/d/11ttJx-P9l_TYZGcG-WuztXdGCDKis0jzLUcc9k5peU4/edit |
+| 41 | 10/08/2026 | Thursday | 2.2 Physical Vulnerabilities and Attacks | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
+| 42 | 10/09/2026 | Friday | 2.2 Physical Attack Case Studies (RSA / Snowden / Stuxnet / water utility) | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
 | 43 | 10/10/2026 | Saturday |  |  | — |
 | 44 | 10/11/2026 | Sunday |  |  | — |
-| 45 | 10/12/2026 | Monday | 2.1 Cyber Foundations — Defense in Depth Layers | Deck | https://docs.google.com/presentation/d/11ttJx-P9l_TYZGcG-WuztXdGCDKis0jzLUcc9k5peU4/edit |
-| 46 | 10/13/2026 | Tuesday | FRQ Walk-Through: Physical Security Scenario | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
-| 47 | 10/14/2026 | Wednesday | 2.2 Physical Vulnerabilities — Access Points & Surveillance | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
-| 48 | 10/15/2026 | Thursday | PSAT G11 (paper day — light) |  | — |
-| 49 | 10/16/2026 | Friday |  |  | — |
-| 50 | 10/17/2026 | Saturday | No Saturday class - Family Day |  | — |
+| 45 | 10/12/2026 | Monday | 2.3 Protecting Physical Spaces | Deck | https://docs.google.com/presentation/d/1t4aKcZrfY3_BbzWgOqNBK3H4Gh1mKy6ZAgDNW2hTgBY/edit |
+| 46 | 10/13/2026 | Tuesday | 2.3 Lab: Physical Security Audit | Deck | https://docs.google.com/presentation/d/1t4aKcZrfY3_BbzWgOqNBK3H4Gh1mKy6ZAgDNW2hTgBY/edit |
+| 47 | 10/14/2026 | Wednesday | 2.4 Video Surveillance and Access Logs | Deck | https://docs.google.com/presentation/d/1nVhBl7NkQ0BFHMQEsrEvyXl2hjMim9L5p37RVqjFkKI/edit |
+| 48 | 10/15/2026 | Thursday | 2.4 Detecting Physical Attacks: Log Analysis and Alerting | Deck | https://docs.google.com/presentation/d/1nVhBl7NkQ0BFHMQEsrEvyXl2hjMim9L5p37RVqjFkKI/edit |
+| 49 | 10/16/2026 | Friday | 2.4 Lab: Badge Log Analysis | Deck | https://docs.google.com/presentation/d/1nVhBl7NkQ0BFHMQEsrEvyXl2hjMim9L5p37RVqjFkKI/edit |
+| 50 | 10/17/2026 | Saturday |  |  | — |
 | 51 | 10/18/2026 | Sunday |  |  | — |
-| 52 | 10/19/2026 | Monday | 2.2 Physical Vulnerabilities — Social Engineering at the Door | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
-| 53 | 10/20/2026 | Tuesday | Threat Modeling: STRIDE on a Data Center | Deck | https://docs.google.com/presentation/d/11ttJx-P9l_TYZGcG-WuztXdGCDKis0jzLUcc9k5peU4/edit |
-| 54 | 10/21/2026 | Wednesday | 2.3 Protecting Physical Spaces — Locks, Badges, Biometrics | Deck | https://docs.google.com/presentation/d/1t4aKcZrfY3_BbzWgOqNBK3H4Gh1mKy6ZAgDNW2hTgBY/edit |
-| 55 | 10/22/2026 | Thursday | Current Event: Recent Physical Breach Analysis | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
-| 56 | 10/23/2026 | Friday | Flex / Catch-Up Day |  | — |
+| 52 | 10/19/2026 | Monday | 2.4 Video and Log Correlation | Deck | https://docs.google.com/presentation/d/1nVhBl7NkQ0BFHMQEsrEvyXl2hjMim9L5p37RVqjFkKI/edit |
+| 53 | 10/20/2026 | Tuesday | Mini-Project: Design |  | — |
+| 54 | 10/21/2026 | Wednesday | Mini-Project: Peer Review |  | — |
+| 55 | 10/22/2026 | Thursday | Mini-Project: Presentations |  | — |
+| 56 | 10/23/2026 | Friday | Unit 2 Review |  | — |
 | 57 | 10/24/2026 | Saturday |  |  | — |
 | 58 | 10/25/2026 | Sunday |  |  | — |
 | 59 | 10/26/2026 | Monday | 2.3 Protecting Physical Spaces — Environmental Controls | Deck | https://docs.google.com/presentation/d/1t4aKcZrfY3_BbzWgOqNBK3H4Gh1mKy6ZAgDNW2hTgBY/edit |

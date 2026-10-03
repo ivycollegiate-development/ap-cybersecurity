@@ -7,7 +7,7 @@
 - 2.2.C Identify the vulnerability the attacker exploited and why the existing control did not stop it
 - 2.3.A Recommend the specific control that would have prevented or limited the incident
 
-**Materials:** Slides, four case briefs in the class repo (`unit2/case-studies/`), case analysis worksheet ([GDoc](https://docs.google.com/document/d/1Gw3Xa60zTpQIgZik17NBuQK-FMhtpDHg6X52PBNix2M/edit)), projector
+**Materials:** Slides, four case briefs (see Links below), case analysis worksheet ([GDoc](https://docs.google.com/document/d/1IvJePzgR30GGa2j8JkJy6509BQjy9wbZ868UJAs3qUs/edit)), projector
 
 ---
 
@@ -37,6 +37,15 @@
    - **The physical layer is upstream of all of it.** No amount of network segmentation, in Stuxnet's case, mattered — the attacker started inside the boundary by being carried in.
 
    Close on this: every one of these four organizations had a security program. In each case the control that failed was one nobody had written down as a requirement.
+
+## Case briefs
+
+| Case | Brief |
+| ---- | ----- |
+| RSA SecurID, 2011 | https://docs.google.com/document/d/1-n-z1wJ7CTkXTZzhPsPdkTBqpO6OkZcnOA45lW9Q1t8/edit |
+| Snowden, 2013 | https://docs.google.com/document/d/1g54vPIR7OSqb0CdECxUzqMjZwwk8RyA05uLhJ6KSZ50/edit |
+| Stuxnet | https://docs.google.com/document/d/1Mh-tCBWW6JjHmPCZSAKkyzZxAw8jOGqXuvTTknvx6tQ/edit |
+| Taichung water utility | https://docs.google.com/document/d/1-uQYEU9FZI32nvqE5z5ubYq_SAB9R0TMM4X0ss0oDs0/edit |
 
 **Homework (due Mon 20:30 — Tuesday quiz):** Write a 150-word response: pick one of the four cases and describe the single most cost-effective control you would have added, with a cost estimate. Quiz is on the three FRQ questions — method, vulnerability, control.
 
