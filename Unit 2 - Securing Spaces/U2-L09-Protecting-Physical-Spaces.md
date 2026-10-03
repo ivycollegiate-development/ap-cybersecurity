@@ -7,7 +7,7 @@
 - 2.3.B Explain how CCTV coverage, placement, and retention length determine whether footage is usable
 - 2.3.C Describe environmental and monitoring controls including motion sensors, alarms, and UPS/generator backup
 
-**Materials:** Slides, control catalog handout with prices ([GDoc](https://docs.google.com/document/d/1Gw3Xa60zTpQIgZik17NBuQK-FMhtpDHg6X52PBNix2M/edit)), threat-to-control matching worksheet, CCTV placement floor plan from Friday
+**Materials:** Slides, control catalog handout with prices ([GDoc](https://docs.google.com/document/d/12joYKEnxOpqG7DaBxWmDZtUIt5K0EDo5fuL4NJUAP_w/edit)), threat-to-control matching worksheet, CCTV placement floor plan from Friday
 
 ---
 
