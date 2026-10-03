@@ -9,7 +9,7 @@
 - 2.3.C Assess environmental and monitoring gaps against typhoon and flood seasons
 - 2.4.A Identify what a badge or access log would and would not have recorded for a physical entry event
 
-**Materials:** Printed audit packet ([GDoc](https://docs.google.com/document/d/1FallBreakAuditSheet)), completed sample audit (2 pages, teacher's own apartment), physical security slides, requirement checklist board, Unit 2 study guide (start it today)
+**Materials:** Printed audit packet ([GDoc](https://docs.google.com/document/d/1LSbIVnQfXUF1G_CMDrupnsOVMXfeoS2nGGrHcsKFDns/edit)), completed sample audit (2 pages, teacher's own apartment), physical security slides, requirement checklist board, Unit 2 study guide (start it today)
 
 **No computers for the break work.** This assignment is paper only — notebook or the printed packet, pen, and your own eyes. No GitHub, no submissions, no tech during Fall Break. If you want to photograph your building, that is fine, but the write-up is by hand.
 

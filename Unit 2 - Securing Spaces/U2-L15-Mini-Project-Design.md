@@ -8,7 +8,7 @@
 - 2.3.C Include environmental and monitoring controls appropriate to the site
 - 2.4.C Define detection and alerting for each layer of the plan
 
-**Materials:** Slides, scenario brief ([GDoc](https://docs.google.com/document/d/1Vv7G8sVQ2fYt6pD3nJcR8wLxH0mNbAq5Ee4TrYpKzW/edit)), Google Slides template (team deck), cost table sheet, role assignment board, projector
+**Materials:** Slides, scenario brief ([GDoc](https://docs.google.com/document/d/1wC7delxjsSL8mR1jAqj-81Fce4w0sLZGWGoGiILBrU4/edit)), Google Slides template (team deck), cost table sheet, role assignment board, projector
 
 ---
 
