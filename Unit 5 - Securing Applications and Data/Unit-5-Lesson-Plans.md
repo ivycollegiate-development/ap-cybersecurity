@@ -206,6 +206,28 @@
 
 ---
 
+## Current Event — Software Supply Chain & AI-Code Trust (ArtCraft)
+
+**Calendar P22 · Mar 16 | LOs 2.A, 2.D**
+
+**Class size note:** this class has **3 students** — run the risk-register as a single group with explicit ownership (each student takes responsibility for at least two register lines; no line is decided by one person alone). Disputed items resolve into ONE agreed answer.
+
+**Materials:** slides, ArtCraft repo page, Unit 5 vocab bank (Topics 5.5 & 5.6). **Key Vocabulary:** application vulnerability, secure by design, security by default, accountability, radical transparency, ownership of customer security, integrity-only hash detection, file hash verification, hash baseline.
+
+> **⚠️ REMINDER — re-check current status before teaching.** All ArtCraft figures below were captured **Oct 10, 2026** — five months before this lesson. That is intentional: the frame of the lesson is that the project and the story are evolving. **Before giving this lesson, re-verify** (a) ArtCraft's current feature-parity / maturity (was ~86% Photoshop parity, ~65% pixel-perfect test files, AI ~5%, video ~zero, all self-assessed), (b) community/professional consensus, (c) any security audit, Vuln disclosure, or release process added since — and (d) whether the clean-room / legal status has been tested (untested as of Oct 10; Adobe silent). Update the [claimed]/[verified] and parity figures in the cards before running. If the project is dead or absorbed, pivot the same framework to the current best supply-chain/AI-code case.
+
+|| Time | Activity |
+||------|----------|
+|| 5 min | **Hook:** "A friend tells you Adobe's seven professional apps are now free — rebuilt in a weekend, posted to GitHub under an open license. It runs. Will you put it on your design-department machines? Answer in one sentence." **Do not reveal the project name yet.** |
+|| 10 min | **Direct instruction — the SolarWinds template:** Supply-chain attack definition — compromise of software you trust, delivered through the normal install/update path. Walk SolarWinds Orion (2020): trojanized update → backdoored app → credential harvesting → multiple victims. Anchor: the trusted vendor's update channel was the vector. |
+|| 15 min | **Case — ArtCraft, the AI-built Adobe rebuild:** Reveal the project. Frame as a second supply-chain scenario for the same analysis, but inverted — the danger is not an attacker inside a trusted vendor, but software with no audit and no provenance distributed to millions who assume it's safe. Present, each item tagged **[claimed]**/[**verified**]: (a) [claimed] clean-room reimplementation of seven Adobe apps in Rust, dual-licensed MIT/Apache-2.0; (b) [dev-claimed] built with AI coding agents (Claude Opus); (c) [self-assessed] ~86% Photoshop feature parity, ~65% of test files pixel-perfect, but AI ~5% and video ~zero; (d) [verified by reviewers] binaries distributed unsigned; (e) [claimed/unverified] "clean-room" method, Adobe's patents untested. **Risk-register (the bulk of this block):** single group — prompt "You're the CISO; your design dept wants to swap Creative Cloud for this. Risk-register it." Must cover at least: vendor lock-in / patent exposure, unsigned-binary risk (tie to file hash verification / hash baseline, Topic 5.6), no release/Vuln process, and AI-code provenance (can you audit code you didn't write and nobody reviewed?). Deliberately disputed line: is ArtCraft a supply-chain attack on par with SolarWinds, or a category of its own? |
+|| 10 min | **🇹🇼 Protected half — TSMC supply-chain FRQ (unchanged from scope approved Aug 26):** Standalone FRQ-style exercise on a separate sheet — students draft an FRQ response mapping a hypothetical semiconductor supply-chain attack scenario to CED topics. This Taiwan content is never mixed into the ArtCraft half. |
+|| 5 min | **Exit ticket** (per vocab bank template): pick three terms from 5.5/5.6 above and write one sentence each showing understanding. |
+
+**Teacher key notes (run WITH key):** Suggested register lines — (1) unsigned binaries → cannot verify integrity ⇒ file-hash verification vs a blockchain/known-good baseline, (2) no security release/Vuln process → detection gap ⇒ no CVE path, patch cadence unknown, (3) AI-generated, no human audit → provenance/code-trust gap ⇒ supply-chain honesty problem (secure by design vs. trust-by-vibe), (4) license/patent exposure → organizational risk ⇒ Adobe's patents untested in court (risk-analysis, not a ruling), (5) vendor lock-in inversion → migration is free now but lock-in risk if it matures. **Attribution:** clean-room and parity figures are contested/self-assessed — present as claims vs. verified, never asserted; the legal dimension is a risk-analysis angle. **Cross-refs:** SolarWinds also appears as the walkthrough example in Unit 2 (Phases of a Cyberattack); hash-detection concepts anchor to Topic 5.6 and Lesson 5.17 log analysis; secure-by-design family anchors to Topic 5.5. **Run:** this is a paper/current-event day with teacher-key in hand — run the disputed line to a single agreed answer, since there is one group.
+
+---
+
 ## Lesson 5.13 — Protecting Applications: Secure Coding
 
 **Period:** 87  |  **LOs:** 2.A, 2.D
