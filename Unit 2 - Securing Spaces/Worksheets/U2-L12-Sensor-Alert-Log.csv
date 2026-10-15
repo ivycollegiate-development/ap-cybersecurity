@@ -1,0 +1,76 @@
+timestamp,sensor_id,sensor_type,location,reading,status
+2026-10-10 06:00:00,SNS-DOOR-MAIN-E,door_contact,Main Entrance East,closed,normal
+2026-10-10 06:45:00,SNS-DOOR-MAIN-E,door_contact,Main Entrance East,open,alert
+2026-10-10 06:46:00,SNS-DOOR-MAIN-E,door_contact,Main Entrance East,closed,normal
+2026-10-10 07:15:00,SNS-DOOR-LOADING,door_contact,Loading Dock,open,alert
+2026-10-10 07:16:00,SNS-DOOR-LOADING,door_contact,Loading Dock,closed,normal
+2026-10-10 07:17:00,SNS-DOOR-LOADING,door_contact,Loading Dock,open,alert
+2026-10-10 07:18:00,SNS-DOOR-LOADING,door_contact,Loading Dock,closed,normal
+2026-10-10 08:05:00,SNS-DOOR-SERVER,door_contact,Server Room,open,alert
+2026-10-10 08:06:00,SNS-DOOR-SERVER,door_contact,Server Room,closed,normal
+2026-10-10 08:10:00,SNS-MOTION-SERVER,motion,Server Room,motion_detected,alert
+2026-10-10 08:15:00,SNS-DOOR-SERVER,door_contact,Server Room,open,alert
+2026-10-10 08:16:00,SNS-DOOR-SERVER,door_contact,Server Room,closed,normal
+2026-10-10 11:25:00,SNS-DOOR-LIB,door_contact,Library Entrance,open,alert
+2026-10-10 11:26:00,SNS-DOOR-LIB,door_contact,Library Entrance,closed,normal
+2026-10-10 14:40:00,SNS-DOOR-SCI-ANNEX,door_contact,Science Annex,open,alert
+2026-10-10 14:41:00,SNS-DOOR-SCI-ANNEX,door_contact,Science Annex,closed,normal
+2026-10-10 14:42:00,SNS-DOOR-SCI-ANNEX,door_contact,Science Annex,open,alert
+2026-10-10 14:43:00,SNS-DOOR-SCI-ANNEX,door_contact,Science Annex,closed,normal
+2026-10-10 14:44:00,SNS-DOOR-SCI-ANNEX,door_contact,Science Annex,open,alert
+2026-10-10 14:45:00,SNS-DOOR-SCI-ANNEX,door_contact,Science Annex,closed,normal
+2026-10-10 15:15:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:16:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:17:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:18:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:19:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:20:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:21:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:22:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:23:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:24:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:25:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:26:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:27:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:28:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:29:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:30:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:31:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:32:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:33:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:34:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:35:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:36:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:37:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:38:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:39:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:40:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:41:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:42:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:43:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:44:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:45:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:46:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:47:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:48:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:49:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:50:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:51:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:52:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:53:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:54:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:55:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:56:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:57:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 15:58:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 15:59:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,open,alert
+2026-10-10 16:00:00,SNS-STAIRWELL-E-DOOR,door_contact,East Stairwell,closed,normal
+2026-10-10 18:30:00,SNS-DOOR-MAIN-E,door_contact,Main Entrance East,open,alert
+2026-10-10 18:31:00,SNS-DOOR-MAIN-E,door_contact,Main Entrance East,closed,normal
+2026-10-10 22:05:00,SNS-DOOR-LOADING,door_contact,Loading Dock,open,alert
+2026-10-10 22:06:00,SNS-DOOR-LOADING,door_contact,Loading Dock,closed,normal
+2026-10-10 23:50:00,SNS-MOTION-SERVER,motion,Server Room,motion_detected,alert
+2026-10-11 00:25:00,SNS-STAIRWELL-E,door_contact,East Stairwell,open,alert
+2026-10-11 00:26:00,SNS-STAIRWELL-E,door_contact,East Stairwell,closed,normal
+2026-10-11 01:10:00,SNS-STAIRWELL-W,door_contact,West Stairwell,open,alert
+2026-10-11 01:11:00,SNS-STAIRWELL-W,door_contact,West Stairwell,closed,normal

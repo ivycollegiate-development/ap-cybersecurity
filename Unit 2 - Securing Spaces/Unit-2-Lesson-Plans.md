@@ -230,17 +230,23 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## U2 L12: Detecting Physical Attacks (Oct 15, Thu — PAPER DAY)
+## U2 L12: Detecting Physical Attacks — Insider Threat Case Study (Oct 15, Thu — PAPER DAY)
 
 **Period:** 22  |  **LOs:** 3.A, 3.B
 
-**Materials:** Sample logs ([GDoc](https://docs.google.com/document/d/17j4biu8_Pih7I8pZMv9zTLz2LE9wdfOpwgQGMyjc22M/edit)), slides, quiz ([GDoc](https://docs.google.com/document/d/1HL6y_AcsFBvXARysHSSOzyS1jmQI4VZyjjqPXU-DHhw/edit))
+**Materials:** Fireship Code Report video "OpenAI's lead engineer was secretly a spy..." (https://youtu.be/QZVzuq28eFw, play 0:00–3:50), case study worksheet (printed), slides, quiz ([GDoc](https://docs.google.com/document/d/1HL6y_AcsFBvXARysHSSOzyS1jmQI4VZyjjqPXU-DHhw/edit))
 
 **Activities:**
-1. **Hook (5 min):** "A badge was used 47 times in one day — normal?"
-2. **Direct instruction (15 min):** Detection methods — log analysis (badge, CCTV), motion sensor alerts, guard patrol reports, entry/exit reconciliation. Alert thresholds.
-3. **Activity — log review (20 min):** Given a week of badge access logs for **ICA's own building** (door locations include Main Entrance, Classroom Wing, IT Office, Server Room, Admin Office), find: (a) a tailgating pattern (two badges at same door <3 seconds apart), (b) a shared badge (simultaneous entries at physically distant doors), (c) an after-hours anomaly (entry after 9 PM for a door that has no night shift), (d) a door left propped open (multiple entries with no exit). Students annotate each finding with confidence level (high/medium/low) — just like a real SOC analyst flags alerts for review. Materials: [GDoc](https://docs.google.com/document/d/17j4biu8_Pih7I8pZMv9zTLz2LE9wdfOpwgQGMyjc22M/edit).
-4. **Exit ticket (5 min):** "What's one detection method that doesn't require any technology?"
+1. **Hook / Case Study Viewing (5 min):** Play Fireship video 0:00–3:50 (stops before sponsor). An OpenAI engineering lead plants a $23 Wi-Fi audio bug in the executive boardroom TV's USB port, wrapped in toilet paper. Lasts 48 hours.
+2. **Direct instruction (10 min):** Detection methods review — TSCM sweeps, log analysis (MAC addresses, DHCP), video surveillance correlation, guard patrol reports, entry/exit reconciliation. Alert thresholds. Frame: "Every detection method in this list is what caught him."
+3. **Activity — Detection Chain Reconstruction (20 min):** In pairs, students complete the printed worksheet mapping the real detection chain from the criminal complaint:
+   - **TSCM sweep** (routine) → found the device physically
+   - **MAC address in network logs** → tied to the device
+   - **Wife's ChatGPT history** → same MAC pasted two days earlier (OPSEC failure)
+   - **Security footage** → suspect at the door 6×
+   - **Covert camera** → caught him returning Oct 5
+   For each detection point, students identify: (a) which control caught it, (b) whether it was preventative/detective/corrective, (c) confidence level (high/medium/low), (d) what would have caught it *sooner*.
+4. **Exit ticket (5 min):** "The bug was physically obvious (toilet paper on a microcontroller). Why did it still take 48 hours and a routine sweep to find it? Name one control that would have detected it on Day 1."
 
 ---
 

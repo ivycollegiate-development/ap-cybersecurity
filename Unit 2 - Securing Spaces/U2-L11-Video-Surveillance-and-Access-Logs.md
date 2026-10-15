@@ -7,7 +7,7 @@
 - 2.4.A Interpret access log fields (timestamp, badge ID, door, direction, result) and state what each does and does not prove
 - 2.4.C Evaluate retention and storage policy as a security control with a legal and privacy cost
 
-**Materials:** Slides, printed floor plan (ICA main building, one per group), camera markers and tape, badge log extract (one week, 120 entries) in the `unit2-labs` Google Drive folder, projector
+**Materials:** Slides, printed floor plan (ICA main building, one per group — reference for choke-point discussion), badge log extract (one week, 120 entries) in the `unit2-labs` Google Drive folder, projector
 
 ---
 
@@ -29,11 +29,7 @@
 
    Add the Taiwan context: apartment buildings in Taichung share a network cabinet, a bike area, and often a single guard post. The choke points are the elevator lobby, the cabinet room, and the bike storage — and cameras in a shared building must survive tenants who do not control them.
 
-3. **Exercise A — place 8 cameras (15 min):** Each group gets the printed floor plan, a sheet of 8 numbered camera stickers, and 8 blank justification lines. Place all 8, then write one sentence per camera: **what it is for, and what would go undetected without it.**
-
-   Rules: no camera may be justified as "general coverage" or "deterrence" alone. If a group cannot name the specific event it prevents the investigator from never learning about, it is in the wrong place. Two groups swap floor plans and check the worst-positioned camera — the question is whether the justification survives someone else reading it.
-
-4. **Exercise B — a week of badge swipes (10 min):** Groups open the badge log extract in Sheets (or read the printed copy). Sort and filter to answer:
+3. **Exercise B — a week of badge swipes (10 min):** Groups open the badge log extract in Sheets (or read the printed copy). Sort and filter to answer:
    - Which door generated the most entries? (choke point check — does the camera plan cover it?)
    - How many entries are between 10 PM and 6 AM, and who are those people?
    - Does the log record *direction* — entry, exit, or just "credential presented"? What investigation does that missing field make impossible?
@@ -41,6 +37,6 @@
 
    Debrief the structural point: a badge log tells you a **credential** was presented, not that a **person** was there. That gap is where Friday's anomalies live.
 
-**Homework (due Fri 20:30 — Friday quiz):** Read the 2.4 lab handout for tomorrow. Bring one question about how you would analyze a log you have not seen.
+**Homework (due 23:59 — Friday quiz):** Read the 2.4 lab handout for tomorrow. Bring one question about how you would analyze a log you have not seen.
 
-**Differentiation / ELL support:** The floor plan is pre-numbered with the building's real zones (main hall, east wing, server closet, bike area, loading dock) so the argument is about placement, not about interpreting an unlabeled diagram. Camera marker and justification sheet are pre-structured one-per-line. Students who need a narrower task can be assigned the justification sentences for a group's already-placed cameras rather than placing all 8. Provide the log extract with a "sorted by time" default view so the analysis starts from organized data.
+**Differentiation / ELL support:** The floor plan is pre-numbered with the building's real zones (main hall, east wing, server closet, bike area, loading dock) so the argument is about placement, not about interpreting an unlabeled diagram. Provide the log extract with a "sorted by time" default view so the analysis starts from organized data.

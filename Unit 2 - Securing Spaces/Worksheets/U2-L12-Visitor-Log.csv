@@ -1,0 +1,20 @@
+timestamp,visitor_name,visitor_badge_id,host_name,host_badge_id,purpose,escort_required,escort_name,escort_badge_id,sign_in_time,sign_out_time
+2026-10-10 07:30:00,CHEN Wei-Lun,V-1001,WANG Mei-Ling,B-1042,Parent-teacher conference,Yes,WANG Mei-Ling,B-1042,07:30:00,08:45:00
+2026-10-10 08:15:00,LIN Yu-Chen,V-1002,HSU Chia-Hao,B-2015,Vendor - HVAC maintenance,Yes,HSU Chia-Hao,B-2015,08:15:00,11:30:00
+2026-10-10 08:45:00,WU Chien-Hung,V-1003,CHANG Ya-Ting,B-3008,Guest speaker - CS class,Yes,CHANG Ya-Ting,B-3008,08:45:00,10:15:00
+2026-10-10 09:00:00,HUANG Po-Chun,V-1004,LIU Chih-Wei,B-4012,Alumni visit,Yes,LIU Chih-Wei,B-4012,09:00:00,10:30:00
+2026-10-10 09:30:00,TSAI Hsin-Yi,V-1005,WANG Mei-Ling,B-1042,Parent volunteer,Yes,WANG Mei-Ling,B-1042,09:30:00,12:00:00
+2026-10-10 10:00:00,CHEN Wei-Lun,V-1006,HSU Chia-Hao,B-2015,Vendor - AV equipment,Yes,HSU Chia-Hao,B-2015,10:00:00,12:30:00
+2026-10-10 10:30:00,LIN Yu-Chen,V-1007,CHANG Ya-Ting,B-3008,College fair rep,Yes,CHANG Ya-Ting,B-3008,10:30:00,13:00:00
+2026-10-10 11:00:00,WU Chien-Hung,V-1008,LIU Chih-Wei,B-4012,Parent - college counseling,Yes,LIU Chih-Wei,B-4012,11:00:00,12:00:00
+2026-10-10 11:30:00,HUANG Po-Chun,V-1009,WANG Mei-Ling,B-1042,Vendor - food service,Yes,WANG Mei-Ling,B-1042,11:30:00,13:30:00
+2026-10-10 12:00:00,TSAI Hsin-Yi,V-1010,HSU Chia-Hao,B-2015,Guest lecturer,Yes,HSU Chia-Hao,B-2015,12:00:00,13:30:00
+2026-10-10 12:30:00,CHEN Wei-Lun,V-1011,CHANG Ya-Ting,B-3008,Alumni mentor,Yes,CHANG Ya-Ting,B-3008,12:30:00,14:00:00
+2026-10-10 13:00:00,LIN Yu-Chen,V-1012,LIU Chih-Wei,B-4012,Parent - PTA meeting,Yes,LIU Chih-Wei,B-4012,13:00:00,14:30:00
+2026-10-10 13:30:00,WU Chien-Hung,V-1013,WANG Mei-Ling,B-1042,Vendor - security audit,Yes,WANG Mei-Ling,B-1042,13:30:00,15:00:00
+2026-10-10 14:00:00,HUANG Po-Chun,V-1014,HSU Chia-Hao,B-2015,College rep,Yes,HSU Chia-Hao,B-2015,14:00:00,15:00:00
+2026-10-10 14:30:00,TSAI Hsin-Yi,V-1015,CHANG Ya-Ting,B-3008,Guest speaker,Yes,CHANG Ya-Ting,B-3008,14:30:00,15:30:00
+2026-10-10 15:00:00,CHEN Wei-Lun,V-1016,LIU Chih-Wei,B-4012,Parent pickup,Yes,LIU Chih-Wei,B-4012,15:00:00,15:15:00
+2026-10-10 15:30:00,SUSPECTED_INTRUDER,V-9999,UNKNOWN,HOST-UNKNOWN,UNKNOWN,Yes,ESCORT_LISTED,B-9999,15:30:00,
+2026-10-10 16:00:00,LIN Yu-Chen,V-1017,WANG Mei-Ling,B-1042,After-school program,Yes,WANG Mei-Ling,B-1042,16:00:00,17:30:00
+2026-10-10 16:30:00,WU Chien-Hung,V-1018,HSU Chia-Hao,B-2015,Vendor - IT support,Yes,HSU Chia-Hao,B-2015,16:30:00,18:00:00

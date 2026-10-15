@@ -1,0 +1,20 @@
+timestamp,camera_id,event_type,location,details
+2026-10-10 06:15:00,CAM-MAIN-EAST,motion,Main Entrance East,Person detected in foyer
+2026-10-10 06:45:00,CAM-MAIN-WEST,door_open,Main Entrance West,Door held open >30s
+2026-10-10 07:22:00,CAM-LOADING-DOCK,line_crossing,Loading Dock,Vehicle crossed loading zone line
+2026-10-10 07:23:00,CAM-LOADING-DOCK,line_crossing,Loading Dock,Vehicle crossed loading zone line
+2026-10-10 07:24:00,CAM-LOADING-DOCK,line_crossing,Loading Dock,Vehicle crossed loading zone line
+2026-10-10 08:10:00,CAM-SERVER-RM,motion,Server Room,Motion in secured area
+2026-10-10 08:11:00,CAM-SERVER-RM,door_open,Server Room,Server room door opened
+2026-10-10 08:12:00,CAM-SERVER-RM,motion,Server Room,Person detected at rack 3
+2026-10-10 08:15:00,CAM-SERVER-RM,door_open,Server Room,Server room door closed
+2026-10-10 11:30:00,CAM-LIB-ENTRY,motion,Library Entrance,Student traffic
+2026-10-10 12:00:00,CAM-CAFETERIA,loitering,Cafeteria,Group >5 persons >10min
+2026-10-10 14:45:00,CAM-SCI-ANNEX,door_open,Science Annex,Door propped open
+2026-10-10 15:20:00,CAM-LOADING-DOCK,line_crossing,Loading Dock,Person crossed loading zone line (NO SCHEDULED DELIVERY)
+2026-10-10 16:30:00,CAM-GYM,motion,Gym Entrance,After-hours access
+2026-10-10 18:45:00,CAM-MAIN-EAST,door_open,Main Entrance East,Door held open >30s
+2026-10-10 22:10:00,CAM-LOADING-DOCK,line_crossing,Loading Dock,Person crossed loading zone line (NO SCHEDULED DELIVERY)
+2026-10-10 23:55:00,CAM-SERVER-RM,motion,Server Room,Motion in secured area (after hours)
+2026-10-11 00:30:00,CAM-STAIRWELL-E,motion,East Stairwell,Motion detected
+2026-10-11 01:15:00,CAM-STAIRWELL-W,motion,West Stairwell,Motion detected

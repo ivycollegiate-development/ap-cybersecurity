@@ -1,10 +1,38 @@
 # Unit 4 — Securing Devices: Lesson Plans
 
-**~23 periods (Periods 56–76) | CED Topics 4.1–4.4 | Skills: Analyze (1.A, 1.B) · Mitigate (2.A, 2.B, 2.D) · Detect (3.A–3.D)**
+**~24 periods (Periods 55–77) | CED Topics 4.1–4.4 | Skills: Analyze (1.A, 1.B) · Mitigate (2.A, 2.B, 2.D) · Detect (3.A–3.D)**
 
-**🇹🇼 Taiwan Threat Brief format (recurring):** The unit opener (Lesson 4.1) starts with a 3-minute Taiwan-focused cyber threat brief — one current event, TWNCERT advisory, or iThome news item relevant to device security. Keeps threat awareness local and current across the unit.
+**🇹🇼 Taiwan Threat Brief format (recurring):** The unit opener (Lesson 4.0) starts with the France 2026 supermarket refrigeration hack case study (ICS/OT convergence failure). Lesson 4.1 follows with a 3-minute Taiwan-focused cyber threat brief — one current event, TWNCERT advisory, or iThome news item relevant to device security. Keeps threat awareness local and current across the unit.
 
 **🧩 Saturday CTF Alignment:** *Saturday sessions do not run in the fall — the CTF series runs in spring 2027 (Jan 16 – May 22); see Saturday-CTF-Sessions.md.* Sessions relevant to Unit 4: **Session 5 (May 1: Password cracking fundamentals)** connects to authentication and credential attacks on devices (4.1-4.3); **Session 8 (May 22: OWASP Juice Shop intro)** gives hands-on web-vuln experience that maps to device-level attack surfaces and the web-facing risks in 4.1-4.3. Sessions build the web security foundation Unit 5 fully leverages.
+
+---
+
+## Lesson 4.0 — Unit Opener: ICS/OT Case Study — Supermarket Refrigeration Hack (France, Aug 2026)
+
+**Period:** 55  |  **LOs:** 1.A, 1.B, 2.A, 2.B
+
+**Materials:** France 24 video (11:27, projector), viewing guide worksheet (printed), whiteboard
+
+**Video:** "Supermarket fridge cyberattacks due to lack of basic cybersecurity measures, expert says" — France 24 English (https://youtu.be/bQiF4mFss0A, 11:27). Interview with Marta Ribrisa (Egrei founder, OT security specialist) on the hack of hundreds of French supermarket cooling units. Hackers raised fridge temps to 50°C, destroyed € tens of thousands of stock, no ransom demanded → likely state reconnaissance.
+
+| Time | Activity |
+|------|----------|
+| 2 min | **Hook:** "Your grocery store's frozen aisle hits 50°C overnight. Everything thaws. Tens of thousands of euros lost. No ransom note. Who did it and why?" |
+| 12 min | **Watch:** Play France 24 segment (11:27). Students complete viewing guide: (a) What systems were targeted? (b) Why were they vulnerable? (c) What was the attacker's likely motive? (d) What basic hygiene would have prevented it? (e) What regulation is coming (EU)? |
+| 10 min | **Direct instruction — IT/OT convergence failure:** Map the incident to CED concepts: <br>• **Internet-exposed OT:** Refrigeration controllers (PLCs) on public IP for remote admin convenience <br>• **Unpatched firmware:** Known CVEs, years old, vendor patches existed but never applied <br>• **No segmentation:** Flat network — IT compromise = OT compromise <br>• **Vendor vs. operator responsibility:** Vendor provides patches; operator must schedule maintenance <br>• **EU policy response:** NIS2 Directive (critical infra), Cyber Resilience Act (Dec 2027) — vendors must deliver security updates free |
+| 10 min | **Discussion — "Too small to be attacked":** Expert quote: "Many vendors tell me: we are too small to be attacked. A local supermarket is not too small." Connect to Unit 2 risk: small operators = soft targets for reconnaissance. Supply-chain risk: same vulnerable controllers deployed at scale. |
+| 5 min | **Exit ticket:** "Name one basic security practice from the video that applies to ANY internet-connected device — not just industrial fridges." |
+
+**Viewing guide prompts (printed, one per student):**
+1. What specific OT systems were compromised? (Refrigeration temperature controllers / PLCs)
+2. How were they connected to the internet? (Remote administration — no on-site staff)
+3. What vulnerabilities existed? (Years-old firmware, known CVEs, unpatched)
+4. What was unusual about the attack? (No data theft, no ransom, temps raised to 50°C)
+5. What motive does the expert suggest? (State-sponsored reconnaissance / capability testing)
+6. What immediate mitigation did ANSSI (French CERT) publish? (Advisory: isolate, update, segment)
+7. What EU regulations are cited? (NIS2 Directive, Cyber Resilience Act — Dec 2027)
+8. Expert's top 3 consumer/operator actions: (a) Does this device need internet? (b) Update firmware. (c) Strong passwords + 2FA on remote access.
 
 ---
 

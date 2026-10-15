@@ -1,0 +1,144 @@
+timestamp,badge_id,door,direction,result
+2026-10-06 05:36:00,S0023,East Stairwell,exit,granted
+2026-10-06 06:35:00,S0013,Loading Dock,exit,granted
+2026-10-06 06:58:00,S0011,West Stairwell,exit,granted
+2026-10-06 09:08:00,S0022,East Stairwell,exit,denied
+2026-10-06 12:27:00,S0022,Server Room,exit,granted
+2026-10-06 14:34:00,S0028,Bike Storage,entry,granted
+2026-10-06 14:45:00,S0026,Bike Storage,exit,granted
+2026-10-06 16:34:00,S0028,Library Entrance,entry,granted
+2026-10-06 17:25:00,S0010,Bike Storage,entry,granted
+2026-10-06 18:51:00,S0028,East Stairwell,entry,denied
+2026-10-06 22:22:00,S0023,East Stairwell,entry,granted
+2026-10-07 00:04:00,S0007,Gym Entrance,exit,granted
+2026-10-07 00:33:00,S0022,Server Room,exit,granted
+2026-10-07 01:23:00,S0023,Main Entrance,entry,granted
+2026-10-07 01:48:00,S0001,Library Entrance,entry,granted
+2026-10-07 02:29:00,S0017,West Stairwell,exit,granted
+2026-10-07 02:32:00,S0029,West Stairwell,entry,granted
+2026-10-07 02:35:00,S0015,Cafeteria,entry,granted
+2026-10-07 03:09:00,S0023,Loading Dock,entry,granted
+2026-10-07 03:30:00,S0003,Library Entrance,entry,granted
+2026-10-07 03:55:00,S0017,Loading Dock,entry,granted
+2026-10-07 04:23:00,S0014,Gym Entrance,exit,granted
+2026-10-07 07:12:00,S0021,Admin Office,exit,granted
+2026-10-07 08:28:00,S0022,Admin Office,exit,granted
+2026-10-07 09:34:00,S0013,Loading Dock,exit,denied
+2026-10-07 10:17:00,S0029,West Stairwell,exit,granted
+2026-10-07 11:03:00,S0028,Loading Dock,entry,granted
+2026-10-07 11:13:00,S0024,Cafeteria,entry,granted
+2026-10-07 12:24:00,S0001,Loading Dock,entry,granted
+2026-10-07 13:29:00,S0029,Loading Dock,entry,granted
+2026-10-07 16:01:00,S0024,Loading Dock,exit,denied
+2026-10-07 16:20:00,S0005,Library Entrance,entry,granted
+2026-10-07 16:45:00,S0007,Admin Office,exit,denied
+2026-10-07 18:07:00,S0024,Gym Entrance,exit,granted
+2026-10-07 20:06:00,S0024,East Stairwell,entry,granted
+2026-10-07 20:07:00,S0008,Cafeteria,exit,denied
+2026-10-07 22:12:00,S0023,Main Entrance,entry,granted
+2026-10-07 23:11:00,S0008,Admin Office,entry,denied
+2026-10-07 23:38:00,S0029,Main Entrance,entry,granted
+2026-10-08 00:36:00,S0029,Loading Dock,exit,granted
+2026-10-08 01:41:00,S0026,Admin Office,entry,granted
+2026-10-08 02:22:00,S0026,West Stairwell,exit,granted
+2026-10-08 02:48:00,S0005,Loading Dock,exit,granted
+2026-10-08 03:24:00,S0014,Library Entrance,exit,granted
+2026-10-08 03:34:00,S0005,Loading Dock,exit,granted
+2026-10-08 03:53:00,S0017,Main Entrance,exit,granted
+2026-10-08 04:20:00,S0022,East Stairwell,exit,granted
+2026-10-08 05:31:00,S0020,Gym Entrance,exit,granted
+2026-10-08 06:58:00,S0024,Bike Storage,exit,denied
+2026-10-08 09:51:00,S0010,Server Room,entry,granted
+2026-10-08 10:19:00,S0007,Cafeteria,exit,granted
+2026-10-08 10:30:00,S0023,East Stairwell,entry,denied
+2026-10-08 12:17:00,S0023,Cafeteria,exit,granted
+2026-10-08 12:22:00,S0005,Main Entrance,entry,granted
+2026-10-08 13:46:00,S0022,Bike Storage,entry,granted
+2026-10-08 14:30:00,S0023,Server Room,entry,granted
+2026-10-08 14:32:00,S0023,Loading Dock,exit,granted
+2026-10-08 15:21:00,S0022,Server Room,entry,granted
+2026-10-08 15:23:00,S0014,Gym Entrance,exit,granted
+2026-10-08 17:45:00,S0006,Cafeteria,exit,granted
+2026-10-08 17:53:00,S0005,Cafeteria,exit,granted
+2026-10-08 20:13:00,S0025,Loading Dock,entry,granted
+2026-10-08 21:31:00,S0017,Gym Entrance,entry,granted
+2026-10-08 22:27:00,S0012,Loading Dock,entry,granted
+2026-10-08 22:59:00,S0009,Library Entrance,entry,granted
+2026-10-09 00:37:00,S0005,Main Entrance,entry,granted
+2026-10-09 00:50:00,S0006,Library Entrance,exit,granted
+2026-10-09 01:41:00,S0008,East Stairwell,exit,granted
+2026-10-09 01:45:00,S0009,West Stairwell,entry,granted
+2026-10-09 03:57:00,S0005,Main Entrance,exit,granted
+2026-10-09 04:46:00,S0025,Server Room,exit,granted
+2026-10-09 06:05:00,S0017,Library Entrance,exit,granted
+2026-10-09 06:29:00,S0002,East Stairwell,exit,granted
+2026-10-09 06:54:00,S0023,East Stairwell,entry,granted
+2026-10-09 10:04:00,S0028,East Stairwell,exit,granted
+2026-10-09 10:56:00,S0020,Server Room,exit,granted
+2026-10-09 11:49:00,S0006,Library Entrance,exit,granted
+2026-10-09 17:58:00,S0008,Main Entrance,entry,granted
+2026-10-09 19:39:00,S0014,Gym Entrance,entry,granted
+2026-10-09 22:15:00,S9999,Server Room,entry,denied
+2026-10-09 22:18:00,S9999,Server Room,entry,denied
+2026-10-09 22:21:00,S9999,Server Room,entry,denied
+2026-10-09 22:24:00,S9999,Server Room,entry,denied
+2026-10-09 22:27:00,S9999,Server Room,entry,denied
+2026-10-09 22:30:00,S0016,Main Entrance,entry,granted
+2026-10-10 01:31:00,S0003,Server Room,exit,granted
+2026-10-10 01:42:00,S0011,Cafeteria,entry,granted
+2026-10-10 01:54:00,S0004,East Stairwell,exit,granted
+2026-10-10 02:53:00,S0004,Loading Dock,exit,granted
+2026-10-10 03:07:00,S0017,East Stairwell,entry,granted
+2026-10-10 05:18:00,S0029,East Stairwell,entry,granted
+2026-10-10 08:01:00,S0028,Bike Storage,exit,granted
+2026-10-10 09:37:00,S0006,Bike Storage,exit,granted
+2026-10-10 11:58:00,S0015,Cafeteria,exit,granted
+2026-10-10 12:06:00,S0025,West Stairwell,entry,granted
+2026-10-10 14:12:00,S0020,Library Entrance,exit,granted
+2026-10-10 18:04:00,S0005,Loading Dock,exit,granted
+2026-10-10 19:30:00,S0029,Main Entrance,entry,granted
+2026-10-10 19:56:00,S0024,Bike Storage,entry,granted
+2026-10-10 21:31:00,S0011,Admin Office,exit,granted
+2026-10-10 22:15:00,S0015,Main Entrance,entry,granted
+2026-10-10 23:34:00,S0012,Main Entrance,exit,granted
+2026-10-11 01:12:00,S0002,Main Entrance,entry,granted
+2026-10-11 01:12:00,S0006,Loading Dock,exit,granted
+2026-10-11 01:24:00,S0011,Loading Dock,entry,granted
+2026-10-11 01:30:00,S0023,Cafeteria,exit,granted
+2026-10-11 03:46:00,S0003,Bike Storage,exit,denied
+2026-10-11 05:04:00,S0001,Cafeteria,entry,granted
+2026-10-11 06:38:00,S0015,Server Room,exit,denied
+2026-10-11 06:39:00,S0018,Admin Office,entry,granted
+2026-10-11 07:45:00,S0029,West Stairwell,exit,granted
+2026-10-11 08:39:00,S0019,Loading Dock,entry,granted
+2026-10-11 09:53:00,S0001,Loading Dock,entry,granted
+2026-10-11 11:27:00,S0018,East Stairwell,exit,granted
+2026-10-11 11:41:00,S0012,Loading Dock,entry,granted
+2026-10-11 12:52:00,S0022,Cafeteria,exit,granted
+2026-10-11 15:09:00,S0026,Admin Office,entry,granted
+2026-10-11 15:44:00,S0020,East Stairwell,exit,granted
+2026-10-11 18:19:00,S0021,Server Room,exit,granted
+2026-10-11 22:19:00,S0013,Library Entrance,entry,granted
+2026-10-11 23:51:00,S0012,Loading Dock,entry,granted
+2026-10-12 00:40:00,S0003,West Stairwell,entry,granted
+2026-10-12 01:06:00,S0013,Cafeteria,exit,granted
+2026-10-12 05:40:00,S0029,East Stairwell,entry,granted
+2026-10-12 06:05:00,S0028,Gym Entrance,exit,granted
+2026-10-12 06:26:00,S0001,Cafeteria,exit,denied
+2026-10-12 08:48:00,S0007,Cafeteria,exit,granted
+2026-10-12 09:15:00,S0025,Server Room,exit,granted
+2026-10-12 09:36:00,S0027,Main Entrance,entry,granted
+2026-10-12 10:03:00,S0002,Bike Storage,entry,granted
+2026-10-12 11:37:00,S0027,Main Entrance,exit,granted
+2026-10-12 12:44:00,S0010,Gym Entrance,exit,granted
+2026-10-12 14:05:00,S0008,Bike Storage,entry,granted
+2026-10-12 14:12:00,S0008,East Stairwell,exit,granted
+2026-10-12 14:53:00,S0029,Admin Office,entry,granted
+2026-10-12 17:33:00,S0008,Gym Entrance,entry,granted
+2026-10-12 19:11:00,S0007,Admin Office,exit,granted
+2026-10-12 19:26:00,S0007,Loading Dock,entry,denied
+2026-10-12 21:03:00,S0018,West Stairwell,exit,granted
+2026-10-12 21:31:00,S0016,Cafeteria,entry,granted
+2026-10-12 21:37:00,S0014,Gym Entrance,exit,granted
+2026-10-12 22:38:00,S0018,Server Room,entry,granted
+2026-10-13 05:17:00,S0027,Cafeteria,exit,granted

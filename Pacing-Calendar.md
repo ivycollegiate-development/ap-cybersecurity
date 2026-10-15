@@ -133,36 +133,36 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 
 ---
 
-## Unit 4: Securing Devices (23 periods)
+## Unit 4: Securing Devices (24 periods)
 
-*Starts Dec 14 (4 pre-break days) to keep Unit 4 at CED after midterms eat Jan 18-21. Winter Break: Dec 18 - Jan 3.*
+*Starts Dec 14 (4 pre-break days) to keep Unit 4 at CED after midterms eat Jan 18-21. Winter Break: Dec 18 - Jan 3. **Added 1 period:** France 2026 supermarket refrigeration hack case study (ICS/OT) opens the unit on Dec 14.*
 
 | Period | Date | Day | Topic | Activity |
 |--------|------|-----|-------|----------|
-| P1 | Dec 14 | Mon | 4.1 Device Vulnerabilities — What Counts as a Computing Device? | Direct instruction + guided notes. ⚡ HW quiz opens |
-| P2 | Dec 15 | Tue | 📄 Case Study: Stuxnet — Device-Level Attack | Map attack chain, device vulns, consumer device discussion |
-| P3 | Dec 16 | Wed | 4.1 Device Vulnerabilities — Types of Malware | Direct instruction + guided notes |
-| P4 | Dec 17 | Thu | 📄 Threat Modeling: Personal Device Attack Surface | List own devices, attack surface, risk ranking, pair-share |
-| P5 | Jan 4 | Mon | 4.1 Device Vulnerabilities — How Adversaries Exploit Devices | ⚡ Quiz on Winter Break assignment. Direct instruction + guided notes |
-| P6 | Jan 5 | Tue | 📄 Pre-Lab: Authentication Bypass Lab Prep | Auth factors, predict weakest methods, key terms (MFA, OAuth) |
-| P7 | Jan 6 | Wed | 4.2 Authentication — Passwords, MFA, Biometrics | Direct instruction + guided notes |
-| P8 | Jan 7 | Thu | 📄 Vocabulary Drill + Concept Map: 4.1-4.2 Terms | Notecard drill + malware taxonomy whiteboard *(fixed: APSI had peer review here before its lab ran)* |
-| P9 | Jan 8 | Fri | 🐙 GITHUB LAB: Auth Bypass Lab | fork → Codespaces → submit → pair-share (peer review of findings in pair-share) |
-| P10 | Jan 11 | Mon | 4.2 Authentication — Certificate-Based & Token Auth | Direct instruction + guided notes |
-| P11 | Jan 12 | Tue | 📄 Pre-Lab: Device Hardening Workshop Prep | Hardening techniques, predict biggest impact, key terms |
-| P12 | Jan 13 | Wed | 4.3 Protecting Devices — Hardening, Patching, Encryption | Direct instruction + guided notes |
-| P13 | Jan 14 | Thu | 📄 FRQ Walk-Through: Stolen Laptop Scenario | 3-part FRQ (4.1/4.2/4.3), peer-score |
-| P14 | Jan 15 | Fri | 🐙 GITHUB LAB: Device Hardening Workshop | fork → Codespaces → submit → pair-share |
-| — | Jan 18-21 | Mon-Thu | **Midterm Exams — no AP Cyber class** | |
-| P15 | Jan 22 | Fri | 🐙 GITHUB LAB: Host IDS Lab | fork → Codespaces → submit → pair-share |
-| P16 | Jan 25 | Mon | 4.4 Detecting Attacks on Devices — Antivirus, EDR, HIDS | Direct instruction + guided notes |
-| P17 | Jan 26 | Tue | 📄 Current Event: Recent Ransomware Attack Analysis | CED framework, ransom-payment debate |
-| P18 | Jan 27 | Wed | 🔄 Flex / Catch-Up Day | Buffer |
-| P19 | Jan 28 | Thu | 📄 Mock MCQ Sprint: Unit 4 Review | 5 timed MCQs, peer-grade, self-assessment, midterm Q&A |
-| **P20** | **Jan 29** | **Fri** | **📝 UNIT 4 TEST** | Paper-based, all 4.1-4.4 LOs (converted from flex) |
-| P21 | Feb 1 | Mon | 🔄 Flex / Catch-Up Day | Buffer |
-| P22 | Feb 2 | Tue | 📄 Vocabulary Drill: Device Security Terms | Notecard drill, term triangle, malware taxonomy |
-| P23 | Feb 3 | Wed | 🔄 Flex / Catch-Up Day [HALF-DAY] | CNY dismissal @12:30 |
+| P1 | Dec 14 | Mon | 📄 Case Study: France Supermarket Refrigeration Hack (ICS/OT) | Watch France 24 segment (11:27), viewing guide, IT/OT convergence failure discussion |
+| P2 | Dec 15 | Tue | 4.1 Device Vulnerabilities — What Counts as a Computing Device? | Direct instruction + guided notes. ⚡ HW quiz opens |
+| P3 | Dec 16 | Wed | 📄 Case Study: Stuxnet — Device-Level Attack | Map attack chain, device vulns, consumer device discussion |
+| P4 | Dec 17 | Thu | 4.1 Device Vulnerabilities — Types of Malware | Direct instruction + guided notes |
+| P5 | Jan 4 | Mon | 📄 Threat Modeling: Personal Device Attack Surface | List own devices, attack surface, risk ranking, pair-share |
+| P6 | Jan 5 | Tue | 4.1 Device Vulnerabilities — How Adversaries Exploit Devices | ⚡ Quiz on Winter Break assignment. Direct instruction + guided notes |
+| P7 | Jan 6 | Wed | 📄 Pre-Lab: Authentication Bypass Lab Prep | Auth factors, predict weakest methods, key terms (MFA, OAuth) |
+| P8 | Jan 7 | Thu | 4.2 Authentication — Passwords, MFA, Biometrics | Direct instruction + guided notes |
+| P9 | Jan 8 | Fri | 📄 Vocabulary Drill + Concept Map: 4.1-4.2 Terms | Notecard drill + malware taxonomy whiteboard *(fixed: APSI had peer review here before its lab ran)* |
+| P10 | Jan 11 | Mon | 🐙 GITHUB LAB: Auth Bypass Lab | fork → Codespaces → submit → pair-share (peer review of findings in pair-share) |
+| P11 | Jan 12 | Tue | 4.2 Authentication — Certificate-Based & Token Auth | Direct instruction + guided notes |
+| P12 | Jan 13 | Wed | 📄 Pre-Lab: Device Hardening Workshop Prep | Hardening techniques, predict biggest impact, key terms |
+| P13 | Jan 14 | Thu | 4.3 Protecting Devices — Hardening, Patching, Encryption | Direct instruction + guided notes |
+| P14 | Jan 15 | Fri | 📄 FRQ Walk-Through: Stolen Laptop Scenario | 3-part FRQ (4.1/4.2/4.3), peer-score |
+| P15 | Jan 18-21 | Mon-Thu | **Midterm Exams — no AP Cyber class** | |
+| P16 | Jan 22 | Fri | 🐙 GITHUB LAB: Device Hardening Workshop | fork → Codespaces → submit → pair-share |
+| P17 | Jan 25 | Mon | 4.4 Detecting Attacks on Devices — Antivirus, EDR, HIDS | Direct instruction + guided notes |
+| P18 | Jan 26 | Tue | 📄 Current Event: Recent Ransomware Attack Analysis | CED framework, ransom-payment debate |
+| P19 | Jan 27 | Wed | 🔄 Flex / Catch-Up Day | Buffer |
+| P20 | Jan 28 | Thu | 📄 Mock MCQ Sprint: Unit 4 Review | 5 timed MCQs, peer-grade, self-assessment, midterm Q&A |
+| **P21** | **Jan 29** | **Fri** | **📝 UNIT 4 TEST** | Paper-based, all 4.1-4.4 LOs (converted from flex) |
+| P22 | Feb 1 | Mon | 🔄 Flex / Catch-Up Day | Buffer |
+| P23 | Feb 2 | Tue | 📄 Vocabulary Drill: Device Security Terms | Notecard drill, term triangle, malware taxonomy |
+| P24 | Feb 3 | Wed | 🔄 Flex / Catch-Up Day [HALF-DAY] | CNY dismissal @12:30 |
 
 **🧧 CNY Break: Feb 4-14.** Assignment: Device hardening checklist + Unit 5 pre-read.
 

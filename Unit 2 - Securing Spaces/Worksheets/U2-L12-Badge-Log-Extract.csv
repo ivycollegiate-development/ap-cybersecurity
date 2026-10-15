@@ -1,0 +1,14 @@
+timestamp,badge_id,door,direction,result
+2026-10-10 06:00:00,S0023,Main Entrance East,entry,granted
+2026-10-10 06:00:40,S0023,Main Entrance East,entry,granted
+2026-10-10 09:15:00,S0023,Loading Dock,entry,granted
+2026-10-10 12:30:00,S0017,Server Room,entry,granted
+2026-10-10 14:22:00,S0017,East Stairwell,entry,granted
+2026-10-10 15:45:00,S0029,Main Entrance West,entry,granted
+2026-10-10 16:10:00,S0005,Library Entrance,entry,granted
+2026-10-10 18:30:00,S0011,Science Annex,entry,granted
+2026-10-10 22:10:00,S0012,Loading Dock,entry,granted
+2026-10-10 23:45:00,S0017,East Stairwell,entry,granted
+2026-10-11 01:22:00,S0009,West Stairwell,entry,granted
+2026-10-11 02:55:00,S0004,Loading Dock,entry,granted
+2026-10-11 03:07:00,S0017,East Stairwell,entry,granted
