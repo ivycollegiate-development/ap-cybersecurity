@@ -7,7 +7,7 @@
 - 2.4.A Detect four specific attack classes: shared badges, tailgating, failed-then-success attempts, after-hours access
 - 2.4.C Evaluate detection output and distinguish a real signal from a false positive
 
-**Materials:** VS Code connected to the class server (`code-server` at `vscode.ivycollegiate.org` — log in with your school account), repo `ap-cyber/unit2-labs`, file `badge_log.csv` (~500 entries, 5 doors, 3 weeks), starter file `badge_analysis.py`, slides
+**Materials:** VS Code connected to the class server (`code-server` at `vscode.ivycollegiate.org` — log in with your school account), repo **`ivycollegiate-development/apcyber-u2-badge-log-analysis-lab`**, files `badge_log.csv` (~500 entries, 5 doors, 3 weeks) and starter `badge_analysis.py`, slides
 
 **Environment note:** the server has Python 3.11 with **pandas** preinstalled. Use pandas. Run everything in the terminal panel (`python3 badge_analysis.py`), not in a notebook — you want to see the script fail and fix it. `git pull` first, always.
 
@@ -33,7 +33,7 @@
    - `timestamp` is a string until you tell pandas it is a timestamp. Everything downstream depends on it.
    - A `granted` event does not mean someone walked through. It means a credential was accepted. Keep that assumption in mind for task 1.
 
-3. **Four detections (24 min):** Work through the tasks in the starter file, which has the CSV load and a helper for pairwise time gaps already written. Each task has a comment block with the question it answers.
+3. **Four detections (24 min):** Work through the four `# TODO` functions in the starter file, which already has the CSV load, the sort, `TRAVEL_SECONDS`/`DOOR_ZONE`, and a comment block per task stating the question and the required output columns.
 
    **Task 1 — Shared badges (simultaneous use at distant doors).** One credential used at two doors that are far apart, within a time window too short to walk between them. Output the badge, both doors, both timestamps, and the gap in seconds. Then look at how many hits come back. Most groups get a handful — but check whether some of those are legitimately a person who walked. Decide: which hits are you reporting, and why is the rest noise?
 
@@ -132,4 +132,4 @@
 
 **Homework (due Mon 20:30 — Monday quiz):** Finish all four tasks and save your results to `results_task1.csv` … `results_task4.csv` in the repo. Read the correlation evidence packet structure before Monday — you will be reconstructing a timeline from four sources, which is the version of this skill that shows up on the test.
 
-**Differentiation / ELL support:** The starter file supplies the CSV load, the sort, the zone map, and a working function per task with the bugs already removed — groups modify and extend rather than writing from scratch, which puts the cognitive load on the detection logic where it belongs. `zone_distance.txt` in the repo has a rough door-to-door walk time table if a group wants to replace the zone map with real distances. Students who need a narrower target can run tasks 1 and 4 only; tasks 2 and 3 are the ones where the pandas idiom is hardest. A finished output example for task 4 is in the repo as `example_task4_output.csv` for students who need to see the target shape. The debrief questions work well in pairs before the whole-group report.
+**Differentiation / ELL support:** The starter file supplies the CSV load, the sort, the zone map, and the four function signatures with comment blocks — groups implement the detection logic rather than writing from scratch, which puts the cognitive load on the reasoning where it belongs. Students who need a narrower target can run tasks 1 and 4 only; tasks 2 and 3 are the ones where the pandas idiom is hardest. The debrief questions work well in pairs before the whole-group report. **Note:** the repo intentionally includes `SOLUTIONS.md` (expected findings with false-positive analysis) — students should attempt all four tasks before opening it.
