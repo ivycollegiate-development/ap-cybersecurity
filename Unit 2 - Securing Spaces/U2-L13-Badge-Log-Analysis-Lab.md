@@ -4,22 +4,20 @@
 
 **Learning Objectives:**
 - 2.4.A Analyze a multi-hundred-entry access log programmatically to identify anomalous access patterns
-- 2.4.A Detect four specific attack classes: shared badges, tailgating, failed-then-success attempts, after-hours access
+- 2.4.A Run and interpret four detection rules: shared badges, tailgating, failed-then-success attempts, after-hours access
 - 2.4.C Evaluate detection output and distinguish a real signal from a false positive
 
-**Materials:** VS Code connected to the class server (`code-server` at `vscode.ivycollegiate.org` — log in with your school account), repo **`ivycollegiate-development/apcyber-u2-badge-log-analysis-lab`**, files `badge_log.csv` (~500 entries, 5 doors, 3 weeks) and starter `badge_analysis.py`, slides
+**Materials:** VS Code connected to the class server (`code-server` at `vscode.ivycollegiate.org` — log in with your school account), repo **`ivycollegiate-development/apcyber-u2-badge-log-analysis-lab`**, files `badge_log.csv` (**834 events, 60 badges, 5 doors, 15 school days**), the four detections in `badge_analysis.py`, `evidence_packet_template.md`, slides
 
-**Environment note:** the server has Python 3.11 with **pandas** preinstalled. Use pandas. Run everything in the terminal panel (`python3 badge_analysis.py`), not in a notebook — you want to see the script fail and fix it. `git pull` first, always.
+**Environment note:** the server has Python 3.11 with **pandas** preinstalled. **Students do not write code in this lab — the four detections are already written.** They run it in the terminal panel (`python3 badge_analysis.py`), not in a notebook, so they watch the four CSVs land on disk. `git pull` first, always.
 
 ---
 
 ## Activities
 
-1. **Hook (5 min):** Board the raw number: **~500 badge events across 5 doors over 15 school days.** Ask how long it takes to read that by eye at the rate of a security operator at 3 AM. Then ask what four things they would be looking for. That is the lab.
+1. **Hook (5 min):** Board the raw number: **834 badge events across 5 doors over 15 school days.** Ask how long it takes to read that by eye at the rate of a security operator at 3 AM — then ask what four things they would look for. That list is what a detection rule *is*: a question precise enough that a machine can answer it. Today they run four of those questions over the whole log, and the grade is on what they make of the answers.
 
-   Emphasize the framing: you are not hunting for a single event. You are writing **detection rules** — and the rules you write are what an automated monitoring system would run at scale. If you cannot express the check in code, nobody downstream can run it either.
-
-2. **Starter code walkthrough (8 min):** Project the schema. Four columns, all strings, no index column:
+2. **Read the script (8 min):** Project the schema. Four columns, all strings, no index column:
 
    ```
    timestamp, badge_id, door, result
@@ -28,108 +26,31 @@
 
    `result` is `granted` or `denied`. `door` is one of `MAIN-EAST`, `MAIN-WEST`, `LIB-ENTRY`, `SCI-ANNEX`, `SERVER-RM`. Timestamps are ISO local, 24-hour, no timezone.
 
-   Walk the three lines that always break a first script:
-   - The file is **not sorted by time.** Sort it first, or every windowing calculation is wrong. This is the bug that costs the most time in this lab.
+   Then walk the lines that make the script work, because reading them is how students learn what the output can and cannot tell them:
+   - The file is **not sorted by time.** The script sorts it on load. Every windowing calculation depends on that line.
    - `timestamp` is a string until you tell pandas it is a timestamp. Everything downstream depends on it.
-   - A `granted` event does not mean someone walked through. It means a credential was accepted. Keep that assumption in mind for task 1.
+   - A `granted` event does not mean someone walked through. It means a credential was accepted. That distinction is the whole of task 1.
 
-3. **Four detections (24 min):** Work through the four `# TODO` functions in the starter file, which already has the CSV load, the sort, `TRAVEL_SECONDS`/`DOOR_ZONE`, and a comment block per task stating the question and the required output columns.
+   Point out the two judgement calls sitting in the file — `TRAVEL_SECONDS = 240` and `gap_seconds=15` — and ask the room what would change if they moved. Nobody is writing these rules today, so the argument about thresholds replaces the argument about syntax, and that is the better argument.
 
-   **Task 1 — Shared badges (simultaneous use at distant doors).** One credential used at two doors that are far apart, within a time window too short to walk between them. Output the badge, both doors, both timestamps, and the gap in seconds. Then look at how many hits come back. Most groups get a handful — but check whether some of those are legitimately a person who walked. Decide: which hits are you reporting, and why is the rest noise?
+3. **Run the four detections and read the output (24 min):** Students run the script and read the four CSVs. The script works from a clean clone, so anything broken is an environment problem (`git pull`, wrong folder), not a code problem — solve those fast and keep the room on the output. **The row counts are not published anywhere: they come from the students' own run.** Circulate and raise the one thing per task:
 
-   ```python
-   import pandas as pd
+   **Task 1 — Shared badges.** One credential at two doors far enough apart that the gap between them is too short to walk. Ask how many hits came back and whether each one is really a second person. The line to repeat: *a `granted` is a credential, not a body.* Also note the shape the rule is blind to — it compares one badge's own events, so a sequence spread across four different doors inside a minute is not a shared badge, it is a different question.
 
-   log = pd.read_csv("badge_log.csv", parse_dates=["timestamp"])
-   log = log.sort_values("timestamp").reset_index(drop=True)
+   **Task 2 — Tailgating.** Bursts of `granted` events seconds apart at the same reader. Each extra event in a burst is one credential plus one person who did not badge. Ask what the rule does with three *different* badges at one door inside 30 seconds, and then ask whether the 15-second threshold is defensible. It is the clearest example of a rule that finds something and still misses the interesting thing.
 
-   # distance in seconds between the two ends of each building
-   TRAVEL_SECONDS = 240
-   DOOR_ZONE = {"MAIN-EAST": "A", "MAIN-WEST": "A", "LIB-ENTRY": "B",
-                "SCI-ANNEX": "C", "SERVER-RM": "D"}
+   **Task 3 — Failed then success.** This is where alert fatigue becomes visible on the board. The rule returns a long list of hits and **one column** — `prior_denials` — separates the rows worth acting on from the rest. Ask them which value of that column they would wake someone at 3 AM for, and why. One denial then a success is a fumbled door code; it happens to everyone every week. Three or four in a row followed by a success is somebody working out which badge works where.
 
-   def shared_badges(df, window_minutes=5):
-       hits = []
-       for badge, grp in df.groupby("badge_id"):
-           rows = grp.to_dict("records")
-           for i, a in enumerate(rows):
-               for b in rows[i + 1:]:
-                   gap = (b["timestamp"] - a["timestamp"]).total_seconds()
-                   if gap > window_minutes * 60:
-                       break
-                   if a["door"] == b["door"]:
-                       continue
-                   if DOOR_ZONE[a["door"]] == DOOR_ZONE[b["door"]]:
-                       continue
-                   if gap < TRAVEL_SECONDS:
-                       hits.append({"badge_id": badge, "door_a": a["door"],
-                                    "ts_a": a["timestamp"], "door_b": b["door"],
-                                    "ts_b": b["timestamp"], "gap_seconds": int(gap)})
-       return pd.DataFrame(hits)
-   ```
+   **Task 4 — After-hours access.** The code is trivial; the judgement is not. The list includes the legitimate overnight population — cleaners, the guard's patrol sweep, staff with known early or late schedules. Subtract the known-benign and report what is left. Make them do the subtraction visibly, so the debrief can talk about it.
 
-   `DOOR_ZONE` is the key idea: a shared badge means the *same credential* at *two places*, so you need a notion of which doors are far apart. Supplying the zone map is a scaffolding decision — a group that argues about it is arguing about the right thing, so let them.
-
-   **Task 2 — Tailgating (rapid successive entries).** Successive granted events within a few seconds of each other at the *same* reader, with only one credential. Each pair is a credential plus an unlogged person. Output the reader, the times, and the count of events in each burst. Bursts of 3+ at a server room or staff entrance are the ones worth reading out.
-
-   ```python
-   def tailgating(df, gap_seconds=10):
-       hits = []
-       for door, grp in df[df["result"] == "granted"].groupby("door"):
-           rows = grp.to_dict("records")
-           burst = [rows[0]] if rows else []
-           for prev, cur in zip(rows, rows[1:]):  # consecutive granted events
-               if (cur["timestamp"] - prev["timestamp"]).total_seconds() <= gap_seconds:
-                   burst.append(cur)
-               else:
-                   if len(burst) > 1:
-                       hits.append({"door": door, "start": burst[0]["timestamp"],
-                                    "end": burst[-1]["timestamp"],
-                                    "events": len(burst)})
-                   burst = [cur]
-           if len(burst) > 1:
-               hits.append({"door": door, "start": burst[0]["timestamp"],
-                            "end": burst[-1]["timestamp"], "events": len(burst)})
-       return pd.DataFrame(hits)
-   ```
-
-   **Task 3 — Failed then success.** A `denied` event followed within 5 minutes by a `granted` event **on the same badge**. This is the credential-probing pattern: someone tries a badge that isn't authorized, then uses one that is. Output badge, door, both timestamps, and the count of denied attempts before the success — the count is what distinguishes one fumble from a systematic attempt.
-
-   ```python
-   def failed_then_success(df, window_minutes=5):
-       hits = []
-       for badge, grp in df.groupby("badge_id"):
-           rows = grp.sort_values("timestamp").to_dict("records")
-           denied = 0
-           for r in rows:
-               if r["result"] == "denied":
-                   denied += 1
-               elif denied:
-                   hits.append({"badge_id": badge, "door": r["door"],
-                                "granted_at": r["timestamp"], "prior_denials": denied})
-                   denied = 0
-       return pd.DataFrame(hits)
-   ```
-
-   **Task 4 — After-hours access.** Anything outside 07:00–18:00 on a weekday, and anything on a weekend. Output badge, door, timestamp. Then subtract the legitimate population: cleaners, the security guard, staff with known early schedules. What is left is your real candidate list, and subtracting the known-benign is the actual analyst skill in this task — the code is trivial, the judgment is not.
-
-   ```python
-   def after_hours(df, start="07:00", end="18:00"):
-       out = df[df["timestamp"].dt.dayofweek < 5].copy()
-       mins = out["timestamp"].dt.hour * 60 + out["timestamp"].dt.minute
-       lo = int(start[:2]) * 60 + int(start[3:])
-       hi = int(end[:2]) * 60 + int(end[3:])
-       return out[(mins < lo) | (mins > hi)]
-   ```
-
-4. **Debrief (8 min):** Each group reports: how many hits from each of the four detections, and which single detection produced the most *useful* output.
+4. **Debrief (8 min):** Each group reports hits per detection, which single detection produced the most *useful* output, and **one specific false positive from their own output**.
 
    Then the two questions that matter, and give them time:
-   - **What would a false positive look like here?** Name a specific one from your own results. A student who left early and badged out at the far door; a guard doing a patrol sweep; a teacher who badged into the annex on the way to the gym; a delivery driver badging the service door. Every one of your detections has a benign twin, and the detections that produce 200 hits are the ones that will be switched off within a month.
-   - **How do you avoid alert fatigue?** Baseline first (what does normal look like for this door, this badge, this hour), then thresholds that key on *deviation* rather than on absolute events, then a hard volume budget. If the rule fires more than a handful of times a week, it is a report, not an alert — and a report can wait until morning while an alert cannot. Note the 2.4.C connection to Thursday's discussion: the alert at 3 AM is worthless if there is nobody to receive it.
+   - **What would a false positive look like here?** Name a specific one from your own results. A guard doing a patrol sweep; a janitor on the same round every night; a teacher who badged into the annex on the way to the gym and badged out the far door because it is closer to the car park; three people leaving a staff meeting together. Every one of the four detections has a benign twin in this log, and the detection with the longest output is not the one with the most findings — it is the one that will be switched off within a month.
+   - **How do you avoid alert fatigue?** Baseline first (what does normal look like for *this* door, *this* badge, *this* hour), then thresholds that key on *deviation* rather than on absolute events, then a hard volume budget. If the rule fires more than a handful of times a week, it is a report, not an alert — and a report can wait until morning while an alert cannot. Note the 2.4.C connection to Thursday's discussion: the alert at 3 AM is worthless if there is nobody to receive it.
 
    Close on the honest limitation: all four detections read a log, and a log records credentials, not people. Monday's capstone is where these detections meet video and the gap gets visible.
 
-**Homework (due Mon 20:30 — Monday quiz):** Finish all four tasks and save your results to `results_task1.csv` … `results_task4.csv` in the repo. Read the correlation evidence packet structure before Monday — you will be reconstructing a timeline from four sources, which is the version of this skill that shows up on the test.
+**Homework (due Mon 20:30 — Monday quiz):** Commit the four `results_taskN.csv` files — that is the deliverable, and an unrun placeholder is not it. Name a specific false positive from your own output. Read `evidence_packet_template.md` before Monday — you will be reconstructing a timeline from four sources, which is the version of this skill that shows up on the test.
 
-**Differentiation / ELL support:** The starter file supplies the CSV load, the sort, the zone map, and the four function signatures with comment blocks — groups implement the detection logic rather than writing from scratch, which puts the cognitive load on the reasoning where it belongs. Students who need a narrower target can run tasks 1 and 4 only; tasks 2 and 3 are the ones where the pandas idiom is hardest. The debrief questions work well in pairs before the whole-group report. **Note:** the repo intentionally includes `SOLUTIONS.md` (expected findings with false-positive analysis) — students should attempt all four tasks before opening it.
+**Differentiation / ELL support:** Because the detections ship complete, no student can be blocked by a code error and the whole 24 minutes goes to reading output and arguing about it — the cognitive load sits on the reasoning, which is where 2.4.C lives. Students who need a narrower target: run task 1 and task 4 first, then task 3; task 2's output is the smallest and the least ambiguous, so it is a good place to start a group that is unsure. The debrief questions work well in pairs before the whole-group report. **Note:** the lab repo no longer ships an answer key — `SOLUTIONS.md` was removed when the detections moved into the script. If a student asks for "the answers", the answers are their own four CSVs plus the argument about which rows matter.
