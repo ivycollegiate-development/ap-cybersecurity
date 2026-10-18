@@ -1,0 +1,10 @@
+timestamp,badge_id,reader,event,result
+01:52,B-1104,LOADING-DOCK,entry,granted
+02:14,B-2207,SERVER-RM,entry,granted
+02:15,B-2207,SERVER-RM,exit,granted
+04:05,B-2207,MAIN-EAST,entry,granted
+06:30,B-1104,LOADING-DOCK,exit,granted
+07:45,B-3310,MAIN-EAST,entry,granted
+07:52,B-1180,MAIN-EAST,entry,granted
+08:01,B-2245,MAIN-EAST,entry,granted
+08:06,B-3102,MAIN-EAST,entry,granted
