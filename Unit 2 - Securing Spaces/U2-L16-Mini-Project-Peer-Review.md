@@ -22,7 +22,7 @@
 
 2. **Finish the draft (8 min):** Groups complete the deck in place. Anyone with a thin server room section or an unfinished cost table finishes that first. Teacher circulates and checks each group against the two flags from yesterday. Quick check-ins, one sentence each: *what is missing, and who is finishing it.*
 
-3. **Swap and review (15 min):** Deck swaps to another group. Reviewers work alone and silently for 10 minutes on the printed rubric, then 5 minutes in pairs to compare scores and argue to agreement. Reviewers score the deck they received; they do not talk to the authors yet.
+3. **Swap and review (15 min):** Decks swap — with more than one team, each deck goes to a different team; with a single team, students exchange decks within the team so every deck is reviewed by a student who did not write it. Reviewers work alone and silently for 10 minutes on the printed rubric, then 5 minutes in pairs (or as a whole team) to compare scores and argue to agreement. Reviewers score the deck they received; they do not talk to the authors yet.
 
    **Peer Review Rubric — 40 points**
 

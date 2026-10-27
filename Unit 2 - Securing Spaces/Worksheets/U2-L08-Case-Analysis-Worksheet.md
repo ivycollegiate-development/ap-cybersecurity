@@ -38,7 +38,7 @@ _______________________________________________________________________________
 
 You have two minutes. Method, vulnerability, control — in that order, no narration of the story.
 
-While the other groups present, write down one control from another group that contradicts or covers yours:
+While classmates present, write down one control from another presentation that contradicts or covers yours:
 
 _______________________________________________________________________________
 

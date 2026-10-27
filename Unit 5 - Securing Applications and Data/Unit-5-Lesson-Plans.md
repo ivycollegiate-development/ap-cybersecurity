@@ -320,7 +320,7 @@
 
 | Time | Day 1 (Period 92) — Launch & Research | Day 2 (Period 93) — Threat Modeling | Day 3 (Period 94) — Defensive Architecture |
 |------|-------|-------|-------|
-| 5 min | Launch scenario. Form teams of 3-4. | Quick review: APT group profiles | Recap: defense-in-depth layers |
+| 5 min | Launch scenario. Form teams of 3-4 (in a class of three, one team of three). | Quick review: APT group profiles | Recap: defense-in-depth layers |
 | 25 min | **Scoping:** Each team selects a sector and APT group. Research: (a) Sector's critical functions, (b) Known attacks against similar sectors, (c) Potential impact of a breach, (d) Regulatory requirements. Begin filling out the threat model template. | **Threat modeling exercise:** Using STRIDE (Spoofing, Tampering, Repudiation, Info Disclosure, DoS, Elevation of Privilege), map threats for their sector. Create an attack tree — what does the APT need to do at each stage? Build a risk register: 10+ assets, threats, likelihood, impact, risk score. | **Design phase:** Draw a network architecture (layered). Must include: (a) Perimeter controls — WAF, firewall, IDS/IPS. (b) Application controls — input validation, RBAC, encryption. (c) Data controls — classification, access policies, encryption at rest. (d) Detection — logging, SIEM, anomaly alerts. Document each control and which threat it mitigates. |
 | 10 min | Sector assignment. Team roles defined (lead, researcher, architect, presenter). | Attack tree review with teacher | Architecture check-in — teacher reviews each team's design |
 | 5 min | Check-in: sector selected, research started | Exit: one key threat identified | Exit: one control gap you need to address |

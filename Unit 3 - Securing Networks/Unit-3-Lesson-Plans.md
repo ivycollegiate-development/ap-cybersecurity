@@ -389,7 +389,7 @@
 **Activities:**
 1. **Scenario launch (5 min):** "You are the IT security team for Ecosoft Electronics, a 50-person company in Hsinchu Science Park (embedded chips). 40 workstations, 1 web server, 1 internal file server (R&D — most sensitive), 1 dev server, 20 IoT sensors on the factory floor, guest Wi-Fi. Budget: one managed switch, one firewall/NGFW, one wireless AP. Design a defense-in-depth network."
 2. **Design phase (15 min):** Groups design: VLAN segmentation with justification, firewall ACLs between segments, wireless security configuration, DMZ placement, NIDS placement, managerial controls (acceptable use, guest policy). Document with a network diagram + defense rationale.
-3. **Pair-critique (10 min):** Swap with another group — identify at least 3 weaknesses or missing controls.
+3. **Pair-critique (10 min):** Swap with another group (with a single team, exchange documents with a classmate within the team) — identify at least 3 weaknesses or missing controls.
 4. **Current event analysis (folded in, 10 min):** Read the printed current event (teacher-selected — e.g., a recent supply chain or network intrusion incident). Map it to the CED framework: vulnerability → exploit → impact. Which controls from the Ecosoft design would have stopped it?
 
 **Homework (due 20:30):** Revise your design based on peer feedback. Tomorrow: final lab (network scanning detection).

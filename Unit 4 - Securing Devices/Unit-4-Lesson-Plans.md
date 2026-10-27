@@ -220,7 +220,7 @@
 |------|----------|
 | 5 min | **Setup:** "What does a 'hardened' endpoint look like?" Introduce the concept of a security baseline — the minimum acceptable configuration. |
 | 30 min | **Lab — Build an endpoint hardening guide:** Given a scenario (onboarding a new employee laptop for a Taiwan semiconductor company), students create a hardening checklist covering all 5 categories: OS hardening, application security, network security, access controls, monitoring. For each item: setting, rationale, priority (P1-P3). |
-| 10 min | **Peer review:** Swap hardening guides with another pair. Review: is it complete? Are the priorities reasonable? Could any setting break productivity? |
+| 10 min | **Peer review:** Swap hardening guides with another pair (with a class of three, swap with a classmate instead). Review: is it complete? Are the priorities reasonable? Could any setting break productivity? |
 | 5 min | **Exit ticket:** "What's the hardest balance to strike when hardening an endpoint?" |
 
 **Lab spec:** Browser-accessible checklist template (Google Docs or printed) + scenario sheet. No system access required.
@@ -287,7 +287,7 @@
 | Time | Day 1 (Period 70) | Day 2 (Period 71) | Day 3 (Period 72) |
 |------|--------------------|--------------------|--------------------|
 | 5 min | Launch scenario + deliverables | Setup peer review | Setup presentations |
-| 25 min | **Research & outline:** Groups receive their scenario (see below). Identify: (a) threat model for the organization, (b) 5 key controls to recommend, (c) detection methods for each. Research provided reference materials and class notes. | **Draft complete + peer review:** Complete first draft of hardening guide. Swap with another group for a structured 15-minute review. Review criteria: completeness, accuracy, feasibility, clarity. Address feedback in remaining time. | **Presentations:** 5 min per group + 2 min Q&A. Audience evaluates: would this guide actually work for that organization? |
+| 25 min | **Research & outline:** Groups receive their scenario (see below). Identify: (a) threat model for the organization, (b) 5 key controls to recommend, (c) detection methods for each. Research provided reference materials and class notes. | **Draft complete + peer review:** Complete first draft of hardening guide. Swap with another group (with a class of three, swap with a classmate instead) for a structured 15-minute review. Review criteria: completeness, accuracy, feasibility, clarity. Address feedback in remaining time. | **Presentations:** 5 min per group + 2 min Q&A. Audience evaluates: would this guide actually work for that organization? |
 | 10 min | Fill in scenario-specific details | Revisions + finalize guide | Peer evaluation forms |
 | 5 min | Role assignments + group check-in | Teacher check-in on progress | Wrap up, collect deliverables |
 

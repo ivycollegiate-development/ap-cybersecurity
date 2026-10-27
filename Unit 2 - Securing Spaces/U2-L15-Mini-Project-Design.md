@@ -8,7 +8,7 @@
 - 2.3.C Include environmental and monitoring controls appropriate to the site
 - 2.4.C Define detection and alerting for each layer of the plan
 
-**Materials:** Slides, scenario brief ([GDoc](https://docs.google.com/document/d/1wC7delxjsSL8mR1jAqj-81Fce4w0sLZGWGoGiILBrU4/edit)), Google Slides template (team deck), cost table sheet, role assignment board, projector
+**Materials:** Scenario brief ([GDoc](https://docs.google.com/document/d/1wC7delxjsSL8mR1jAqj-81Fce4w0sLZGWGoGiILBrU4/edit)) — students create their **own** Google Slides deck (7 slides) from scratch; projector.
 
 ---
 
@@ -16,37 +16,38 @@
 
 1. **Scenario brief and framing (7 min):** Read the brief aloud and let the reality of it land before anyone opens a slide deck.
 
-   **You are the security director for a TSMC subcontractor in Taichung.** You have **NT$2,000,000** to secure the facility for one year. The building is a leased industrial office block in a Taichung science park: three floors, roughly 40 staff, a ground-floor server closet that also serves the office LAN, a shared bike area, a loading bay used by a contract courier, and a shared apartment-building network cabinet one block away that half your staff also touch. You report to a customer audit annually. Get it wrong and the customer relationship is at risk; get it right and the audit is a formality.
+   **You are the security director for a TSMC subcontractor in Taichung.** The company manufactures specialty chemicals used in semiconductor fabrication. **NT$2,000,000** budget for one year. The facility:
+   - **3 buildings:** Office (2 floors), Clean Room (1 floor + mezzanine), Chemical Storage (separate building)
+   - **200 employees, 3 shifts**
+   - **Assets to protect:** client chip designs (IP), chemical formulas, clean room environment, employee safety
+   - **Current controls:** basic key locks, one CCTV camera at front desk, password-protected Wi-Fi
+   - **Typhoon season:** Taichung sits in typhoon/flood territory — the plan must keep the facility available and its assets protected through a typhoon event (flooding, power loss, wind damage are availability/integrity problems, not just security ones).
 
    Name the constraints out loud, because they are the whole problem:
    - A fixed budget with real prices. Every camera and reader has a cost and the total must land under NT$2M.
-   - An **audit** requirement. Controls that cannot produce a record are worth less here, because the auditor is the customer.
-   - **Shared surfaces you do not control** — the bike area, the courier, the apartment cabinet. You cannot lock down what is not yours; you have to monitor and detect.
-   - **Typhoon and flood season.** A server closet on a ground floor is an availability and integrity problem before it is a security one, and the plan has to survive it.
-   - Only about 8 hours of staffed coverage on weekdays. Anything that needs a human to notice has to fit inside those hours, and this connects directly to the 3 AM argument from two weeks ago.
+   - **Typhoon and flood season.** A chemical storage building and a clean room are availability and integrity problems before they are security ones, and the plan has to survive the weather.
+   - **3 shifts, 200 people.** Anything that needs a human to notice has to work when only the night shift is present, and this connects directly to the 3 AM argument from two weeks ago.
 
-   Deliverable: a **Google Slides deck** presenting the plan, built in a 4-person team.
+   Deliverable: each student builds **their own Google Slides deck — 7 slides**. This is deliberately not a group project: no role split, no shared deck. The class's three independent plans for the same facility will diverge in budget decisions, and that divergence is the most useful thing that happens this week. (If the class were larger, students could compare in larger sets, but the individual-design model stays.)
 
-2. **Role assignments (5 min):** Assign in the room, not by preference. Write the four roles on the board with what each owns:
-   - **Layer Lead — Perimeter & Entry.** Fence, approach, main doors, visitor process, reception, bike area, courier bay.
-   - **Layer Lead — Interior & Server Room.** Corridor and stairwell control, the server closet, badge scopes, environmental and flood controls.
-   - **Detection & Monitoring Lead.** Cameras and placement logic, badge log alerting thresholds, retention policy, who receives a 3 AM alert.
-   - **Budget & Compliance Lead.** The cost table, the audit trail, and the policy documents. Owns the constraint that the numbers work.
+2. **Individual plan framing (5 min):** Every student owns the whole plan. Write the seven required slides on the board and what each one is really asking:
+   - **Slide 1 — Title + Threat Model.** Top 3 threats to *this* facility. Everything else in the deck must trace back to these three.
+   - **Slide 2 — Perimeter + Entry controls (with costs).** What defines each building's boundary, who can cross it freely, reader scoping (which badges open which doors, who can change a scope), visitor sign-in and escort policy, delivery handling.
+   - **Slide 3 — Interior controls (with costs).** Corridor and stairwell control, which doors are alarmed vs. merely locked, which of those produces a record an auditor will accept.
+   - **Slide 4 — Server Room / IP Vault controls (with costs).** Address location risk, access scope, door contact, tamper detection, and what happens on power or HVAC failure. Ask: who can open this door, and how would we know if someone who should not opened it?
+   - **Slide 5 — Policies + Detection methods (with costs).** Visitor escort, badge issue/return, contractor onboarding and deactivation, tailgating prohibition, after-hours access; cameras with placement justified against a purpose, badge-log alerting thresholds, retention period, and the named recipient for an out-of-hours alert. Tie each threshold to the lab: shared badge, tailgating burst, failed-then-success, after-hours entry.
+   - **Slide 6 — Defense-in-Depth rationale.** How the layers actually work together — not a list of purchases. A camera nobody watches is not detection.
+   - **Slide 7 — Budget breakdown + total.** Must stay **under NT$2,000,000**.
 
-   Each role must produce a visible section of the deck. Note for the Detection Lead: the hardest question in this scenario is not which camera, it is who is awake to receive the alarm. Have them answer it before they place a single camera.
+   Remind them of the shared-credential trap from the audit lab — an unlogged shared code undoes all of it.
 
-3. **Design work — build the plan (26 min):** Groups build in Google Slides. Use the six required sections as slide headers; the deck grows as the plan grows.
+3. **Design work — build the plan (26 min):** Students build their own deck in Google Slides using the seven required slides as headers. Circulate with the two questions that separate a strong plan from a shopping list:
+   - *"Who is awake to receive the alarm?"* The hardest question is not which camera, it is who answers the 3 AM alert on the night shift. Have them answer it before they place a single camera.
+   - *"Which threat does this spend defend?"* Every control must trace to one of the top 3 threats from Slide 1.
 
-   - **Perimeter.** What defines the boundary, who can cross it freely, what is shared with a neighbour or the street. The bike area and the courier bay are the hard ones — the site is not fully controlled and the design has to acknowledge that.
-   - **Entry.** Doors, readers, scope, visitor sign-in and escort policy, delivery handling. A reader is a *scoping* decision: which badges open which doors, and who can change a scope. Note the shared-credential trap from the audit lab — an unlogged shared code undoes all of it.
-   - **Interior.** Corridor and stairwell control, which doors are alarmed, what is alarmed vs. merely locked, and which of those produces a record an auditor will accept.
-   - **Server room.** The ground-floor closet is the crown jewel and the worst-placed asset on the site. Address location risk (flood), access scope, door contact, tamper detection, and what happens to a power or HVAC failure. Ask: who can open this door, and how would we know if someone who should not opened it?
-   - **Policies.** Visitor escort, badge issue and return, contractor onboarding and badge deactivation, clean-desk in the server area, tailgating prohibition, after-hours access. Every policy needs an owner and a review cycle, or it is a document rather than a control.
-   - **Detection.** Cameras with placement justified against a purpose, badge log alerting thresholds, retention period, and the named recipient for an out-of-hours alert. Tie each threshold to something from the lab: shared badge, tailgating burst, failed-then-success, after-hours entry.
+4. **Cost table (5 min):** Each student builds the budget breakdown (Slide 7) with realistic Taichung figures and every line defensible:
 
-4. **Cost table (5 min):** The Budget & Compliance Lead builds the cost table live while the others design. Use realistic Taichung figures and make every line defensible:
-
-   | Line item | Qty | Unit cost (NT$) | Total (NT$) | What it defends | Layer |
+   | Line item | Qty | Unit cost (NT$) | Total (NT$) | What it defends | Threat (from Slide 1) |
    |---|---|---|---|---|---|
    | Door reader + controller | | | | | |
    | Electric strike / maglock retrofit | | | | | |
@@ -60,14 +61,16 @@
    | Signage, lanyards, procedures | | | | | |
    | Contingency | | | | | |
 
-   Hard rules: the total must come in **under NT$2,000,000**, every line must name what it defends, and contingency is not a place to hide an unaffordable camera. If a group cannot afford a control, that is a legitimate and interesting answer — *which* layer absorbs the risk, and how the residual risk is accepted and documented. A 3% contingency line is normal; a 20% one is a plan that did not add up.
+   Hard rules: the total must come in **under NT$2,000,000**, every line must name what it defends and which threat it traces to. If a student cannot afford a control, that is a legitimate and interesting answer — *which* layer absorbs the risk, and how the residual risk is accepted and documented. A 3% contingency line is normal; a 20% one is a plan that did not add up.
 
-5. **End-of-period check (2 min):** Before students leave, each group shows the teacher two things:
-   - The **design draft** — the layered plan, on the slide or whiteboard, in enough detail that a stranger could spot the gap.
-   - The **deck skeleton** — the six section headers exist, with the cost table started, even if the content is thin.
+5. **End-of-period check (2 min):** Before students leave, each shows the teacher two things:
+   - The **design draft** — the layered plan, in enough detail that a stranger could spot the gap.
+   - The **deck skeleton** — the seven slide headers exist, with the cost table started, even if the content is thin.
 
-   Flag any group that has no server room section or an empty cost table. Those are the two that collapse tomorrow. Any unassigned or drifted role is reassigned now, not at 8:10 tomorrow morning.
+   Flag any student who has no server room / IP vault section or an empty cost table. Those are the two that collapse on peer-review day.
 
-**Homework (due Wed 20:30 — Wednesday quiz):** Finish the deck. Every section must have real content and a complete cost table under NT$2M. Bring the deck to class tomorrow ready to swap for peer review — you will be reviewing someone else's plan, and you will want yours to survive the same reading.
+**Homework (due Wed 20:30 — Wednesday quiz):** Finish the deck. **Post it to the Google Classroom assignment** (turn it in there) in addition to keeping it in your own Drive folder. Every slide must have real content and a complete cost table under NT$2M. Bring the deck to class ready for peer review — both classmates will review it against the same four criteria you will use on their decks (coverage, budget realism, layering, threat alignment — every score must cite a specific slide and a specific reason, and each reviewer must also write one thing to add and one thing to cut, with reasons).
 
-**Differentiation / ELL support:** The role structure gives every student one owned section, which is the main scaffold — nobody is left deciding where to start. The cost table is pre-filled with line items and a Total row formula, so the work is estimating, not formatting. A worked cost example for one control is on the deck template slide. Provide the six section headers as a pre-made Google Slides layout so groups spend the period on content. The flood and typhoon item is a genuine differentiator: students who have seen flooding in Taichung lead that section, and for others it is a concrete scenario to reason about rather than an abstraction. Students who need support can present the deck and have a partner handle the cost table verbally — but the numbers still have to be right.
+**Looking ahead:** U2 L16 is peer review — every student reviews both classmates' decks, then writes an author response (which criticism accepted, which rejected and on what grounds, what is changing — graded). U2 L17 is presentations to the class, with questions from the floor counting toward the rubric, and the three plans' divergent budget decisions as the closing comparison.
+
+**Differentiation / ELL support:** Every student owns all seven slides, which is the main scaffold — nobody is left deciding where to start; the seven headers give the structure. The cost table is pre-filled with line items, so the work is estimating, not formatting. The typhoon and flood item is a genuine differentiator: students who have seen flooding in Taichung will lead with those controls, and for others it is a concrete scenario to reason about rather than an abstraction. Students who need support can present verbally while a printed cost table carries the numbers — but the numbers still have to be right. On peer-review day, the strictest scaffold is the citation rule: no score without a slide reference.

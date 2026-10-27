@@ -16,7 +16,7 @@
 
 **Materials:** Slides, presentation rubric (printed, one per student — included below), mini-project design doc and peer-review sheet from Days 1–2, timer on the projector, re-teach board
 
-**Present today:** Group name, the space, then the plan. Five minutes, hard stop. Two minutes of Q&A from another group.
+**Present today:** Team name, the space, then the plan. Five minutes, hard stop. Two minutes of Q&A from the rest of the class.
 
 ---
 
@@ -24,13 +24,13 @@
 
 1. **Setup and rubric walk-through (5 min):** Distribute the rubric and read the three scored rows aloud — threat model, layered controls, justification. Point out that the third row is where most groups lose points: naming a control is not a justification. A justification says what risk it reduces, and names the learning objective it satisfies.
 
-2. **Presentations, round one (12 min):** Two groups present. 5 min each plus 2 min Q&A. Start the timer visibly — the hard stop is the point. The Q&A groups must ask at least one question that names a learning objective, not "what else would you do?"
+2. **Presentations, round one (12 min):** With multiple teams, two teams present (5 min each plus 2 min Q&A). With a single team, three students each present one section of the deck (roughly 4 min each plus shared Q&A). Start the timer visibly — the hard stop is the point. The Q&A audience must ask at least one question that names a learning objective, not "what else would you do?"
 
-3. **Presentations, round two (12 min):** Two more groups, same structure.
+3. **Presentations, round two (12 min):** Remaining teams, same structure — or, with a single team, the Q&A plus a class debrief on what the deck would defend to the customer auditor.
 
 4. **Class vote and rubric feedback (10 min):**
-   - Class votes for the strongest plan: show of hands per group, recorded on the board. The vote is not a grade — it is a signal about what the class found convincing.
-   - Teacher returns rubric scores with one written comment per group, focused on the weakest row. Two or three groups get theirs read aloud anonymously so the whole class hears what a strong justification sounds like.
+   - Class votes for the strongest plan: with multiple teams, show of hands per team, recorded on the board; with a single team, a vote on the strongest individual section or control. The vote is not a grade — it is a signal about what the class found convincing.
+   - Teacher returns rubric scores with one written comment per team, focused on the weakest row. A sample of the returned comments (two or three with multiple teams; the same comments read back to the team in a smaller class) gets read aloud anonymously so the whole class hears what a strong justification sounds like.
 
 5. **Close — connect every choice back to an objective (6 min):** Walk the class through the objective list at the top of this file. For each objective, name one control some group proposed that satisfies it. The point to land: **every control in every plan traces to a learning objective.** If a group proposes a control that does not, that is the gap worth naming — either it does not reduce a risk we can name, or the group has not yet learned the objective it would satisfy.
 
