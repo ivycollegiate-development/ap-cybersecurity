@@ -85,8 +85,8 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 | P19 | 10/23 | Fri | Unit 2 Review | |
 | P20 | 10/26 | Mon | 2.4 — Detecting Physical Attacks: Sensors, Logs, Alarms | |
 | P21 | 10/27 | Tue | Mock MCQ Sprint: Unit 2 Review (Unit 2) | |
-| P22 | 10/28 | Wed | Unit 2 Synthesis: Build a Physical Security Program | |
-| P23 | 10/29 | Thu | Break Prep + Unit Review: Physical Security Audit Preview | |
+| P22 | 10/28 | Wed | Home Physical Security Synthesis + Audit Launch | |
+| P23 | 10/29 | Thu | Fall Break Audit Work Day | |
 | P24 | 10/30 | Fri | Flex / Catch-Up | |
 | P25 | 11/09 | Mon | Unit 2 Review Day 1 (Unit 2) | |
 | P26 | 11/10 | Tue | Unit 2 Review Day 2 (Unit 2) | |
@@ -96,7 +96,7 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 
 **Unit 2 GitHub labs:** Physical Security Audit (Oct 2) - Risk Register (Oct 7) - Badge Log Analysis (Oct 16).
 **Mini-project (2.2-2.4):** Design Oct 20 - Peer Review Oct 21 - Presentations Oct 22.
-**Fall Break (Oct 31 - Nov 8):** home physical-security audit, paper exercise, no tech. Assigned Oct 29, collected Nov 9. Taiwan-specific: shared building network infrastructure in local apartments, plus typhoon/flood physical resilience - students note 1 shared-infrastructure risk and 1 weather-resilience gap.
+**Fall Break (Oct 31 - Nov 8):** home physical-security audit, paper exercise, no tech. Assigned Oct 28 (P22) via single Classroom assignment "U2 L21–L22: Home Physical Security Synthesis + Fall Break Audit" (due Nov 9, topic Unit Tests). Work day Oct 29 (P23). Collected Nov 9. Taiwan-specific: shared building network infrastructure in local apartments, plus typhoon/flood physical resilience — students note 1 shared-infrastructure risk and 1 weather-resilience gap.
 **Unit 2 Test:** Mon Nov 13 (P29). Review block Nov 9-12 falls BEFORE the test, not after.
 
 ---
@@ -111,17 +111,17 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 | P2 | Nov 17 | Tue | 📄 Case Study: Equifax Breach — Network Attack Path | Trace entry→lateral→exfil; which 3.1 vulns; segmentation fix |
 | P3 | Nov 18 | Wed | 3.1 Network Vulnerabilities — How Adversaries Exploit Networks | Direct instruction + guided notes |
 | P4 | Nov 19 | Thu | 📄 Pre-Lab: Wireless Security Audit Prep | Wi-Fi attack types, predict misconfig, key terms (WPA3, 802.1X) |
-| P5 | Nov 20 | Fri | 🐙 GITHUB LAB: Wireless Security Audit Lab | fork → Codespaces → submit → pair-share |
+| P5 | Nov 20 | Fri | 🐙 GITHUB LAB: Wireless Security Audit Lab | fork → Codespaces → submit → peer-share |
 | P6 | Nov 23 | Mon | 3.1 Network Vulnerabilities — Risk Assessment Framework | Direct instruction + guided notes |
 | P7 | Nov 24 | Tue | 📄 FRQ Walk-Through: Network Intrusion Scenario + Vocabulary Drill (merged) | 3-part FRQ (3.1/3.2/3.3), peer-score. Vocab chain game folded in |
 | P8 | Nov 25 | Wed | 3.2 Managerial Controls & Wireless — Policies, Acceptable Use | Direct instruction + guided notes |
 | P9 | Nov 26 | Thu | 🦃 Thanksgiving Formal Dinner (regular class day) | Light discussion / reflection activity |
-| P10 | Nov 27 | Fri | 🐙 GITHUB LAB: Network Segmentation Sim | fork → Codespaces → submit → pair-share |
+| P10 | Nov 27 | Fri | 🐙 GITHUB LAB: Network Segmentation Sim | fork → Codespaces → submit → peer-share |
 | P11 | Nov 30 | Mon | 3.3 Network Segmentation — VLANs, Subnets, DMZs | Direct instruction + guided notes |
 | P12 | Dec 1 | Tue | 📄 Peer Review: Segmentation Findings | Rubric exchange, compare findings, executive summary |
 | P13 | Dec 2 | Wed | 3.3 Network Segmentation — Zero Trust Architecture | Direct instruction + guided notes |
 | P14 | Dec 3 | Thu | 📄 Mock MCQ Sprint: Unit 3 Review | 5 timed MCQs, peer-grade, self-assessment |
-| P15 | Dec 4 | Fri | 🐙 GITHUB LAB: Firewall Config Lab | fork → Codespaces → submit → pair-share |
+| P15 | Dec 4 | Fri | 🐙 GITHUB LAB: Firewall Config Lab | fork → Codespaces → submit → peer-share |
 | P16 | Dec 7 | Mon | 3.4 Firewalls — Types, Rule Sets, Configurations | Direct instruction + guided notes (converted from flex) |
 | P17 | Dec 8 | Tue | 📄 Peer Review: Firewall Config Findings | Rubric exchange, compare rules, class discussion |
 | **P18** | **Dec 9** | **Wed** | **📝 UNIT 3 TEST** | Paper-based, all 3.1-3.5 LOs (converted from flex) |
@@ -143,18 +143,18 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 | P2 | Dec 15 | Tue | 4.1 Device Vulnerabilities — What Counts as a Computing Device? | Direct instruction + guided notes. ⚡ HW quiz opens |
 | P3 | Dec 16 | Wed | 📄 Case Study: Stuxnet — Device-Level Attack | Map attack chain, device vulns, consumer device discussion |
 | P4 | Dec 17 | Thu | 4.1 Device Vulnerabilities — Types of Malware | Direct instruction + guided notes |
-| P5 | Jan 4 | Mon | 📄 Threat Modeling: Personal Device Attack Surface | List own devices, attack surface, risk ranking, pair-share |
+| P5 | Jan 4 | Mon | 📄 Threat Modeling: Personal Device Attack Surface | List own devices, attack surface, risk ranking, peer-share |
 | P6 | Jan 5 | Tue | 4.1 Device Vulnerabilities — How Adversaries Exploit Devices | ⚡ Quiz on Winter Break assignment. Direct instruction + guided notes |
 | P7 | Jan 6 | Wed | 📄 Pre-Lab: Authentication Bypass Lab Prep | Auth factors, predict weakest methods, key terms (MFA, OAuth) |
 | P8 | Jan 7 | Thu | 4.2 Authentication — Passwords, MFA, Biometrics | Direct instruction + guided notes |
 | P9 | Jan 8 | Fri | 📄 Vocabulary Drill + Concept Map: 4.1-4.2 Terms | Notecard drill + malware taxonomy whiteboard *(fixed: APSI had peer review here before its lab ran)* |
-| P10 | Jan 11 | Mon | 🐙 GITHUB LAB: Auth Bypass Lab | fork → Codespaces → submit → pair-share (peer review of findings in pair-share) |
+| P10 | Jan 11 | Mon | 🐙 GITHUB LAB: Auth Bypass Lab | fork → Codespaces → submit → peer-share (peer review of findings in peer-share) |
 | P11 | Jan 12 | Tue | 4.2 Authentication — Certificate-Based & Token Auth | Direct instruction + guided notes |
 | P12 | Jan 13 | Wed | 📄 Pre-Lab: Device Hardening Workshop Prep | Hardening techniques, predict biggest impact, key terms |
 | P13 | Jan 14 | Thu | 4.3 Protecting Devices — Hardening, Patching, Encryption | Direct instruction + guided notes |
 | P14 | Jan 15 | Fri | 📄 FRQ Walk-Through: Stolen Laptop Scenario | 3-part FRQ (4.1/4.2/4.3), peer-score |
 | P15 | Jan 18-21 | Mon-Thu | **Midterm Exams — no AP Cyber class** | |
-| P16 | Jan 22 | Fri | 🐙 GITHUB LAB: Device Hardening Workshop | fork → Codespaces → submit → pair-share |
+| P16 | Jan 22 | Fri | 🐙 GITHUB LAB: Device Hardening Workshop | fork → Codespaces → submit → peer-share |
 | P17 | Jan 25 | Mon | 4.4 Detecting Attacks on Devices — Antivirus, EDR, HIDS | Direct instruction + guided notes |
 | P18 | Jan 26 | Tue | 📄 Current Event: Recent Ransomware Attack Analysis | CED framework, ransom-payment debate |
 | P19 | Jan 27 | Wed | 🔄 Flex / Catch-Up Day | Buffer |
@@ -176,27 +176,27 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 | P2 | Feb 16 | Tue | 📄 Case Study: WannaCry — Application-Layer Attack | Vulnerability, spread, impact; EternalBlue timing question |
 | P3 | Feb 17 | Wed | 5.2 Managerial & Access Controls — DAC, MAC, RBAC, ABAC | Direct instruction + guided notes |
 | P4 | Feb 18 | Thu | 📄 Pre-Lab: Juice Shop Lab Prep | Web vuln list, predictions, OWASP Top 10 reference |
-| P5 | Feb 19 | Fri | 🐙 GITHUB LAB: Juice Shop Lab | fork → Codespaces → submit → pair-share |
+| P5 | Feb 19 | Fri | 🐙 GITHUB LAB: Juice Shop Lab | fork → Codespaces → submit → peer-share |
 | P6 | Feb 22 | Mon | 5.3 Symmetric Cryptography — AES, DES, Key Management | Direct instruction + guided notes |
 | P7 | Feb 23 | Tue | 📄 Peer Review: Juice Shop Findings | Compare vulns, risk ranking, remediation plan top 3 |
 | P8 | Feb 24 | Wed | 5.4 Asymmetric Cryptography — RSA, ECC, PKI | Direct instruction + guided notes |
 | P9 | Feb 25 | Thu | 📄 Access Control Deep Dive: DAC, MAC, RBAC, ABAC | 4-scenario exercise, RBAC for ICA, exit ticket |
-| P10 | Feb 26 | Fri | 🐙 GITHUB LAB: Access Control Sim | fork → Codespaces → submit → pair-share |
+| P10 | Feb 26 | Fri | 🐙 GITHUB LAB: Access Control Sim | fork → Codespaces → submit → peer-share |
 | P11 | Mar 1 | Mon | 5.4 Asymmetric Cryptography — Digital Signatures & Certificates | Direct instruction + guided notes |
 | P12 | Mar 2 | Tue | 📄 Pre-Lab: Symmetric Encryption Lab Prep | Caesar cipher warmup, AES vs Caesar, key terms |
 | P13 | Mar 3 | Wed | 5.5 Protecting Applications — Secure SDLC, Code Review, SAST/DAST | Direct instruction + guided notes |
 | P14 | Mar 4 | Thu | 📄 Crypto Concept Map: Symmetric vs Asymmetric | Notecard drill, TLS whiteboard, "Crypto or not?" game |
-| P15 | Mar 5 | Fri | 🐙 GITHUB LAB: Symmetric Encryption Lab | fork → Codespaces → submit → pair-share |
+| P15 | Mar 5 | Fri | 🐙 GITHUB LAB: Symmetric Encryption Lab | fork → Codespaces → submit → peer-share |
 | P16 | Mar 8 | Mon | 5.6 Detecting Attacks on Data/Apps — WAF, DLP, Audit Logs | Direct instruction + guided notes |
 | P17 | Mar 9 | Tue | 📄 Pre-Lab: PKI Simulation Lab Prep | Trace cert chain, compromised-CA prediction, key terms |
 | P18 | Mar 10 | Wed | 🔄 Flex / Catch-Up Day | Buffer |
 | P19 | Mar 11 | Thu | 📄 FRQ Walk-Through: E-Commerce Data Breach Scenario | 4-part FRQ (5.1/5.2/5.3-4/5.6), peer-score |
-| P20 | Mar 12 | Fri | 🐙 GITHUB LAB: PKI Simulation Lab | fork → Codespaces → submit → pair-share |
+| P20 | Mar 12 | Fri | 🐙 GITHUB LAB: PKI Simulation Lab | fork → Codespaces → submit → peer-share |
 | P21 | Mar 15 | Mon | 🔄 Flex / Catch-Up Day | Buffer |
 | P22 | Mar 16 | Tue | 📄 Current Event: Software Supply Chain Attack + 🇹🇼 Semiconductor Case Study | SolarWinds-style analysis, SDLC + detection synthesis; second half: TSMC/supply-chain threat FRQ-style exercise (approved Aug 26) — students map a hypothetical semiconductor supply-chain attack scenario to CED topics and draft an FRQ response |
 | P23 | Mar 17 | Wed | 🔄 Flex / Catch-Up Day | Buffer |
 | P24 | Mar 18 | Thu | 📄 Mock MCQ Sprint + Final Review: Units 1-5 | 5 timed MCQs (8 min), "one thing from each unit", AP strategy |
-| P25 | Mar 19 | Fri | 🐙 GITHUB LAB: Secure Code Review Lab | fork → Codespaces → submit → pair-share |
+| P25 | Mar 19 | Fri | 🐙 GITHUB LAB: Secure Code Review Lab | fork → Codespaces → submit → peer-share |
 | **P26** | **Mar 22** | **Mon** | **📝 UNIT 5 TEST** | Paper-based, all 5.1-5.6 LOs (converted from flex) |
 | P27 | Mar 23 | Tue | 📄 Attack Tree Exercise: E-Commerce Platform | Build attack tree, label CED topics, gallery walk |
 | P28 | Mar 24 | Wed | 🔄 Flex / Catch-Up Day | Buffer |
@@ -290,7 +290,7 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 - **Exit tickets:** 2-3 ungraded MCQs on every tech day
 - **Mock MCQ Sprints:** pre-test paper days — U2 Nov 11, U3 Dec 3, U4 Jan 28, U5 Mar 18
 - **FRQ Walk-Throughs with peer-scoring:** U2 P11, U3 P7, U4 P13, U5 P19
-- **Peer review with rubrics** after every GitHub lab (pair-share component)
+- **Peer review with rubrics** after every GitHub lab (peer-share component)
 - **Pre-lab prediction worksheets** on every pre-lab paper day
 - **Vocabulary drills, concept maps, current event analyses** throughout
 - **Scenario-based activities** (1A-1E, 2A-2C, 3A-3C, 4A-4C, 5A-5C) from CED

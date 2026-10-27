@@ -41,8 +41,8 @@
 | P19 | U2 L18 | Oct 23 | Fri | Tech | Unit 2 Review |
 | **P20** | **U2 L19** | **Oct 26** | **Mon** | **Test** | **~~Unit 2 Test~~ — MOVED to Nov 13, see P29** |
 | P21 | U2 L20 | Oct 27 | Tue | Paper | Mock MCQ Sprint: Unit 2 |
-| P22 | U2 L21 | Oct 28 | Wed | Paper | Unit 2 Synthesis: Build a Physical Security Program |
-| P23 | U2 L22 | Oct 29 | Thu | Paper | Break Prep: Fall Break audit launch + unit recap |
+| P22 | U2 L21 | Oct 28 | Wed | Paper | Home Physical Security Synthesis + Audit Launch |
+| P23 | U2 L22 | Oct 29 | Thu | Paper | Fall Break Audit Work Day |
 | P24 | U2 L23 | Oct 30 | Fri | Tech | Flex / Catch-Up Day [HALF DAY] |
 | — | — | Oct 31 - Nov 8 | — | — | **FALL BREAK** — home physical-security audit, paper, no tech |
 | P25 | U2 L24 | Nov 9 | Mon | Paper | Unit 2 Review Day 1 + Fall Break audit quiz |
@@ -293,7 +293,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 1. **Launch (5 min):** Introduce the scenario, budget constraint, and requirements.
 2. **Design phase (25 min):** Groups design a physical security plan for a Taiwan semiconductor fab. Must include: perimeter, entry points, interior, server room, policies, detection methods. Budget: NT$2M.
 3. **Research + resource gathering (10 min):** Student teams research costs and solutions.
-4. **Group role assignments (5 min):** Security Director, Technical Lead, Budget Officer, Presenter(s).
+4. **Team role assignments (5 min):** Assign roles to fit the team size — in a larger class: Security Director, Technical Lead, Budget Officer, Presenter(s); in a class of three, each student takes one role and the fourth is shared.
 
 ---
 
@@ -305,7 +305,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 **Activities:**
 1. **Setup peer review (5 min):** Explain review criteria and expectations.
-2. **Work + peer review (25 min):** Draft complete. Swap with another group for a 15-min review. Address feedback in remaining time.
+2. **Work + peer review (25 min):** Draft complete. Swap decks — with multiple teams each deck goes to another team; with a single team students exchange decks within the team — for a 15-min review. Address feedback in remaining time.
 3. **Refinement (10 min):** Iterate based on peer feedback.
 4. **Check-in (5 min):** Teacher checks group progress.
 
@@ -364,36 +364,50 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 
 ---
 
-## U2 L21: Unit 2 Synthesis — Build a Physical Security Program (Oct 28, Wed — PAPER DAY)
+## U2 L21: Home Physical Security Synthesis + Audit Launch (Oct 28, Wed — PAPER DAY)
 
-**Period:** 22  |  **LOs:** 2.1.A, 2.2.A, 2.3.A, 2.4.A
+**Period:** 22  |  **LOs:** 2.1.A–F, 2.2.A–C, 2.3.A–C, 2.4.A–C (all Unit 2)
 
-**Scenario:** A Taiwanese semiconductor firm is moving into a new Taichung office. Design the physical security program.
+**Scenario:** Your home / apartment building / dorm is the site. Each student audits a different real location. Design the layered physical security program for your own building.
 
 **Activities:**
-1. **Group design (20 min):** groups build a layered program — perimeter, entry control, interior zones, monitoring, detection, response. Each control must be justified by naming the Unit 2 LO it satisfies.
-2. **Group presentations (15 min):** each group walks the class through its layer stack.
-3. **Gap hunt:** class identifies which LO no group covered. Usually 2.3 environmental controls — call that out explicitly.
-4. **Study guide issued** to open the Nov 9-13 review block.
+1. **Hook + Threat Model (10 min):** "Describe your building's entry sequence from street to your door. What does the log show vs. what actually happened?" Each student articulates their home's threat model shift through Unit 2 lenses.
+2. **Individual Design (35 min):** Each student designs a 6-zone layered program for their actual home. Every control justified by naming the Unit 2 LO it satisfies. Zone mappings: Perimeter, Entry Control, Interior Zones, Monitoring, Detection, Response.
+3. **Peer Cross-Check (15 min):** Trio rotation (A→B, B→C, C→A). Reviewers find: missing LO code, mismatched code, empty zone. Sticky notes on sheets; authors correct.
+4. **Gap Hunt (10 min):** Class reads LO codes off sheets. Which LO did no student cover? → re-teach board for Nov 9.
+5. **Audit Packet Walkthrough + Launch (10 min):** Teacher's completed sample audit (own apartment). Walk the audit checklist (on back of design sheet) requirement by requirement. Taiwan Addendum A (shared network) + Addendum B (typhoon/flood).
+6. **Due Date, Format, Recap + Study Guide Start (10 min):** Due Nov 9, handwritten, 2–4 pages, graded HW quiz. Study Guide Section 1: every objective code + first control for home site.
 
-**Assessment:** Design sheets collected; coverage gaps used to set review priorities.
+**Assessment:** Design sheets + peer-check sticky notes collected; coverage gaps drive Nov 9–12 review. Study guide issued.
 
-**🇹🇼 Taiwan context:** semiconductor supply-chain context gives the physical-security stakes real weight — a fab is both a high-value target and a hard target because of the clean-room layering.
+**Google Classroom (single assignment for both days + break):**
+- **Title:** U2 L21–L22: Home Physical Security Synthesis + Fall Break Audit
+- **Posted:** Oct 28 (start of P22)
+- **Due:** Nov 9 (P25, brought physically)
+- **Topic:** Unit Tests  (matches grading category — audit graded as HW quiz on Nov 9)
+- **Attachments:** Design sheet (double-sided with audit checklist), Peer-Check Rubric, Unit 2 Study Guide
+- **Points:** 100
+- **Turn in:** Physical hand-in Nov 9; students click "Mark as done" in Classroom.
+
+**🇹🇼 Taiwan context:** Shared building network infrastructure (flat VLAN, unmanaged switch, management interface on tenant Wi-Fi) + typhoon/flood physical resilience — both woven into the design zones and audit addenda.
 
 ---
 
-## U2 L22: Break Prep — Fall Break Audit Launch (Oct 29, Thu — PAPER DAY)
+## U2 L22: Fall Break Audit Work Day (Oct 29, Thu — PAPER DAY)
 
-**Period:** 23  |  **LOs:** 2.2, 2.3, 2.4 (applied)
+**Period:** 23  |  **LOs:** 2.2.A, 2.2.C, 2.3.A, 2.3.C, 2.4.A (applied)
+
+**Google Classroom:** Same assignment as Oct 28 — "U2 L21–L22: Home Physical Security Synthesis + Fall Break Audit" (posted Oct 28, due Nov 9). No new assignment created today.
 
 **Activities:**
-1. **⚡ Graded HW quiz** (5-10 min, paper) on mini-project homework.
-2. **Fall Break assignment launch (20 min):** distribute the home physical-security audit. Walk the checklist requirement by requirement, show a completed sample, state the due date (first class back, Mon Nov 9) and the format.
-3. **Taiwan-specific requirements** — students must additionally note (a) one risk from shared building network infrastructure common in Taiwanese apartments and communities, and (b) one physical-resilience gap relevant to typhoon and flood seasons.
-4. **Clarify it is a paper exercise** — notebook, no technology required, no GitHub over the break.
-5. **Unit 2 recap** for the remaining time: open Q&A on any objective students flag as shaky.
+1. **Clarification & Questions (15 min):** Open floor for questions about the audit checklist, evidence standards, and the two Taiwan addenda. Review sample audit margin notes (why 2.2.A vs 2.2.C, likelihood medium not high, avoid vs mitigate).
+2. **Independent Work Time (55 min):** Students work on audits. Teacher circulates for 1-on-1 check-ins: verify 4-line minimum per finding (description, likelihood, impact, treatment+reasoning, evidence); check Addendum A (shared network risk + evidence); check Addendum B (typhoon/flood gap + what it breaks); confirm risk/treatment language.
+3. **Study Guide Progress (10 min):** Continue Unit 2 Study Guide Section 1. Teacher spot-checks for completeness.
+4. **Final Reminders (5 min):** Due Nov 9 physically, graded HW quiz at start. Length 2–4 pages handwritten. Reasoning graded, not the building. Nov 9–12 review driven by audit findings. Test Nov 13.
 
-**Assessment:** Graded HW quiz. Fall Break audit assignment issued (Google Classroom, due Nov 9 before class).
+**Assessment:** In-progress audit check-ins (formative). Study Guide Section 1 progress.
+
+**Homework (due Mon Nov 9, brought to class — graded HW quiz):** Complete Fall Break physical security audit (2–4 pages, by hand). Both Taiwan addenda included. Study Guide Section 1 complete. Read first CED excerpt of Unit 3 (Securing Networks) — quiet read only.
 
 ---
 

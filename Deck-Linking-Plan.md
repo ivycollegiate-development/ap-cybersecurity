@@ -65,7 +65,7 @@ Teaching-day rows -> JuiceMind section deck for that day's CED topic. Unit revie
 | 59 | 10/26/2026 | Monday | 2.3 Protecting Physical Spaces — Environmental Controls | Deck | https://docs.google.com/presentation/d/1t4aKcZrfY3_BbzWgOqNBK3H4Gh1mKy6ZAgDNW2hTgBY/edit |
 | 60 | 10/27/2026 | Tuesday | Mock MCQ Sprint: Unit 2 Review | Debrief | https://docs.google.com/presentation/d/12Q1X02c1iA3h77b-G7hV9cQ_pEq9R-9Pklyoswmf56k/edit + https://docs.google.com/presentation/d/1DulCT3rDfKtAIdemZFISoppS0cUo2bxoiNjuQr4-lmE/edit + https://docs.google.com/presentation/d/1YVo7GFz9eDsfuPCGlC6jehzlXdL6DLYeRSn2Ng8TqQc/edit + https://docs.google.com/presentation/d/1r36Pf9Uvv-N-NHJb5VjRLAXG4A7Z2ywqkXwri9qy2-c/edit |
 | 61 | 10/28/2026 | Wednesday | 2.4 Detecting Physical Attacks — Sensors, Logs, Alarms | Deck | https://docs.google.com/presentation/d/1nVhBl7NkQ0BFHMQEsrEvyXl2hjMim9L5p37RVqjFkKI/edit |
-| 62 | 10/29/2026 | Thursday | Break Prep + Unit Review: Physical Security Audit Preview | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
+| 62 | 10/29/2026 | Thursday | Fall Break Audit Work Day | Deck | https://docs.google.com/presentation/d/1sBsqzm4m8NpWbHns-eVAiVwI-lTvcIP1uLFn6D_ZA8s/edit |
 | 63 | 10/30/2026 | Friday | Flex / Catch-Up |  | — |
 | 64 | 10/31/2026 | Saturday | Fall Break |  | — |
 | 65 | 11/01/2026 | Sunday | Fall Break |  | — |
