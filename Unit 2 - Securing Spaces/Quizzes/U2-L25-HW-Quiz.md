@@ -20,10 +20,10 @@ A building has four cameras at its main entrance. Camera 4 frames the door face,
 
 What does that coverage gap mean?
 
-A. Coverage is adequate, because the door face is framed.
-B. The approach path is uncovered, so the system cannot show who approached the door.
+A. The door face is framed, so coverage at the entrance is adequate.
+B. The approach path is blind, so nobody is identified.
 C. Four cameras is below the minimum for a building of that size.
-D. Replacing the camera with a higher-resolution model closes the gap.
+D. A higher-resolution camera would close the gap at the door face.
 
 ---
 
@@ -32,10 +32,10 @@ A ground-floor network closet in Taichung sits below the level of the loading do
 
 Which control set best addresses the typhoon-season flood risk?
 
-A. A UPS and a second air-conditioning unit.
-B. A camera aimed at the closet door and a visitor log for the floor.
-C. Raise the equipment above the flood level, add a leak sensor with an alert, and give water a secondary drain.
-D. A mantrap at the entrance and rekeyed interior doors.
+A. A larger UPS, a second air-conditioning unit, and a backup generator.
+B. A camera aimed at the closet door and a visitor log for the floor above it.
+C. Raise the equipment, sense leaks with an alert, and drain the water away.
+D. A mantrap at the entrance and rekeyed interior doors on every floor.
 
 ---
 
@@ -44,10 +44,10 @@ Exceptions from a site's badge log are emailed to the facilities manager, who re
 
 Which change best satisfies 2.4.C?
 
-A. Add more recipients, so someone eventually sees the email.
-B. Keep the email and add a monthly summary.
-C. Alert on a denied-then-granted read within two minutes, page the on-call guard, and check the door within 15 minutes.
-D. Drop alerting and review the log once a quarter.
+A. Alert on every denied badge read so nothing is missed, and email the facilities team each morning.
+B. Keep the next-morning email and add a monthly summary of every exception type seen.
+C. Page the on-call guard within two minutes of a denied-then-granted read, and check the door within 15.
+D. Drop the alerting and review the full badge log once a quarter instead.
 
 ---
 

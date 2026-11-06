@@ -31,11 +31,11 @@
 3. **FRQ section (15 min):** One question, plus time to read the rubric. Read the rubric *before* you write. The FRQ prompt and the rubric are on the last page.
 
    **FRQ rubric (10 points):**
-   - Identifies at least two physical vulnerabilities and labels each with the correct CED category (2.2.A / 2.2.B / 2.2.C) — 2 pts
-   - Gives a likelihood and an impact for each finding, each with a one-sentence reason — 2 pts
-   - Selects a correct treatment (avoid / transfer / mitigate / accept) for each finding, with justification — 3 pts
-   - Explains a detection or monitoring method that would reveal the activity (2.4.A / 2.4.B / 2.4.C) — 2 pts
-   - Addresses one Taiwan-specific condition — shared building network infrastructure, or typhoon/flood physical resilience — as a real risk to the scenario — 1 pt
+   - **(a)** Identifies at least two physical vulnerabilities, each labelled with the correct CED category (2.2.A / 2.2.B / 2.2.C) — 2 pts
+   - **(b)** Names one control per vulnerability (2.3.A / 2.3.B / 2.3.C) and explains how it defeats that specific mechanism — 2 pts
+   - **(c)** Selects a treatment (avoid / transfer / mitigate / accept) for each finding, justified against the cost of the control and the size of the impact — 2 pts
+   - **(d)** States what the badge log and the closet sensor prove and cannot prove (2.4.A), correlates them with the camera record, and gives two plausible explanations (2.4.B) — 2 pts
+   - **(e)** Writes an alert threshold with a named action, owner, and time bound (2.4.C), and explains why emailing the facilities manager fails the same objective — 2 pts
 
    Four things that cost points every year: naming a vulnerability without a CED category, giving a treatment with no justification, describing a control that detects nothing, and answering a broader question than the one asked.
 

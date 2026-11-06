@@ -52,7 +52,7 @@ Use the rest of this page for your risk assessment. The rubric is on the **back 
 
 The two points for the Taiwan conditions are the most commonly lost.
 
-**On the Unit 2 test,** the same rubric is reweighted — treatments 3, detection 2, Taiwan condition 1. The detection half you practise here (the camera / log correlation) is scored directly there, so write the detection sentence, not just the access-control one.
+**On the Unit 2 test,** the FRQ is scored in **five parts of two points each** — (a) two vulnerabilities with CED categories, (b) one control per vulnerability with its mechanism, (c) the treatment and its justification, (d) what the badge log and the closet sensor prove and cannot prove, correlated with the camera, plus two plausible explanations, and (e) an alert threshold with a named action, owner, and time bound. The detection half you practise here maps onto part (d) and the alerting onto part (e), so write those sentences, not just the access-control one.
 
 ### Self-scoring (after the paper pass)
 
