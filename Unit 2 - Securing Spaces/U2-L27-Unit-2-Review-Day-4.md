@@ -29,7 +29,7 @@
 
 5. **Test logistics (4 min):**
    - **Friday, Nov 13 — Unit 2 Test.** Paper. No computers.
-   - **20 MCQ plus 1 FRQ, 45 minutes.** Budget about 1 minute 40 seconds per MCQ and reserve the last 12–13 minutes for the FRQ — do not spend two full minutes on every MCQ and arrive with no time to write.
+   - **20 MCQ plus 1 FRQ, 45 minutes.** Section I is 20 MCQ in 30 minutes (about 1 minute 30 seconds each); Section II is the FRQ in 15 minutes — do not spend two full minutes on every MCQ and arrive with no time to write.
    - **MCQ coverage:** 2.1 attack phases, 2.1 risk assessment, 2.1 risk treatment, 2.2 physical vulnerabilities, 2.3 physical protections, 2.4 detection methods. Study guide sections map onto it directly.
    - **You will be given** one blank scratch sheet and a pencil. No notes, no study guide, no phone, no watch alarms.
    - **The FRQ is one question, not five.** You will be told exactly what it asks for and given the rubric. A common way to lose points is to answer a question that was not asked.

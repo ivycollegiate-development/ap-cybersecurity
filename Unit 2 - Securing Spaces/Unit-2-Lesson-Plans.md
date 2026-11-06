@@ -491,7 +491,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 **Period:** 29  |  **LOs:** 2.1-2.4
 
 **Activities:**
-1. **Test (40 min):** 20 MCQ (2 min each) + 1 FRQ. Covers attack phases, risk assessment, risk treatment options, physical vulnerabilities, physical protections, and detection methods.
+1. **Test (45 min):** 20 MCQ (30 min total) + 1 FRQ (15 min). Covers attack phases, risk assessment, risk treatment options, physical vulnerabilities, physical protections, and detection methods.
 2. **Early finishers:** read the Unit 3 preview.
 3. No HW quiz on test day.
 
