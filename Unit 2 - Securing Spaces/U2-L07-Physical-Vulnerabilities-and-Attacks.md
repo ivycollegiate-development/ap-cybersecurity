@@ -29,7 +29,7 @@
 
    Common thread to state explicitly: **five of these six are defeating a control by using it correctly.** The lock works. The reader works. The person held the door because that is what people do.
 
-3. **Activity — "How would you get in?" (20 min):** Printed floor plan of this building, one per student. Work in pairs. Trace **three attack vectors** through the plan. For each, mark on the plan:
+3. **Activity — "How would you get in?" (20 min):** Printed floor plan of this building, one per student. Work in a group of three. Trace **three attack vectors** through the plan. For each, mark on the plan:
    - the entry point, marked with an X
    - the path to the target, arrowed
    - the control that should have stopped it at each step along the way, with the specific one you think should be added
@@ -39,8 +39,8 @@
 
    Then: for each vector, state which attack method it uses. The same route often works two different ways — a side exit might be reached by pulling the door bar (physical) or by holding it open for someone with a badge (tailgating), and those need different controls.
 
-4. **Close (5 min):** Each pair names one control to add and where. Collect the plans. Push on the class as a whole: *which single control, added to this building, breaks the most of the vectors you just drew?*
+4. **Close (5 min):** Each student names one control to add and where. Collect the plans. Push on the class as a whole: *which single control, added to this building, breaks the most of the vectors you just drew?*
 
 **Homework (due Fri 20:30 — Monday quiz):** Read the four case study briefs in tomorrow's jigsaw: RSA SecurID, Snowden, Stuxnet, and the Taichung fab incident. Each group will be assigned one. Quiz is on tailgating vs. piggybacking and on why cloned badges are hard to detect.
 
-**Differentiation / ELL support:** The floor plan is pre-labelled with room names and the six control locations marked as blanks, so no time is lost on orientation. A printed attack-method reference card names each method with a one-line description and a sketch, which covers the vocabulary students need for the vocabulary portion of the exit response. Pairs may trace the three vectors in a shared short order (easiest to hardest) if that helps. The common thread — attacks that use a control correctly — is the concept to land; if a student is stuck on mechanics, have them answer only the "which control, and where" part.
+**Differentiation / ELL support:** The floor plan is pre-labelled with room names and the six control locations marked as blanks, so no time is lost on orientation. A printed attack-method reference card names each method with a one-line description and a sketch, which covers the vocabulary students need for the vocabulary portion of the exit response. Students may trace the three vectors in a shared short order (easiest to hardest) if that helps. The common thread — attacks that use a control correctly — is the concept to land; if a student is stuck on mechanics, have them answer only the "which control, and where" part.

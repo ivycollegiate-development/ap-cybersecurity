@@ -145,7 +145,7 @@
 |------------------|----------------|
 | Score all 9 criteria on printed rubric | Read feedback, pick 2–3 highest-value fixes |
 | Write specific feedback for any criterion < 60% | Note disagreements with reasoning on slide |
-| Calibrate scores in pairs (5 min) | Keep cost table closed — no new spend without cuts |
+| Calibrate scores as a class (5 min) | Keep cost table closed — no new spend without cuts |
 | Return rubric + deck to author | Show revised deck with reviewer comments visible |
 
 **Most common peer review misses:** Criterion 6 (detection quality — missing named recipient), Criterion 3 (server room — no power/HVAC failure plan), Criterion 8 (shared surface — lobby/building network).

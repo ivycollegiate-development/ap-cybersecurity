@@ -30,4 +30,4 @@
 
 **Homework (due Wed 20:30 — Oct 28 quiz):** Finish filing today's misses in your Unit 2 study guide. Every miss, not just the graded ones — if you got it right by guessing, file it too. Tomorrow's synthesis day assumes you can look up any objective in the guide.
 
-**Differentiation / ELL support:** The answer key rationales are written as full sentences so they can be read aloud or re-read for comprehension. Peer grading can be done in pairs with the rationale read aloud for students who prefer audio. Students who miss all five: file all five and see me after class — that pattern is useful information, not a failure.
+**Differentiation / ELL support:** The answer key rationales are written as full sentences so they can be read aloud or re-read for comprehension. Peer grading can be done with a classmate, the rationale read aloud, for students who prefer audio. Students who miss all five: file all five and see me after class — that pattern is useful information, not a failure.

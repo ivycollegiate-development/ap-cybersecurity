@@ -29,7 +29,7 @@
 
    Thresholds (2.4.C): a threshold is a *decision* to look, not a detection of fact. Denied-then-granted within N minutes, a badge on a door it never uses, any entry in an unstaffed-hours zone, motion in a zone with no scheduled activity. The tuning problem is not "how do we catch everything" — it is "how do we catch it without a queue nobody reads."
 
-3. **Log annotation — find the anomaly (20 min):** Printed packet, five sources covering the same night. Individually first, 8 minutes, then in pairs. For each source, mark the anomalous line and write: what is normal here, what is not, and what it would mean.
+3. **Log annotation — find the anomaly (20 min):** Printed packet, five sources covering the same night. Individually first, 8 minutes, then compare with a classmate. For each source, mark the anomalous line and write: what is normal here, what is not, and what it would mean.
 
    There is one planted anomaly per source, and they are not all the same type of event. For each, the question to answer is *what does this prove and what does it not prove*:
    - Badge log: a denied swipe followed by a granted swipe 40 seconds later at the same reader, and the same badge appearing at a different building entrance three hours earlier.
@@ -40,7 +40,7 @@
 
    Push students past the first anomaly: the door-open contact is a *true* alarm that means nothing, and the missing escort line is *quiet* and means a great deal. A good analyst is suspicious of the boring one.
 
-4. **Pair discussion — good alert vs. noise (5 min):** Two columns on the board. Left: what makes an alert *good* — specific time, specific door, specific credential, a deviation from a known pattern, something a human can act on within minutes. Right: what generates noise — every door-open in a building where doors are propped, every motion trigger on a walkway, any alert during a period when nobody is on duty to receive it.
+4. **Peer discussion — good alert vs. noise (5 min):** Two columns on the board. Left: what makes an alert *good* — specific time, specific door, specific credential, a deviation from a known pattern, something a human can act on within minutes. Right: what generates noise — every door-open in a building where doors are propped, every motion trigger on a walkway, any alert during a period when nobody is on duty to receive it.
 
    Then the real question: **who receives the 3 AM alert, and what are they doing at 3 AM?** This is the bridge to the badge lab tomorrow and to the correlation capstone.
 
@@ -50,4 +50,4 @@
 
 **Homework (due Fri 20:30 — Friday quiz):** Read the badge log lab handout. Confirm you can reach the VS Code server and open the lab folder before class. Tomorrow is a full technical lab on a ~500-entry badge log.
 
-**Differentiation / ELL support:** The packet is sectioned by source with the field definitions printed in a margin key, so the work is the inference rather than the format. Students who need the task narrowed get a 2-source packet (badge log + sensor log) instead of all five, which is still a complete correlation argument. Provide a plain-language header row for each source naming what it records and what it cannot record. The good-alert discussion works orally first — pairs talk it through before anyone writes on the board.
+**Differentiation / ELL support:** The packet is sectioned by source with the field definitions printed in a margin key, so the work is the inference rather than the format. Students who need the task narrowed get a 2-source packet (badge log + sensor log) instead of all five, which is still a complete correlation argument. Provide a plain-language header row for each source naming what it records and what it cannot record. The good-alert discussion works orally first — the class talks it through before anyone writes on the board.

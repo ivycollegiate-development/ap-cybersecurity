@@ -21,7 +21,7 @@
    - **Prompt:** A 40-unit apartment building in Taichung has one entry door with a keypad, a CCTV camera at the parking entrance, and a badge log for staff. Residents report that unknown people have entered several times in the past month. The building's switch closet is on the ground floor. Write a risk assessment for the building and recommend treatment for two of the findings you identify.
    - **Deconstruct (3 min), whole class, on the board:** what is being asked, and what is *not*. It asks for a risk assessment — likelihood and impact, not a description. It asks for exactly two treatments, not five. It does not ask you to redesign the building. Write the three requirements at the top of the page; every sentence after that should serve one of them.
    - **Write (10 min):** Ten minutes, timed, on paper. Silent. If you have time left over, improve a justification rather than adding a third finding.
-   - **Peer-score (4 min):** Swap with a partner and score against the rubric on the back of your page. Score the *partner's* paper honestly — the rubric is the arbiter, not your opinion of their building.
+   - **Peer-score (4 min):** Swap with a classmate and score against the rubric on the back of your page. Score the *classmate's* paper honestly — the rubric is the arbiter, not your opinion of their building.
 
 3. **Model answer (10 min):** Read the model answer aloud. Then the important part: have students score their own paper against the rubric a second time and note one specific difference between their answer and the model.
    - **Rubric (10 points total):**

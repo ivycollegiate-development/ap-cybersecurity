@@ -239,7 +239,7 @@ Work time to catch up on any unfinished lab work, vocabulary, or pre-reading. Te
 **Activities:**
 1. **Hook / Case Study Viewing (5 min):** Play Fireship video 0:00–3:50 (stops before sponsor). An OpenAI engineering lead plants a $23 Wi-Fi audio bug in the executive boardroom TV's USB port, wrapped in toilet paper. Lasts 48 hours.
 2. **Direct instruction (10 min):** Detection methods review — TSCM sweeps, log analysis (MAC addresses, DHCP), video surveillance correlation, guard patrol reports, entry/exit reconciliation. Alert thresholds. Frame: "Every detection method in this list is what caught him."
-3. **Activity — Detection Chain Reconstruction (20 min):** In pairs, students complete the printed worksheet mapping the real detection chain from the criminal complaint:
+3. **Activity — Detection Chain Reconstruction (20 min):** In a group of three, students complete the printed worksheet mapping the real detection chain from the criminal complaint:
    - **TSCM sweep** (routine) → found the device physically
    - **MAC address in network logs** → tied to the device
    - **Wife's ChatGPT history** → same MAC pasted two days earlier (OPSEC failure)

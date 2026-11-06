@@ -27,4 +27,4 @@
 
 **Homework (due Sun 20:30 — Monday quiz):** Finish the defense-in-depth diagram if incomplete. Read CED 2.3–2.4 in preparation for Monday's flex day.
 
-**Differentiation / ELL support:** The diagram template is fillable, so students can place controls as text labels rather than drawing. The layer/function distinction is the hard part — a printed reference table of the three functions with a plain-language example each is available. Pair students so a confident writer records while the group decides placement.
+**Differentiation / ELL support:** The diagram template is fillable, so students can place controls as text labels rather than drawing. The layer/function distinction is the hard part — a printed reference table of the three functions with a plain-language example each is available. Students may record on the template individually while the class decides placement together.

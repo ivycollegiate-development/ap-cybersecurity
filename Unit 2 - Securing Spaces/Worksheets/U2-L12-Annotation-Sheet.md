@@ -73,7 +73,7 @@ You have 5 log sources covering the same night (October 10–11, 2026). For each
 
 ---
 
-## CROSS-SOURCE CORRELATION (Pair Discussion — 5 min)
+## CROSS-SOURCE CORRELATION (Peer Discussion — 5 min)
 
 **Time window to correlate:** 22:00 Oct 10 – 03:30 Oct 11
 

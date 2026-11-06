@@ -113,4 +113,4 @@ At 03:12, a cleaning contractor badges into the server room (authorized for nigh
 ---
 
 **Instructions for students:**  
-Work in silence for 15 minutes. When time is called, swap with a partner and score using this rubric. For every point lost, write the **objective code**, **your answer**, **correct answer**, and **the rubric sentence that explains the error** in your Unit 2 study guide. This is the assignment — the score is just data.
+Work in silence for 15 minutes. When time is called, swap papers with a classmate and score using this rubric. For every point lost, write the **objective code**, **your answer**, **correct answer**, and **the rubric sentence that explains the error** in your Unit 2 study guide. This is the assignment — the score is just data.

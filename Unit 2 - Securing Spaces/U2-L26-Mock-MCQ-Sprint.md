@@ -19,7 +19,7 @@
 
 2. **Mock MCQ sprint (6 min):** Silent, timed, on paper.
 
-3. **Peer-grade (7 min):** Swap papers with the student next to you. Grade five, read the rationale, and if you think the key is wrong, write your objection in the margin. I will read the objections. An objection that is right is worth more than an objecting student.
+3. **Peer-grade (7 min):** Swap papers with a classmate. Grade five, read the rationale, and if you think the key is wrong, write your objection in the margin. I will read the objections. An objection that is right is worth more than an objecting student.
 
 4. **Rationale re-read (6 min):** Re-read every rationale, including the ones you got right. This is deliberate: the sprint is not a score, it is a diagnostic. Read the rationale for the question you got right too, because a correct answer from weak reasoning will cost you on Friday.
 

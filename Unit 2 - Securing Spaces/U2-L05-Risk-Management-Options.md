@@ -40,4 +40,4 @@
 
 **Homework (due Wed 20:30 — Thursday quiz):** Read CED 2.1.F and be ready to build a risk register tomorrow. Bring your six scenario justifications — Wednesday's lab reuses this vocabulary.
 
-**Differentiation / ELL support:** Provide a partially completed handout with scenarios 1 and 2 already treated as worked examples so the task starts from imitation rather than blank page. The transfer-versus-delegate distinction is the hard one; a printed two-column card contrasting the two is on the front desk. Students may write the justification orally to a partner before writing it.
+**Differentiation / ELL support:** Provide a partially completed handout with scenarios 1 and 2 already treated as worked examples so the task starts from imitation rather than blank page. The transfer-versus-delegate distinction is the hard one; a printed two-column card contrasting the two is on the front desk. Students may say the justification aloud to a classmate before writing it.
