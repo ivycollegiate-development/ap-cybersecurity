@@ -10,7 +10,7 @@
 
 Student-specific: each student re-answers the two items they missed on the Nov 11 sprint, from memory, with no key.
 
-**Scoring — 2 points each, all-or-nothing on the reasoning:**
+**Scoring — 2 points each:**
 - 2 pts — the answer is correct **and** the student's one-line reason matches the key rationale for that item.
 - 1 pt — the correct answer with no reason, or the wrong answer with a correct reason (the misconception is partway cleared).
 - 0 pts — wrong answer, no reasoning.
@@ -49,7 +49,7 @@ The full-credit habit: state the **inherent pair**, state the **residual pair**,
 - **C (mitigate)** reduces likelihood or impact but keeps the activity.
 - **D (accept)** documents the residual and takes no action — the opposite of what happened.
 
-The distinction that separates B from A: **mitigation manages the risk; avoidance removes the source of it.**
+The distinction that separates C from A: **mitigation manages the risk; avoidance removes the source of it.**
 
 ### 3. C — 2.1.E (ALE)
 

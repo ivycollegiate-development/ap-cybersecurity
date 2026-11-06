@@ -28,10 +28,11 @@
 
 **Full-credit justification (2.5):** The control costs NT$40,000 once and reduces the annualized loss expectancy by NT$900,000 (NT$1,200,000 → NT$300,000), so the annual reduction in expected loss is more than twenty times the one-time cost. Mitigation is justified.
 
-**Scoring:**
+**Scoring (2.5 pts total):**
 - 1.5 pts — names **mitigate**.
 - 1.0 pt — justifies against the numbers: the NT$900,000 annual reduction against the NT$40,000 one-time cost.
-- 1.0 pt partial credit path: accepts "mitigate, then insure the residual" **only** with a stated reason (the residual NT$300,000 ALE is retained or transferred).
+
+**Accepted alternative (same 2.5-pt scale):** "mitigate, then insure the residual" earns full credit **only** when the student states the reason (the residual NT$300,000 ALE is retained or transferred). Score 1.5 for the treatment name and 1.0 for the reason — do not add a third point.
 
 **No credit:** naming mitigate with no justification, or a justification that ignores the cost figures ("because it stops the door being propped").
 

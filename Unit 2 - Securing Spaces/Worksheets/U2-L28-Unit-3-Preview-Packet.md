@@ -47,7 +47,7 @@ Every one of those is a computer. The camera that films your front door is runni
 
 Answer on the back of this sheet in complete sentences. These are not graded — they are the first thing we will discuss in Unit 3, and a good answer here is a head start.
 
-**1.** In Unit 2 you learned that a badge log records *who badged in* but cannot show **how many people** actually entered. Using the network terms above, name one network record or device that has the same limitation — it can tell you *that* something connected, but not *whether it was supposed to*.
+**1.** In Unit 2 you learned that a badge log records *which credential was used* but cannot show **how many people** actually entered. Using the network terms above, name one network record or device that has the same limitation — it can tell you *that* something connected, but not *whether it was supposed to*.
 
 ______________________________________________________________________
 ______________________________________________________________________
@@ -59,7 +59,7 @@ ______________________________________________________________________
 ______________________________________________________________________
 ______________________________________________________________________
 
-**3.** Prediction, no right answer: Unit 3's physical-security equivalent of a **mantrap** is a control that stops an attacker who already has a valid way in. What network control do you expect to play that role, and what would it have to check that a password cannot?
+**3.** Prediction, no right answer: Unit 2's **mantrap** is a control that stops a second person from following someone who has a valid way in. What network control do you expect to play that role, and what would it have to check that a password cannot?
 
 ______________________________________________________________________
 ______________________________________________________________________

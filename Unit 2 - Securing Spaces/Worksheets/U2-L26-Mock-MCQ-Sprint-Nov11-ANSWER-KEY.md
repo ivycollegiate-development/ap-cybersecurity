@@ -1,7 +1,7 @@
 # U2 L26 — Mock MCQ Sprint (Nov 11) — ANSWER KEY
 
-**Teacher only. Never shared with students and never attached to a Classroom assignment.**
-Printed for peer-grading: each student grades the paper to their right against this key and may write an objection in the margin.
+**Teacher master copy — do not attach to a Classroom assignment.**
+For peer-grading: write the answer sequence on the board; each student grades the paper to their right and may write an objection in the margin.
 
 **Answer sequence:** 1-A, 2-B, 3-C, 4-B, 5-B
 
@@ -55,7 +55,7 @@ Coverage is **independent** when it produces a fact the other controls cannot. A
 
 ### 5. B — 2.4.B (correlate video and log evidence)
 
-The correlation is the point: **one credentialed event** (02:19) and **one person with no badge event** in the same window (02:20). The camera shows presence; the log shows credentials. Together they show a second person inside without a credential record — consistent with tailgating through the closet door.
+The correlation is the point: **one credentialed event** (02:19) and **one person with no badge event** in the same window (02:20). The camera shows presence; the log shows credentials. Together they show a second person inside without a credential record — consistent with tailgating. The records do not establish which door the second person used.
 
 - **A** invents a cause the evidence does not support. A cloned badge would produce a read, and there is none.
 - **C** misreads the records: 02:19 and 02:20 agree.

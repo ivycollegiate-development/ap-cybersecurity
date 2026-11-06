@@ -30,7 +30,17 @@ Write these three lines at the top of your answer page. Every sentence after tha
 
 ---
 
-## What earns the points
+## Write your answer below
+
+Use the rest of this page for your risk assessment. The rubric is on the **back of this page** — do not turn it over until you have finished writing.
+
+---
+
+## Back of page — Rubric and self-scoring
+
+**Do not turn over until you have finished writing.**
+
+### What earns the points
 
 | Criterion | Points |
 |---|---|
@@ -40,13 +50,13 @@ Write these three lines at the top of your answer page. Every sentence after tha
 | Addresses the **ground-floor switch closet** and a **typhoon/flood or shared-building-network** condition | 2 |
 | **Total** | **10** |
 
-The rubric is worth as much as the answer. The two points for the Taiwan conditions are the most commonly lost.
+The two points for the Taiwan conditions are the most commonly lost.
 
----
+### Self-scoring (after the paper pass)
 
-## Self-scoring (after the peer swap)
+**Stop. Pass your paper one seat clockwise.** The class has three students — there are no pairs, so the paper goes to the next seat and comes back to you.
 
-| Criterion | Self-score | Partner score | Difference I have to explain |
+| Criterion | Self-score | Grader score | Difference I have to explain |
 |---|---|---|---|
 | Two vulnerabilities + CED categories ( /2) | | | |
 | Likelihood and impact + reasons ( /2) | | | |
@@ -59,16 +69,13 @@ The rubric is worth as much as the answer. The two points for the Taiwan conditi
 ______________________________________________________________________
 ______________________________________________________________________
 
----
+### Objective crosswalk (for the study guide)
 
-## Objective crosswalk (for the study guide)
-
-| Part of the FRQ | Objective |
+| Rubric criterion | Objective |
 |---|---|
-| Naming the vulnerability (tailgating / shoulder surfing / social engineering, cloning, lock picking) | 2.2.A, 2.2.B, 2.2.C |
-| Likelihood, impact, and how a control changes a rating | 2.1.E |
-| Treatment selection and justification | 2.1.F |
-| Control choice against how the attack actually works | 2.3.A |
-| Monitoring and detection conditions | 2.4.B |
+| Two physical vulnerabilities + CED categories | 2.2.A, 2.2.B, 2.2.C |
+| Likelihood and impact with reasons | 2.1.E |
+| Two treatments + justifications | 2.1.F |
+| Switch closet + typhoon/flood or shared-network condition | 2.3.C |
 
 *The model answer is read aloud in class. Score your own paper a second time against this rubric while it is read, and note the one difference above.*

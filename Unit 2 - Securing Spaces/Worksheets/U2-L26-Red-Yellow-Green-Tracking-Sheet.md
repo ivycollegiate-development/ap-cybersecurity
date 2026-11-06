@@ -72,4 +72,4 @@ If you have **R** in both the Oct 27 and Nov 11 columns for the same objective, 
 
 ## Reminder
 
-Red is not a score, it is a location. The Unit 2 test on Friday covers 2.1 through 2.4 — the column that matters is the one you fill in on **Thursday**, after the last review day.
+Red is not a score, it is a location. The Unit 2 test on Friday covers 2.1 through 2.4 — the column that matters is the one you fill in on **Nov 11**, during the sprint.

@@ -79,10 +79,10 @@ The badge log shows a staff badge entering the closet door at 02:19. The corrido
 What does correlating the two records establish?
 
 A. The second person must have used a cloned badge.
-B. There was one credentialed entry and a second person who produced no badge event inside the same window — consistent with tailgating through the closet door.
+B. There was one credentialed entry and a second person who produced no badge event inside the same window — consistent with tailgating.
 C. The camera timestamp and the log disagree.
 D. The second person arrived later and is unrelated to the entry.
 
 ---
 
-**Stop. Hand your paper to the student next to you.**
+**Stop. Pass your paper one seat clockwise.**

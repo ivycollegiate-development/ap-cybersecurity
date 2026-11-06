@@ -97,7 +97,7 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 **Unit 2 GitHub labs:** Physical Security Audit (Oct 2) - Risk Register (Oct 7) - Badge Log Analysis (Oct 16).
 **Mini-project (2.2-2.4):** Design Oct 20 - Peer Review Oct 21 - Presentations Oct 22.
 **Fall Break (Oct 31 - Nov 8):** home physical-security audit, paper exercise, no tech. Assigned Oct 28 (P22) via single Classroom assignment "U2 L21–L22: Home Physical Security Synthesis + Fall Break Audit" (due Nov 9, topic Unit Tests). Work day Oct 29 (P23). Collected Nov 9. Taiwan-specific: shared building network infrastructure in local apartments, plus typhoon/flood physical resilience — students note 1 shared-infrastructure risk and 1 weather-resilience gap.
-**Unit 2 Test:** Mon Nov 13 (P29). Review block Nov 9-12 falls BEFORE the test, not after.
+**Unit 2 Test:** Fri Nov 13 (P29). Review block Nov 9-12 falls BEFORE the test, not after.
 
 ---
 

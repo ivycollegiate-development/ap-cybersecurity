@@ -20,7 +20,7 @@
 | Free response | 1 question | 10 pts | 12–13 minutes reserved |
 | **Total** | | **30** | **45 minutes** |
 
-**Pacing: about 1 minute 40 seconds per multiple choice.** Do all 20 MCQ first, then the FRQ. If you are not finished with the MCQ at the 30-minute mark, move on and come back — **a guessed MCQ is worth more than a blank FRQ.**
+**Pacing: about 1 minute 30 seconds per multiple choice — 30 minutes for all 20.** Do all 20 MCQ first, then the FRQ. If you are not finished with the MCQ at the 30-minute mark, move on and come back — **a guessed MCQ is worth more than a blank FRQ.**
 
 Answer every multiple choice. A guess costs nothing; a blank costs a point.
 
