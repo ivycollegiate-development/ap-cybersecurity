@@ -20,15 +20,15 @@
 
 1. **Distribute and rules (4 min):**
    - 20 multiple choice, **1 FRQ**, 45 minutes total.
-   - **Pacing: about 1 minute 40 seconds per MCQ, 12 minutes reserved for the FRQ.** Work in that order: all 20 MCQ, then the FRQ. If you are not done with the MCQ at the 30-minute mark, move on and come back — a guessed MCQ is worth more than a blank FRQ.
+   - **Pacing: about 1 minute 30 seconds per MCQ, 15 minutes reserved for the FRQ.** Work in that order: all 20 MCQ, then the FRQ. If you are not done with the MCQ at the 30-minute mark, move on and come back — a guessed MCQ is worth more than a blank FRQ.
    - One point per MCQ, 10 points on the FRQ, **30 points total.**
    - Answer every MCQ. A guess costs nothing and a blank costs a point.
    - Scratch sheet is scratch. It is collected with the test and not graded.
    - Raise your hand for a procedural question. You may not ask about content.
 
-2. **MCQ section (24 min):** 20 questions, silent, closed book.
+2. **MCQ section (30 min):** 20 questions, silent, closed book. Answer grid collected when time is called, then Section II is handed out.
 
-3. **FRQ section (13 min):** One question, plus time to read the rubric. Read the rubric *before* you write. The FRQ prompt and the rubric are on the last page.
+3. **FRQ section (15 min):** One question, plus time to read the rubric. Read the rubric *before* you write. The FRQ prompt and the rubric are on the last page.
 
    **FRQ rubric (10 points):**
    - Identifies at least two physical vulnerabilities and labels each with the correct CED category (2.2.A / 2.2.B / 2.2.C) — 2 pts
@@ -39,7 +39,7 @@
 
    Four things that cost points every year: naming a vulnerability without a CED category, giving a treatment with no justification, describing a control that detects nothing, and answering a broader question than the one asked.
 
-4. **Collect and early-finisher work (4 min):** Collect all packets before anyone leaves. Early finishers get the Unit 3 preview (Securing Networks) excerpt and read it at their own desk. That is the assignment for the last minutes of the period, and it is a real reading task, not filler.
+4. **Collect and early-finisher work (1 min):** Collect all packets before anyone leaves. Early finishers get the Unit 3 preview (Securing Networks) excerpt and read it at their own desk. That is the assignment for the last minutes of the period, and it is a real reading task, not filler.
 
 ---
 
@@ -57,4 +57,4 @@
 
 The weighting is deliberate: risk treatment and physical vulnerabilities together account for 8 of 20, because those are the two objectives this class found hardest in the Nov 11 sprint.
 
-**Differentiation / ELL support:** Timing is stated per item and the total, so pacing does not depend on reading speed. The FRQ rubric is printed on the same page as the prompt, available for the full 13 minutes, and the scoring points are named in advance — a student who reads the rubric knows exactly what to produce. The CED category labels are permitted on the FRQ precisely so the assessment tests reasoning, not recall of category names under time pressure. Students who need language support may write the FRQ responses as complete sentences with fewer, clearer claims rather than terse fragments; length is not scored.
+**Differentiation / ELL support:** Timing is stated per item and the total, so pacing does not depend on reading speed. The FRQ rubric is printed on the same page as the prompt, available for the full 15 minutes, and the scoring points are named in advance — a student who reads the rubric knows exactly what to produce. The CED category labels are permitted on the FRQ precisely so the assessment tests reasoning, not recall of category names under time pressure. Students who need language support may write the FRQ responses as complete sentences with fewer, clearer claims rather than terse fragments; length is not scored.
