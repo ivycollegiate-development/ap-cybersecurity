@@ -384,13 +384,13 @@
 - Synthesize 3.1-3.5 into a complete defense design
 - 3.5.C Apply detection concepts (NIDS placement, logging) to a design
 
-**Materials:** Scenario packet, blank network diagram, current event article (printed)
+**Materials:** Scenario packet, blank network diagram, **U3-L19-Current-Event-Arkea-Brief** (printed — one per student; teacher key in repo, not distributed)
 
 **Activities:**
 1. **Scenario launch (5 min):** "You are the IT security team for Ecosoft Electronics, a 50-person company in Hsinchu Science Park (embedded chips). 40 workstations, 1 web server, 1 internal file server (R&D — most sensitive), 1 dev server, 20 IoT sensors on the factory floor, guest Wi-Fi. Budget: one managed switch, one firewall/NGFW, one wireless AP. Design a defense-in-depth network."
 2. **Design phase (15 min):** Groups design: VLAN segmentation with justification, firewall ACLs between segments, wireless security configuration, DMZ placement, NIDS placement, managerial controls (acceptable use, guest policy). Document with a network diagram + defense rationale.
 3. **Pair-critique (10 min):** Swap with another group (with a single team, exchange documents with a classmate within the team) — identify at least 3 weaknesses or missing controls.
-4. **Current event analysis (folded in, 10 min):** Read the printed current event (teacher-selected — e.g., a recent supply chain or network intrusion incident). Map it to the CED framework: vulnerability → exploit → impact. Which controls from the Ecosoft design would have stopped it?
+4. **Current event analysis (folded in, 10 min):** Distribute the printed Arkéa brief (Nov 4–5 2026: €100M+ fraudulent transfers from a French bank's own accounts, amount unconfirmed, crypto dispersion). Students map it to the CED framework — vulnerability → attack vector → exploit action → impact — labeling each row **Confirmed / Claimed / Unknown**. The entry vector is undisclosed; "unknown" is the correct answer and should not be corrected into a guess. Then they test three controls from their own Ecosoft design against it. Debrief Part B verbally; collect Part C. If time runs short, cut Part D (the conflicting recovery claims) and keep Part C — it is the 3.5.C assessment moment. France 24 video (2:02) is optional homework, not in class.
 
 **Homework (due 20:30):** Revise your design based on peer feedback. Tomorrow: final lab (network scanning detection).
 

@@ -1,0 +1,29 @@
+{
+  "name": "AP Cybersecurity CLI Fluency Check",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode-remote.remote-containers",
+        "ms-python.python",
+        "redhat.vscode-yaml"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  },
+  "remoteUser": "codespace",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:1": {
+      "enableNonRootDocker": "true"
+    }
+  },
+  "forwardPorts": [],
+  "postCreateCommand": "echo 'CLI Fluency environment ready. Run: STUDENT_ID=your_id python3 CLI-Check-Grader.py'",
+  "remoteEnv": {
+    "STUDENT_ID": "${localEnv:USER}"
+  }
+}

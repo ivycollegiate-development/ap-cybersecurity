@@ -185,7 +185,7 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 | P11 | Mar 1 | Mon | 5.4 Asymmetric Cryptography — Digital Signatures & Certificates | Direct instruction + guided notes |
 | P12 | Mar 2 | Tue | 📄 Pre-Lab: Symmetric Encryption Lab Prep | Caesar cipher warmup, AES vs Caesar, key terms |
 | P13 | Mar 3 | Wed | 5.5 Protecting Applications — Secure SDLC, Code Review, SAST/DAST | Direct instruction + guided notes |
-| P14 | Mar 4 | Thu | 📄 Crypto Concept Map: Symmetric vs Asymmetric | Notecard drill, TLS whiteboard, "Crypto or not?" game |
+|| P14 | Mar 4 | Thu | 📄 Crypto Concept Map: Symmetric vs Asymmetric | Notecard drill, TLS whiteboard, "Crypto or not?" game + **Crypto in the Wild: Binance Hack supplement** (10 min — on-chain tx analysis: USDC freeze, Tornado Cash ZK, Aave loan, freezable vs unfreezable classification) |
 | P15 | Mar 5 | Fri | 🐙 GITHUB LAB: Symmetric Encryption Lab | fork → Codespaces → submit → peer-share |
 | P16 | Mar 8 | Mon | 5.6 Detecting Attacks on Data/Apps — WAF, DLP, Audit Logs | Direct instruction + guided notes |
 | P17 | Mar 9 | Tue | 📄 Pre-Lab: PKI Simulation Lab Prep | Trace cert chain, compromised-CA prediction, key terms |
@@ -193,7 +193,7 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 | P19 | Mar 11 | Thu | 📄 FRQ Walk-Through: E-Commerce Data Breach Scenario | 4-part FRQ (5.1/5.2/5.3-4/5.6), peer-score |
 | P20 | Mar 12 | Fri | 🐙 GITHUB LAB: PKI Simulation Lab | fork → Codespaces → submit → peer-share |
 | P21 | Mar 15 | Mon | 🔄 Flex / Catch-Up Day | Buffer |
-| P22 | Mar 16 | Tue | 📄 Current Event: Software Supply Chain Attack + 🇹🇼 Semiconductor Case Study | SolarWinds-style analysis, SDLC + detection synthesis; second half: TSMC/supply-chain threat FRQ-style exercise (approved Aug 26) — students map a hypothetical semiconductor supply-chain attack scenario to CED topics and draft an FRQ response |
+|| P22 | Mar 16 | Tue | 📄 Current Event: **Option A** Software Supply Chain Attack + 🇹🇼 TSMC Semiconductor Case Study **OR Option B** Binance Hack ($6.3B) — DeFi Laundering & Freezable/Unfreezable Dilemma | Option A: SolarWinds-style analysis, SDLC + detection synthesis; TSMC supply-chain FRQ exercise. **Option B:** voidzilla video (8 min) + worksheet — DevOps compromise, DeFi laundering, stablecoin freezes, AI attack angle. Students choose one; gallery walk covers both. |
 | P23 | Mar 17 | Wed | 🔄 Flex / Catch-Up Day | Buffer |
 | P24 | Mar 18 | Thu | 📄 Mock MCQ Sprint + Final Review: Units 1-5 | 5 timed MCQs (8 min), "one thing from each unit", AP strategy |
 | P25 | Mar 19 | Fri | 🐙 GITHUB LAB: Secure Code Review Lab | fork → Codespaces → submit → peer-share |
@@ -204,6 +204,10 @@ Based on ICA 2026-27 Calendar (v1). 45-min class periods, 5 days/week.
 | P30 | Mar 26 | Fri | 🔄 Flex / Catch-Up Day | Buffer |
 
 **Unit 5 GitHub labs (5):** P5 juice-shop · P10 access-control-sim · P15 symmetric-encryption · P20 pki-simulation · P25 secure-code-review.
+
+**Unit 5 Paper Day Worksheets (new):**
+- P14 (Mar 4): `U5-L14-Crypto-Concept-Map-Binance-Supplement.md` — Crypto in the Wild supplement (10 min)
+- P22 (Mar 16): `U5-L22-Current-Event-Binance-Hack.md` — Option B full worksheet (45 min)
 
 ---
 
