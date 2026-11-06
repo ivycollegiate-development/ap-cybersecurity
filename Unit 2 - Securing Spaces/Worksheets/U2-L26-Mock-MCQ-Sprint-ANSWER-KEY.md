@@ -1,4 +1,4 @@
-# U2 L26 — Mock MCQ Sprint (Nov 11) — ANSWER KEY
+# U2 L26 — Mock MCQ Sprint — ANSWER KEY
 
 **Teacher master copy — do not attach to a Classroom assignment.**
 For peer-grading: write the answer sequence on the board; each student grades the paper to their right and may write an objection in the margin.
@@ -11,13 +11,13 @@ For peer-grading: write the answer sequence on the board; each student grades th
 
 ### 1. A — 2.1.A (preparatory / reconnaissance)
 
-Copying the floor plans is **information gathering before an attempt** — reconnaissance. The forged work order and the walk-in are **establishing access** (2.1.B); nothing has moved inside the target yet. Lateral movement (C) is movement between systems or rooms *after* access; exfiltration (D) is removing data. The common error is reading "three weeks later" as the phase — time elapsed is not the phase.
+Photographing the exterior and timing the guard shifts is **information gathering before an attempt** — reconnaissance. Nothing was taken (so not exfiltration) and nothing has moved inside the target yet (so not access or lateral movement). The forged work order and the walk-in are **establishing access** (2.1.B). The common error is reading "three weeks later" as the phase — time elapsed is not the phase.
 
 **Objection space:** ____________________________
 
 ---
 
-### 2. B — 2.1.E, 2.1.F
+### 2. B — 2.1.F
 
 The inherent risk (before the control) is Medium/High; the residual (after) is Medium/Medium. The control did not change **likelihood** — the attempt is just as likely — it changed **impact**, by shortening detection from 40 minutes to 3. A control that reduces a consequence while the site keeps the leftover risk is **mitigate**.
 
@@ -31,9 +31,9 @@ The inherent risk (before the control) is Medium/High; the residual (after) is M
 
 ### 3. C — 2.2.C (door social engineering)
 
-The mechanism is a **person using a plausible story at the door** — door social engineering. The control must address the mechanism: **verify the work order before the door is released**, and never hold a secured door open on a claim alone.
+The mechanism is a **person using a plausible story to talk someone into releasing the door** — door social engineering. The control must address the mechanism: **verify the identity and work order before the door is released**, and never release a secured door on a claim alone.
 
-- **Not tailgating (A):** tailgating is following an authorised person through; no one is being followed here.
+- **Not tailgating (A):** tailgating is following an authorised person through a door they opened; here no one is being followed — the attacker gets the door released by a pretext, and a mantrap would not stop him.
 - **Not shoulder surfing (B):** nothing is being observed or read.
 - **Not cloning (D):** no credential is copied — the attacker never needs one.
 
@@ -41,9 +41,9 @@ The mechanism is a **person using a plausible story at the door** — door socia
 
 ---
 
-### 4. B — 2.3.A, 2.3.B
+### 4. B — 2.3.B
 
-Coverage is **independent** when it produces a fact the other controls cannot. A cylinder (2.3.A) resists; a badge reader (2.4.A) records one credential event. **Neither can show how many people actually walked through** — that is the approach-path and door-face camera's job (2.3.B), and it is the fact the whole week's tailgating discussion rests on. The camera and the reader are two different layers; the cylinder is not a layer at all.
+Coverage is **independent** when it produces a fact the other controls cannot. A cylinder (2.3.A) resists; a badge reader (2.4.A) records one credential event. **Neither can show how many people actually walked through** — that is the approach-path and door-face camera's job (2.3.B), and it is the fact the whole week's tailgating discussion rests on. The camera and the reader are two different layers; upgrading the cylinder strengthens an existing layer but adds no new one.
 
 - **A** repeats the "stronger lock = a layer" error from Tuesday's quiz.
 - **C** is true about logging's value but not the *most independent* addition here — the reader only knows about people who badged.
@@ -70,17 +70,17 @@ The correlation is the point: **one credentialed event** (02:19) and **one perso
 | Q | Objective | Class % correct | Note |
 |---|---|---|---|
 | 1 | 2.1.A | | |
-| 2 | 2.1.E, 2.1.F | | |
+| 2 | 2.1.F | | |
 | 3 | 2.2.C | | |
-| 4 | 2.3.A–C | | |
+| 4 | 2.3.B | | |
 | 5 | 2.4.B | | |
 
 **Lowest objective this sprint:** ____________  → this is the 13-minute immediate re-teach in block 5, before the delta read-out.
 
-**Expected underperformers:** Q2 (inherent vs residual and "why not transfer") and Q4 (reading "stronger lock" as a layer). If Q2 is the lowest, re-teach it as a **rating-change** question: name the inherent pair, name the residual pair, name which half the control moved.
+**Expected underperformers:** Q2 (inherent vs residual) and Q4 (reading "stronger lock" as a layer). If Q2 is the lowest, re-teach it as a **rating-change** question: name the inherent pair, name the residual pair, name which half the control moved.
 
 ---
 
 ## Delta prompt (block 5–6)
 
-Each student writes, on the tracking sheet, which objective moved from **red to yellow** since Oct 27 — named in CED terms (2.1.A, 2.1.E, 2.2.C, 2.3.B, 2.4.B), not "the treatment one". Then two or three read it aloud, and anyone who moved the wrong way, or who has been red on the same objective twice, says so privately before Friday.
+Each student writes, on the tracking sheet, which objective moved from **red to yellow** since Oct 27 — named in CED terms (2.1.A, 2.1.F, 2.2.C, 2.3.B, 2.4.B), not "the treatment one". Then two or three read it aloud, and anyone who moved the wrong way, or who has been red on the same objective twice, says so privately before Friday.

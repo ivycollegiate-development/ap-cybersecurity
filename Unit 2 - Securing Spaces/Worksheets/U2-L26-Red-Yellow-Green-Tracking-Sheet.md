@@ -40,7 +40,7 @@ Fill the **Oct 27** column from the returned Oct 27 sprint. Fill the **Nov 11** 
 
 ---
 
-## Today's delta (Nov 11)
+## Today's delta
 
 **The one objective that moved from red to yellow since Oct 27:**
 

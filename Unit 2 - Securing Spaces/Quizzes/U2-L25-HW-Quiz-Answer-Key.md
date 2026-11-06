@@ -12,8 +12,8 @@
 |---|---------|-----|-----|
 | 1 | **B** | 2.3.B | Coverage is judged by whether the field of view captures **both the approach path and the door face**. A framed door face with a blind approach path leaves the camera unable to show who walked up. Camera count is the wrong criterion (C), resolution does not extend a field of view (D), and "the door face is framed" is the trap (A) — it answers a different question. |
 | 2 | **C** | 2.3.C | Flood controls are *raise, detect, drain*: get the equipment above the expected water level, sense water and alert, and give water a path away from the room. A UPS and a second AC unit (A) address power and heat, not water. A camera and a visitor log (B) are 2.3.B detection, not environmental control. A mantrap and rekeyed doors (D) are entry control. |
-| 3 | **C** | 2.4.C | 2.4.C requires a **threshold, an action, an owner, and a time bound**. C has all four: a specific two-minute pattern, a named responder (on-call guard), and a 15-minute check. More recipients (A) and a monthly summary (B) change who reads the same next-morning email; D removes detection entirely. |
-| 4 | **C** | 2.4.A, 2.4.B | The badge log records badge events, not door state. No read + a person at the door means the entry left no credential record — a key or a picked lock fits. Correlation across sources is 2.4.B; knowing what each source *cannot* show is 2.4.A. A (clock) and B (edited log) are unsupported leaps; D overclaims — the camera shows presence, not identity. |
+| 3 | **C** | 2.4.C | 2.4.C requires a **threshold, an action, an owner, and a time bound**. C has all four: a threshold (a denied read followed by a granted read within two minutes), an action (page the on-call guard), an owner (that guard), and a time bound (a check at the door within 15 minutes). More recipients (A) changes who reads the same next-morning email; a monthly summary (B) adds a later summary but keeps the next-morning delay; D removes detection entirely. |
+| 4 | **C** | 2.4.A, 2.4.B | The badge log records badge events, not door state. No read + a person opening the door and entering means the entry left no credential record — a key or a picked lock fits. Correlation across sources is 2.4.B; knowing what each source *cannot* show is 2.4.A. A (clock) and B (edited log) are unsupported leaps; D overclaims — the camera shows presence, not identity. |
 | 5 | **B** | 2.3.A | Defense in depth counts **independent layers**. A stronger cylinder hardens the same single control at the same single point; the door still has no detection, no logging, and no second control. The move is to add a layer, not to upgrade the one you have. A overstates the claim, C is a judgment about the asset, and D is a technology preference, not a principle. |
 
 **Answer sequence:** 1-B, 2-C, 3-C, 4-C, 5-B
@@ -45,7 +45,7 @@
 **Scoring:**
 - 1.5 pts — names **transfer**.
 - 1.0 pt — states both halves: what moves (the financial consequence) and what does not (the likelihood of, and the operational impact of, the event).
-- Common partial (1.0 pt total): "transfer" plus "the insurance company pays" — correct but incomplete; the point of the item is that transfer does not change the risk itself.
+- Common partial (2.0 pts total): 1.5 for naming **transfer** plus 0.5 for the half-answer ("the insurance company pays") — correct but incomplete; the point of the item is that transfer does not change the risk itself.
 
 **No credit:** answers that call the policy **avoid** or **mitigate**, or that claim insurance lowers the likelihood (that is a common misconception — insurance addresses the consequence, not the mechanism).
 

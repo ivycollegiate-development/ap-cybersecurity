@@ -21,7 +21,7 @@ A building has four cameras at its main entrance. Camera 4 frames the door face,
 What does that coverage gap mean?
 
 A. Coverage is adequate, because the door face is framed.
-B. The approach path is not covered, so the system cannot show who approached the door — only that someone reached it.
+B. The approach path is uncovered, so the system cannot show who approached the door.
 C. Four cameras is below the minimum for a building of that size.
 D. Replacing the camera with a higher-resolution model closes the gap.
 
@@ -34,7 +34,7 @@ Which control set best addresses the typhoon-season flood risk?
 
 A. A UPS and a second air-conditioning unit.
 B. A camera aimed at the closet door and a visitor log for the floor.
-C. Raising the equipment above the expected flood level, a water-leak sensor with an alert, and a backflow valve or a secondary drain.
+C. Raise the equipment above the flood level, add a leak sensor with an alert, and give water a secondary drain.
 D. A mantrap at the entrance and rekeyed interior doors.
 
 ---
@@ -46,19 +46,19 @@ Which change best satisfies 2.4.C?
 
 A. Add more recipients, so someone eventually sees the email.
 B. Keep the email and add a monthly summary.
-C. Alert when a denied read is followed by a granted read at the same reader within two minutes; page the on-call guard; require a check at the door within 15 minutes.
+C. Alert on a denied-then-granted read within two minutes, page the on-call guard, and check the door within 15 minutes.
 D. Drop alerting and review the log once a quarter.
 
 ---
 
 **4. Video and log evidence (2.4.A, 2.4.B).**
-A badge log shows no read at the closet door between 02:19 and 03:02. The corridor camera records a person standing at the closet door at 02:19.
+A badge log shows no read at the closet door between 02:19 and 03:02. The corridor camera records a person opening the closet door and entering at 02:19.
 
 What do the two records establish together?
 
 A. The camera clock is wrong.
 B. The badge log was edited.
-C. Someone was at the closet door while the badge log recorded nothing — consistent with a key or a picked lock, neither of which leaves a badge record.
+C. Someone entered while the badge log recorded nothing — a key or a picked lock fits.
 D. The camera identifies the person.
 
 ---
@@ -89,7 +89,7 @@ ______________________________________________________________________
 ---
 
 **7. (2.5 points)**
-The site cannot stop storing scanned guest passports on site. Its insurer offers a policy that covers losses from forced entry.
+Hotel A cannot stop storing scanned guest passports on site. Its insurer offers a policy that covers losses from forced entry.
 
 **Treatment:** ______________________
 

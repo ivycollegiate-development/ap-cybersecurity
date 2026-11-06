@@ -7,7 +7,7 @@
 ## Instructions
 
 - 8 minutes. **Closed notes.**
-- **Part A — your two missed questions from yesterday's sprint, re-asked cold.** Write your two questions in the spaces below, then answer them again from memory. 2 points each.
+- **Part A — two questions from yesterday's sprint, re-asked cold.** If you missed two, re-ask those two. If you missed fewer than two, use the substitute items from the board for the rest. If you missed more than two, re-ask the first two you missed. Write each question, then answer it again from memory. 2 points each.
 - **Part B — 3 new multiple choice on risk assessment and treatment.** 2 points each. Circle one letter.
 - Total: 10 points.
 
@@ -48,7 +48,7 @@ D. The control transferred the risk to a third party.
 ---
 
 **2. Treatment selection (2.1.F).**
-A site rates a finding **High likelihood / High impact**. Rather than add controls, management decides to **stop storing scanned guest passports on site at all** and destroy the existing scans.
+At **Hotel B**, a finding is rated **High likelihood / High impact**. Rather than add controls, management decides to **stop storing scanned guest passports on site at all** and destroys the existing scans.
 
 Which treatment is this?
 
@@ -68,6 +68,8 @@ A. NT$6,000,000
 B. NT$24,000,000
 C. NT$1,500,000
 D. NT$750,000
+
+Show your arithmetic (SLE × ARO): ____________________
 
 ---
 

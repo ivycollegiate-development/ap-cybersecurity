@@ -1,4 +1,4 @@
-# U2 L26 — Re-Teaching Checks (Nov 11)
+# U2 L26 — Re-Teaching Checks
 
 **Teacher copy — includes answers. Do not distribute as-is.**
 

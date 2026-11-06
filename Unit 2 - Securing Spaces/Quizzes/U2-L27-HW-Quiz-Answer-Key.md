@@ -27,6 +27,17 @@ Student-specific: each student re-answers the two items they missed on the Nov 1
 
 ---
 
+## Part A — Substitute items and the more-than-two-miss rule
+
+**If a student missed fewer than two:** use these substitute items so the re-ask still happens (same objectives, same format). Write the item on the board or hand it over.
+
+- **S1 (2.1.A):** "A warehouse worker photographs the loading dock from the street and notes the hours it is left unstaffed." → **Preparatory / reconnaissance** — information gathering before an attempt; nothing is taken and nothing is entered.
+- **S2 (2.2.C):** "Someone calls the front desk claiming to be IT support and talks the attendant into buzzing him through the lobby door to 'fix a printer'." → **Door social engineering** — a pretext that gets a person to release the door; the control is to verify identity and the work order before any release.
+
+**If a student missed more than two:** re-ask the first two they missed; record the remainder as targets for the weak-area re-teach block.
+
+---
+
 ## Part B — Answer Key
 
 **Answer sequence:** 1-A, 2-A, 3-C
@@ -59,7 +70,7 @@ SLE = NT$6,000,000. ARO = 1 in 4 years = 0.25. **ALE = SLE × ARO = NT$6,000,000
 - **B** multiplies by 4 instead of dividing — ARO is events per year, so a once-in-four-years event has ARO 0.25, not 4.
 - **D** halves the ALE (a 1-in-8-year rate).
 
-The mark of a correct answer is **both** the number and the arithmetic: show `SLE × ARO`. A right number with no arithmetic earns 1 of 2.
+The mark of a correct answer is **both** the number and the arithmetic. The quiz provides a "Show your arithmetic (SLE × ARO)" line under Q3, so a right number with the arithmetic not shown earns 1 of 2.
 
 ---
 

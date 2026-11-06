@@ -1,4 +1,4 @@
-# U2 L26 — Mock MCQ Sprint: Unit 2 Review (Nov 11)
+# U2 L26 — Mock MCQ Sprint: Unit 2 Review
 
 **Name:** ____________________________  **Date:** ______________
 
@@ -22,9 +22,9 @@
 
 ### 1. Cyberattack phases (2.1.A–2.1.D)
 
-A contractor copies floor plans from an unlocked site office at 17:00 on a Friday and leaves nothing behind. Three weeks later, a crew walks through the loading dock using a forged work order that was built from those plans.
+A contractor spends Friday afternoon on the public sidewalk outside the site: he photographs the building exterior and notes when the guard post is staffed and when the guard changes shifts. He never enters the site and takes nothing away. Three weeks later, a crew walks through the loading dock using a forged work order built from what he learned.
 
-Which phase does the copying of the floor plans represent?
+Which phase does the contractor's afternoon on the sidewalk represent?
 
 A. Preparatory / reconnaissance
 B. Establishing access
@@ -33,11 +33,11 @@ D. Exfiltration
 
 ---
 
-### 2. Risk assessment and treatment (2.1.E, 2.1.F)
+### 2. Risk treatment (2.1.F)
 
 A finding is rated **Medium likelihood / High impact**. The site installs a monitored alarm. The chance of an attempt does not change, but detection time falls from 40 minutes to 3, and the finding is re-rated **Medium likelihood / Medium impact**.
 
-Which treatment does the alarm represent, and why is it **not** transfer?
+Which treatment does the alarm represent?
 
 A. Avoid — the finding is removed from the risk register.
 B. Mitigate — it reduces impact without changing likelihood, and the site keeps the residual risk.
@@ -48,7 +48,7 @@ D. Accept — the residual is documented and no further action is taken.
 
 ### 3. Physical vulnerabilities and attacks (2.2.C)
 
-A person in a courier uniform approaches the entry door carrying an empty box, claims to be delivering to an office that has no such order, and asks the staff member to hold the secured door open while they check the label.
+A man calls the front desk from the lobby, says he is a courier with a delivery for an office that has no order on file, and asks the receptionist to buzz him through the secured door while he checks the label.
 
 Which attack is this, and which control addresses the mechanism?
 
@@ -59,22 +59,22 @@ D. Credential cloning; shielded badge sleeves.
 
 ---
 
-### 4. Protecting physical spaces (2.3.A–2.3.C)
+### 4. Protecting physical spaces (2.3.B)
 
 A site can fund exactly one new control at the entry: (i) a higher-security cylinder on the door, (ii) a camera whose field of view covers the approach path and the door face, or (iii) a badge reader that logs every entry.
 
 Which choice adds the most **independent** coverage, and why?
 
-A. The stronger cylinder — it resists picking and cloning.
-B. The camera covering the approach path and door face — the other two record or resist a single credential event, and neither shows **how many** people actually entered.
-C. The badge reader — logging is the foundation of all detection.
+A. The stronger cylinder, because it resists picking and cloning.
+B. The camera covering the approach path and door face.
+C. The badge reader, because logging is the foundation of all detection.
 D. None — environmental controls come before access controls.
 
 ---
 
 ### 5. Detecting physical attacks (2.4.B)
 
-The badge log shows a staff badge entering the closet door at 02:19. The corridor camera shows one person at the closet door at 02:19, and a second person entering the same corridor from the stairwell at 02:20. There is **no** badge read at the stairwell.
+The badge log shows a staff badge entering the closet door at 02:19. The corridor camera shows one person at the closet door at 02:19, and a second person entering the same restricted corridor from the stairwell at 02:20. There is **no** badge read at the stairwell.
 
 What does correlating the two records establish?
 

@@ -4,7 +4,7 @@
 
 **AP Cybersecurity — Unit 2: Securing Spaces**
 
-**15 minutes · Closed notes · Written to CED format**
+**Deconstruct 3 · Write 10 (timed) · Peer-score 4 · Closed notes · Written to CED format**
 
 ---
 
@@ -51,6 +51,8 @@ Use the rest of this page for your risk assessment. The rubric is on the **back 
 | **Total** | **10** |
 
 The two points for the Taiwan conditions are the most commonly lost.
+
+**On the Unit 2 test,** the same rubric is reweighted — treatments 3, detection 2, Taiwan condition 1. The detection half you practise here (the camera / log correlation) is scored directly there, so write the detection sentence, not just the access-control one.
 
 ### Self-scoring (after the paper pass)
 

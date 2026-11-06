@@ -15,10 +15,10 @@ The single entry door uses a keypad PIN, and the keypad is mounted so the code i
 **Finding 2 — the unmonitored approach and no per-person record (2.2.A, tailgating).**
 The CCTV covers the parking entrance but not the entry door's approach path, the keypad produces no per-person record at all — one shared code admits any number of people — and the staff badge log records a single badge event regardless of how many people follow through behind it. **Likelihood: High** — the audit of the class's own buildings found entry-sequence failure more often than any lock weakness, and this scenario has both halves of it. **Impact: High** — an intruder is inside an occupied residential building with access to the switch closet, and the only record is a single staff badge event.
 
-**Treatment: mitigate.** Add a camera whose field of view covers the approach path and the door face together, and pair the entry door with a door-position sensor that alerts when one credentialed event is followed by a second door-position event inside the same ten seconds. The point is that the building gains a record of *how many* people entered, which is the fact the current control cannot produce.
+**Treatment: mitigate.** Add a camera whose field of view covers the approach path and the door face together, and pair the entry door with a control that counts people — an anti-tailgating sensor, or a camera-count-versus-credential-count mismatch alert. (Several people passing through one opening produce a single door-position event, so a door-position sensor alone cannot catch a second person.) The point is that the building gains a record of *how many* people entered, which is the fact the current control cannot produce.
 
 **The two conditions that lose the most points:**
-The switch closet is on the ground floor. Treated as a security problem alone, that is a locked door. Treated correctly, it is also an **environmental** problem: in Taichung's typhoon season a ground-floor closet is below the water line of a blocked drain or a loading-dock inflow, so the equipment should be raised above the expected flood level, with a water-leak sensor that alerts and a secondary drain path. **Typhoon and flood resilience is a Unit 2 control (2.3.C), not an aside.** If the building shares a network with its neighbours — a common unmanaged switch or a management console reachable from tenant Wi-Fi — that flat shared infrastructure is a **2.4.B** risk worth naming, because it means the building's own controls are not the whole boundary.
+The switch closet is on the ground floor. Treated as a security problem alone, that is a locked door. Treated correctly, it is also an **environmental** problem: in Taichung's typhoon season a ground-floor closet is below the water line of a blocked drain or a loading-dock inflow, so the equipment should be raised above the expected flood level, with a water-leak sensor that alerts and a secondary drain path. **Typhoon and flood resilience is a Unit 2 control (2.3.C), not an aside.** If the building shares a network with its neighbours — a common unmanaged switch or a management console reachable from tenant Wi-Fi — that flat shared infrastructure is a **2.3** risk worth naming, because it means the building's own controls are not the whole boundary.
 
 ---
 
@@ -36,7 +36,7 @@ The switch closet is on the ground floor. Treated as a security problem alone, t
 - Naming a vulnerability without its CED category.
 - Giving a treatment with no justification, or a justification that restates the treatment ("mitigate it by mitigating").
 - Treating the switch closet as only a locked door, missing the environmental half.
-- Writing three or four findings when the prompt asks for two — a third finding costs time and earns nothing.
+- Recommending more than two treatments when the prompt asks for two — a third treatment costs time and earns nothing.
 
 ---
 

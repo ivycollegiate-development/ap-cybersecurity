@@ -53,7 +53,7 @@ ______________________________________________________________________
 ______________________________________________________________________
 ______________________________________________________________________
 
-**2.** A 40-unit apartment building shares one unmanaged switch and one Wi-Fi network across every unit, and the building manager's control console is reachable from any tenant's device. Using what you know from 2.4.B, what is the network equivalent of *shared building infrastructure* — and why does it matter that the building's own controls are not the whole boundary?
+**2.** A 40-unit apartment building shares one unmanaged switch and one Wi-Fi network across every unit, and the building manager's control console is reachable from any tenant's device. Using what you know from 2.3, what is the network equivalent of *shared building infrastructure* — and why does it matter that the building's own controls are not the whole boundary?
 
 ______________________________________________________________________
 ______________________________________________________________________
