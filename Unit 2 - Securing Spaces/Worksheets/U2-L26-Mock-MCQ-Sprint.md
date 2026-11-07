@@ -11,10 +11,12 @@
 ## Instructions
 
 - Five questions, six minutes. Timer on the board; stop when time is called.
-- Each question maps to one Unit 2 objective. This mirrors the Oct 27 sprint so you can compare your own answers directly.
+- Each question is tagged with the Unit 2 objective(s) it tests. This mirrors the Oct 27 sprint so you can compare your own answers directly.
 - Answer all five. **No penalty for a guess; a blank scores zero.**
 - This is a **practice score**. It is not a test grade. It is a diagnostic.
 - Closed notes. One pass — do not change an answer unless you are told to.
+
+**What this sprint covers — and what it does not.** The five questions give you evidence on eight objectives: **2.1.A, 2.1.B, 2.1.C, 2.1.D** (Q1), **2.1.F** (Q2), **2.2.C** (Q3), **2.3.B** (Q4), **2.4.B** (Q5). Seven others — **2.1.E, 2.2.A, 2.2.B, 2.3.A, 2.3.C, 2.4.A, 2.4.C** — have **no question today**, so your evidence for those is the Oct 27 sprint and your Unit 2 study guide. Mark those seven on your tracking sheet from the study guide, not from this sprint.
 
 ---
 
