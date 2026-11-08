@@ -1,6 +1,6 @@
 # Unit 2 — Securing Spaces: Detailed Lesson Plans
 
-**Time Allotment:** 29 periods, Sep 29 - Nov 13 (Unit 2 Test on Mon Nov 13)  
+**Time Allotment:** 29 periods, Sep 29 - Nov 13 (Unit 2 Test on Fri Nov 13)  
 **CED Topics:** 2.1–2.4 (Phases of a Cyberattack, Risk Assessment, Defense in Depth, Physical Security)  
 **Course Skills:** Analyze Risk (Skill 1), Mitigate Risk (Skill 2), Detect Attacks (Skill 3), Collaborate (Skill 4)  
 **Labs:** 3 GitHub labs (risk register, physical audit, badge log analysis) + 1 mini-project + 1 paper break assignment  
