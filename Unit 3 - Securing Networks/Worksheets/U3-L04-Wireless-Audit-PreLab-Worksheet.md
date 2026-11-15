@@ -6,7 +6,7 @@
 ---
 
 ## Instructions
-Read Friday's lab handout: **Wireless Security Audit Lab** (repo: `ivycollegiate-development/wireless-security-audit-lab`). Complete this worksheet before Friday's lab. Submit at end of class.
+Read Friday's lab handout: **Wireless Security Audit Lab** (repo: `ivycollegiate-development/apcyber-u3-wireless-security-audit-lab`). Complete this worksheet before Friday's lab. Submit at end of class.
 
 ---
 
@@ -79,7 +79,7 @@ Read Friday's lab handout: **Wireless Security Audit Lab** (repo: `ivycollegiate
 
 ---
 
-## Homework (Due Sun 20:30 — Monday Quiz)
+## Homework (Due Sun 11:59 PM — Monday Quiz)
 
 1. Complete any unfinished predictions above.
 2. **Vocab Flashcard Set 2** — create physical or digital flashcards for all 10 terms in Section 3.

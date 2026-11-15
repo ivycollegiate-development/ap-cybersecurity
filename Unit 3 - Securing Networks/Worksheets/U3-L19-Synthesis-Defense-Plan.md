@@ -168,7 +168,7 @@ Work in groups of 3–4. Design a defense-in-depth network for the scenario belo
 
 ---
 
-## Homework (Due 20:30)
+## Homework (due 11:59 PM)
 
 **Revise your design based on peer feedback.** Submit revised diagram + rationale tomorrow.
 

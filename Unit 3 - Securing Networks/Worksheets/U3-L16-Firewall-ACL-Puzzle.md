@@ -88,7 +88,7 @@ Complete both activities. Submit at end of class.
 
 ---
 
-## Homework (Due 20:30)
+## Homework (due 11:59 PM)
 
 **Document each finding from Activity 2:**
 - Rule number

@@ -125,7 +125,7 @@ Swap your firewall config report (lab + findings) with a partner. Evaluate using
 
 ---
 
-## Homework (Due 20:30)
+## Homework (due 11:59 PM)
 
 **Study for tomorrow's test (Dec 9).** Bring a one-page handwritten study sheet (allowed on test).
 

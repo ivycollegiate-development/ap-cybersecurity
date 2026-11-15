@@ -10,7 +10,7 @@
 
 **Compression note:** Unit 2's test (Nov 13) consumed the week of Nov 9-13, so Unit 3 starts Nov 16. Compressed from the APSI 25-period plan to 20: 3 flex days cut (Dec 7, 9, 11), vocabulary drill merged into the FRQ day (U3 L7), current event merged into the synthesis day (U3 L19). Unit 3 test lands Wed Dec 9 (converted from flex). 4 GitHub labs retained.
 
-**⚡ Graded HW Quiz Convention:** Every class period opens with a 5-10 min graded quiz on the previous night's homework (homework assigned in class, due 20:30 the night before; weekend homework due Sun 20:30). Paper days = paper quiz; tech days = quick MCQ. Part of Quizzes/Assessments 25%. Test days skip the quiz (test replaces it).
+**⚡ Graded HW Quiz Convention:** Every class period opens with a 5-10 min graded quiz on the previous night's homework (homework assigned in class, due 11:59 PM the night it is assigned; Friday-assigned homework due Sun 11:59 PM). Paper days = paper quiz; tech days = quick MCQ. Part of Quizzes/Assessments 25%. Test days skip the quiz (test replaces it).
 
 **🇹🇼 Taiwan Threat Brief format (recurring):** Every unit opener (U3 L1) starts with a 3-minute Taiwan-focused cyber threat brief — one current event, TWNCERT advisory, or iThome news item relevant to the unit's topic. Keeps threat awareness local and current across the full year.
 
@@ -64,7 +64,7 @@
 4. **Preview the unit (5 min):** Quick walkthrough of the 5 CED topics, the 4 labs they'll do (wireless audit, segmentation sim, firewall config, scanning detection), and the synthesis day. Connect to the Term 2 timeline (Unit 3 test Dec 9).
 5. **🇹🇼 Taiwan context — APT41 case study (3 min):** Show the 3-slide mini-case ([Taiwan Threat Brief — APT41](https://docs.google.com/presentation/d/1Ak5iZw5KOMoL0wUscc_fuTy8KGkF31szIdiGzon5EG4/edit)): APT41 (China-nexus group, DOJ-assessed Chengdu base) compromised a Taiwanese government-affiliated research institute — activity from July 2023, per Cisco Talos. Initial access came through an outdated Office IME binary abused as a loader, followed by ShadowPad and Cobalt Strike. Elsewhere in Taiwan: unpatched internet-facing VPN appliances and weak or default SNMP community strings. Key point: these are the exact CED 3.1 attack vectors, deployed against companies within 50 km of this classroom. Question: "If you were the CISO of a Taiwan IC design firm, which attack vector from today keeps you up at night?" (Maps to: vulnerability, attack vector, threat actor targeting — CED Skills 1.A, 1.B.)
 
-**Homework (due 20:30):** Guided notes: list 3 network vulnerabilities from today + one from the water-system story. Vocab flashcard set 1: vulnerability, attack vector, OSI layers 2-4, interception, disruption, redirection, infiltration.
+**Homework (due 11:59 PM):** Guided notes: list 3 network vulnerabilities from today + one from the water-system story. Vocab flashcard set 1: vulnerability, attack vector, OSI layers 2-4, interception, disruption, redirection, infiltration.
 
 ---
 
@@ -84,7 +84,7 @@
 3. **Segmentation discussion (10 min):** "Which 3.3 segmentation would have contained the breach?" Pair discussion — why didn't Equifax's network stop the attacker from reaching consumer dispute data?
 4. **Quick-write (5 min):** "If you were Equifax's CISO in 2017, what's the ONE control you'd add first?"
 
-**Homework (due 20:30):** Finish worksheet. Read CED excerpt on 3.1 exploitation (1 page).
+**Homework (due 11:59 PM):** Finish worksheet. Read CED excerpt on 3.1 exploitation (1 page).
 
 ---
 
@@ -104,7 +104,7 @@
 4. **Direct instruction — DoS/DDoS (8 min):** DoS vs DDoS. SYN flood, amplification (DNS/NTP/Memcached), application-layer (HTTP flood, slow loris). Botnets: Mirai case study (IoT devices recruited).
 5. **Comparison activity (5 min):** T-chart: ARP poisoning vs MAC flooding vs DNS poisoning vs DoS/DDoS — attack vector, attacker goal, layer, detection method, mitigation.
 
-**Homework (due 20:30):** Complete the T-chart. Which of the four attacks would be hardest to detect? Write 2-3 sentences defending your choice.
+**Homework (due 11:59 PM):** Complete the T-chart. Which of the four attacks would be hardest to detect? Write 2-3 sentences defending your choice.
 
 ---
 
@@ -116,16 +116,16 @@
 - 3.2.A Explain wireless security vulnerabilities and protections
 - 3.2.B Identify wireless misconfigurations before the Friday lab
 
-**Materials:** Friday's lab handout (wireless-security-audit-lab README), pre-lab worksheet, Delta flight evil twin case study (printed, from Unit 1 U3 L9)
+**Materials:** Friday's lab handout (apcyber-u3-wireless-security-audit-lab README), pre-lab worksheet, Delta flight evil twin case study (printed, from Unit 1 U3 L9)
 
 **Activities:**
-1. **Read (10 min):** Read Friday's lab handout: Wireless Security Audit (repo: `ivycollegiate-development/wireless-security-audit-lab`).
+1. **Read (10 min):** Read Friday's lab handout: Wireless Security Audit (repo: `ivycollegiate-development/apcyber-u3-wireless-security-audit-lab`).
 2. **Pre-lab worksheet (15 min):** List Wi-Fi attack types (evil twin, deauth, KRACK, WPS brute-force, rogue AP). Predict: which wireless security setting is most commonly misconfigured?
 3. **Vocabulary drill (10 min):** WPA3, WPA2, 802.1X, RADIUS, EAP, SSID, MAC filtering, evil twin. Notecard speed round.
 4. **Discussion (5 min):** "If our school's Wi-Fi is encrypted, can someone in the parking lot still see your traffic?"
 5. **Case study (5 min):** Revisit the Delta flight evil twin incident (Unit 1 U3 L9, Aug 2026). Map it onto today's terms: deauth → rogue AP ("Delta WiFi Fast") → fake captive portal → credential harvest. Which audit check in Friday's lab would catch each step?
 
-**Homework (due Sun 20:30 — Monday quiz):** Complete pre-lab predictions. Vocab flashcard set 2 (wireless terms).
+**Homework (due Sun 11:59 PM — Monday quiz):** Complete pre-lab predictions. Vocab flashcard set 2 (wireless terms).
 
 ---
 
@@ -133,14 +133,14 @@
 
 **⚡ HW Quiz (5 min):** 3 MCQ on wireless terms.
 
-**Lab spec:** `ivycollegiate-development/wireless-security-audit-lab`. Students audit a simulated wireless environment: identify weak encryption (WEP/WPA), rogue APs, open SSIDs, and misconfigurations; classify findings by severity; recommend fixes. Runs in Codespaces (no local install).
+**Lab spec:** `ivycollegiate-development/apcyber-u3-wireless-security-audit-lab`. Students audit a simulated wireless environment: identify weak encryption (WEP/WPA), rogue APs, open SSIDs, and misconfigurations; classify findings by severity; recommend fixes. Runs in Codespaces (no local install).
 
 **Activities:**
 1. **Setup (5 min):** Fork repo → Codespaces auto-launches. Review the audit checklist from U3 L4's pre-lab.
 2. **Lab (25 min):** Complete the audit scenarios in the repo: (a) identify which networks are vulnerable and why, (b) detect the evil twin / rogue AP (the same attack pattern as the Delta flight incident from Unit 1 U3 L9), (c) score each finding (likelihood × impact), (d) write remediation for the top 3.
 3. **Pair-share (10 min):** Compare findings with a partner — what did they catch that you missed? Submit via GitHub Classroom auto-grading.
 
-**Homework (due Sun 20:30 — Monday quiz):** Finish any incomplete lab steps. Read CED excerpt on 3.1 risk assessment (1 page).
+**Homework (due Sun 11:59 PM — Monday quiz):** Finish any incomplete lab steps. Read CED excerpt on 3.1 risk assessment (1 page).
 
 ---
 
@@ -160,7 +160,7 @@
 2. **Direct instruction (20 min):** Risk = likelihood × impact. Risk matrix (5×5). Qualitative vs quantitative assessment. Risk register: asset, threat, vulnerability, likelihood, impact, score, mitigation. NIST-style framing. Apply to the water-system story from U3 L1: the controllers were high-impact (public safety) but the fix (unplug from internet) was cheap — why did that take an FBI advisory to trigger?
 3. **Activity — risk register (15 min):** Given the ICA network diagram from U3 L1, students build a mini risk register for 5 assets (guest Wi-Fi, admin PCs, server room, Chromebook fleet, printer). Score each, rank, propose one control per asset.
 
-**Homework (due 20:30):** Complete the risk register. Vocab flashcard set 3: likelihood, impact, risk matrix, risk register, mitigation.
+**Homework (due 11:59 PM):** Complete the risk register. Vocab flashcard set 3: likelihood, impact, risk matrix, risk register, mitigation.
 
 ---
 
@@ -181,7 +181,7 @@
 3. **Vocabulary drill (10 min):** Chain game — first student says a term (e.g., VLAN), next says a related term and explains the connection (firewall, DMZ, IDS...). 15 terms from 3.1-3.3.
 4. **Peer-score (10 min):** Exchange papers, score with simplified AP rubric. Class discussion of model answer.
 
-**Homework (due 20:30):** Rewrite your weakest FRQ part based on the model answer.
+**Homework (due 11:59 PM):** Rewrite your weakest FRQ part based on the model answer.
 
 ---
 
@@ -202,7 +202,7 @@
 4. **Activity — write a guest network policy (10 min):** In groups, outline a one-page guest network policy for ICA: (a) who gets guest access, (b) authentication method, (c) restrictions, (d) acceptable use rules, (e) session time limits, (f) disclaimer/logging notice.
 5. **🇹🇼 Taiwan phishing add-on (10 min, approved Aug 26):** Project 2-3 realistic-but-fake Chinese-language phishing samples modeled on documented campaigns targeting Taiwanese users (fake bank/7-11/e-commerce SMS+email, traditional characters) alongside an English sample. Students identify the tells in both languages. Teacher note: samples are teacher-drafted fakes based on publicly documented campaigns (e.g., fake 7-11 point-card SMS waves, bogus bank OTP requests) — no live malicious content. Key discussion: AI-generated phishing removes grammar tells, so language-native scrutiny matters more in Taiwan than anywhere.
 
-**Homework (due 20:30):** Finish the guest policy draft. "Name one technical control and one managerial control that work together to secure a wireless network."
+**Homework (due 11:59 PM):** Finish the guest policy draft. "Name one technical control and one managerial control that work together to secure a wireless network."
 
 ---
 
@@ -212,7 +212,7 @@
 
 **Activities:** Light discussion / reflection activity. Connect Thanksgiving to gratitude and reflection: students share one security concept from Unit 3 so far that changed how they see a network they use. No new content. Keep it easy.
 
-**Homework (due 20:30):** None — enjoy the evening. (Reminder: Friday lab tomorrow.)
+**Homework (due 11:59 PM):** None — enjoy the evening. (Reminder: Friday lab tomorrow.)
 
 ---
 
@@ -227,7 +227,7 @@
 2. **Lab (25 min):** (a) create VLAN 10 (Staff) and VLAN 20 (Students), (b) place web server + email server in a DMZ, (c) verify same-VLAN traffic flows, cross-VLAN blocked, (d) add inter-VLAN routing through the firewall, (e) block guest VLAN from reaching the internal file server. Capture screenshots as evidence.
 3. **Pair-share (10 min):** Compare designs. Submit via GitHub Classroom.
 
-**Homework (due Sun 20:30 — Monday quiz):** Finish lab. "What happens to broadcast traffic when you segment? Why protect IoT in their own VLAN?"
+**Homework (due Sun 11:59 PM — Monday quiz):** Finish lab. "What happens to broadcast traffic when you segment? Why protect IoT in their own VLAN?"
 
 ---
 
@@ -246,7 +246,7 @@
 2. **Direct instruction (20 min):** Why segment? (Limit blast radius, isolate untrusted devices, enforce access controls.) DMZ: public-facing servers in a semi-trusted zone. Screened subnet: DMZ with dual firewalls. VLANs: logical segmentation on the same physical switch — different broadcast domains, no Layer 3 routing between them without a router/firewall. Trunk ports vs access ports.
 3. **Activity — diagram the segmentation (15 min):** Small business with: web server, email server, internal file server, 20 employee PCs, 10 IoT cameras, guest Wi-Fi. Students draw: (a) DMZ for public servers, (b) screened subnet, (c) VLANs separating staff/IoT/guest, (d) firewalls between segments. **Extension — water utility variant:** add a SCADA controller, chemical dosing pumps, water quality monitor. Where do they go? (Answer: their own OT VLAN with NO internet route — that's the CISA fix.)
 
-**Homework (due 20:30):** Complete the diagram. "How does segmentation limit the damage from a compromised IoT device?"
+**Homework (due 11:59 PM):** Complete the diagram. "How does segmentation limit the damage from a compromised IoT device?"
 
 ---
 
@@ -265,7 +265,7 @@
 3. **Class discussion (10 min):** Which vulnerabilities were most commonly missed? Poll: most common design flaw.
 4. **Executive summary (10 min):** Write a 3-sentence executive summary of your combined findings — what would you tell ICA's IT about segmenting the school network?
 
-**Homework (due 20:30):** Revise your lab based on feedback. Read CED excerpt on 3.3 zero trust (1 page).
+**Homework (due 11:59 PM):** Revise your lab based on feedback. Read CED excerpt on 3.3 zero trust (1 page).
 
 ---
 
@@ -283,7 +283,7 @@
 2. **Direct instruction (20 min):** Zero trust — "never trust, always verify." Core principles: continuous verification (not just at login), least privilege, microsegmentation (each workload/device isolated), assume breach. Contrast castle-and-moat vs zero trust. NIST SP 800-207 basics. How this reframes the segmentation work from U3 L11: instead of a trusted internal network, every segment is untrusted until proven otherwise.
 3. **Activity — zero trust scorecard (15 min):** Given the school network diagram from U3 L11, students identify: which controls are castle-and-moat (perimeter firewall, trusted internal network) vs zero trust (per-device auth, microsegmentation). What would ICA need to move to zero trust?
 
-**Homework (due 20:30):** "Pick one app you use daily (e.g., Google Classroom). What zero-trust-style checks happen behind the scenes?"
+**Homework (due 11:59 PM):** "Pick one app you use daily (e.g., Google Classroom). What zero-trust-style checks happen behind the scenes?"
 
 ---
 
@@ -303,7 +303,7 @@
 4. **Self-assessment (8 min):** Which 3.1-3.5 topic do you need to review most? Study guide check — mark weak areas.
 5. **Study strategy (5 min):** How to use the study guide + flashcards between now and the test.
 
-**Homework (due Sun 20:30 — Monday quiz):** Study guide section for your weakest topic. Test is Wed Dec 9.
+**Homework (due Sun 11:59 PM — Monday quiz):** Study guide section for your weakest topic. Test is Wed Dec 9.
 
 ---
 
@@ -318,7 +318,7 @@
 2. **Lab (25 min):** (a) block all traffic from a specific PC IP (simulated compromised device), (b) allow inbound SSH (22) from a specific admin IP only, (c) block outbound traffic to known malicious domains (alias with 3 fake domains), (d) allow web traffic (80/443) from LAN to DMZ web server only, (e) allow DNS (UDP 53) to specific servers only, (f) test each rule and verify the log shows blocked/allowed as expected.
 3. **Debrief (10 min):** "Which rule took the most thought? How would an attacker try to bypass these rules (e.g., tunneling over allowed ports)?" Submit via GitHub Classroom.
 
-**Homework (due Sun 20:30 — Monday quiz):** Finish lab. Read CED excerpt on 3.4 firewall types (1 page).
+**Homework (due Sun 11:59 PM — Monday quiz):** Finish lab. Read CED excerpt on 3.4 firewall types (1 page).
 
 ---
 
@@ -338,7 +338,7 @@
 3. **Activity — ACL ordering puzzle (10 min):** Given 8 firewall rules (some overlapping, some contradictory), arrange in correct order. Then given a series of packets, determine allowed/denied.
 4. **Activity — find the misconfigurations (5 min):** Given a firewall ruleset for a small company, identify: overly permissive rules, rules out of order (dead rules), missing logging, insecure services allowed (Telnet/FTP/SMB exposed to WAN), default-allow violations.
 
-**Homework (due 20:30):** Document each finding: rule number, issue, risk level, recommended fix. "Why is default-deny more secure than default-allow?"
+**Homework (due 11:59 PM):** Document each finding: rule number, issue, risk level, recommended fix. "Why is default-deny more secure than default-allow?"
 
 ---
 
@@ -357,7 +357,7 @@
 3. **Class discussion (10 min):** Compare findings from U3 L16's misconfiguration hunt. Did everyone find the same issues? Any false positives — rules that look wrong but are actually needed?
 4. **Synthesis (10 min):** "What's the single most dangerous firewall misconfiguration you can make?" Quick-write + share.
 
-**Homework (due 20:30):** Study for tomorrow's test. Bring a one-page handwritten study sheet (allowed on test).
+**Homework (due 11:59 PM):** Study for tomorrow's test. Bring a one-page handwritten study sheet (allowed on test).
 
 ---
 
@@ -372,7 +372,7 @@
 2. **Test (35 min):** Complete the test.
 3. **Early finishers (5 min):** Preview Unit 4 (Securing Devices) one-pager or complete course feedback form.
 
-**Homework (due 20:30):** None (test day). Preview: Unit 4 starts Monday Dec 14 — 4.1 device vulnerabilities.
+**Homework (due 11:59 PM):** None (test day). Preview: Unit 4 starts Monday Dec 14 — 4.1 device vulnerabilities.
 
 ---
 
@@ -392,7 +392,7 @@
 3. **Pair-critique (10 min):** Swap with another group (with a single team, exchange documents with a classmate within the team) — identify at least 3 weaknesses or missing controls.
 4. **Current event analysis (folded in, 10 min):** Distribute the printed Arkéa brief (Nov 4–5 2026: €100M+ fraudulent transfers from a French bank's own accounts, amount unconfirmed, crypto dispersion). Students map it to the CED framework — vulnerability → attack vector → exploit action → impact — labeling each row **Confirmed / Claimed / Unknown**. The entry vector is undisclosed; "unknown" is the correct answer and should not be corrected into a guess. Then they test three controls from their own Ecosoft design against it. Debrief Part B verbally; collect Part C. If time runs short, cut Part D (the conflicting recovery claims) and keep Part C — it is the 3.5.C assessment moment. France 24 video (2:02) is optional homework, not in class.
 
-**Homework (due 20:30):** Revise your design based on peer feedback. Tomorrow: final lab (network scanning detection).
+**Homework (due 11:59 PM):** Revise your design based on peer feedback. Tomorrow: final lab (network scanning detection).
 
 ---
 
@@ -411,7 +411,7 @@
 2. **Lab (25 min):** Given pre-captured scan artifacts (port scan, brute-force, malware C2 beacon), students: (a) identify the scan type (SYN scan, full connect, UDP), (b) trace the attack chain across log sources, (c) write one Snort-style detection rule or SIEM correlation rule that would trigger on the pattern, (d) propose one response per critical finding (block IP, investigate host, patch service).
 3. **Wrap-up (5 min):** Submit via GitHub Classroom. **Winter Break assignment assigned:** Unit 4 device inventory (list every device you own + its attack surface) + pre-read of 4.1-4.2 CED excerpt. Collected Jan 4.
 
-**Homework (due Sun 20:30 — Monday Dec 14 quiz):** Finish lab. Start the Winter Break device inventory.
+**Homework (due Sun 11:59 PM — Monday Dec 14 quiz):** Finish lab. Start the Winter Break device inventory.
 
 ---
 

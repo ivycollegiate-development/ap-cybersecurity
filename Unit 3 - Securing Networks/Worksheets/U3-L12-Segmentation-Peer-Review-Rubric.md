@@ -103,7 +103,7 @@ Swap your Friday lab report with a partner. Evaluate their work using this rubri
 
 ---
 
-## Homework (Due 20:30)
+## Homework (due 11:59 PM)
 
 1. **Revise your lab report** based on peer feedback. Resubmit via GitHub Classroom if changes are substantial.
 2. **Read CED excerpt on 3.3 Zero Trust** (1 page — provided separately).

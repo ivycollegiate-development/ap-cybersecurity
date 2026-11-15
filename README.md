@@ -51,7 +51,7 @@ answer-key GDocs, "Detailed Lesson Plans" review gdocs.
 
 - **Tech days (Mon/Wed/Fri):** Direct instruction + GitHub labs in Codespaces
 - **Paper days (Tue/Thu):** No computers — case studies, peer review, FRQ walk-throughs, pre-lab prep, sprints, synthesis
-- **⚡ Graded HW Quiz:** every class period opens with a 5-10 min quiz on prev night HW (due 20:30)
+- **⚡ Graded HW Quiz:** every class period opens with a 5-10 min quiz on prev night HW (due 11:59 PM)
 - **📝 Unit Tests:** Units 1-5, paper-based, ~45 min
 - **🧘 Study-Hall/Prep (Unit 1 only):** 3 Tue/Thu slots — quick review + student work time on upcoming due assignments
 - **Break assignments** at every natural boundary (Fall Break, Winter Break, CNY, Spring Break)

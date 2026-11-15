@@ -149,7 +149,7 @@ D. All of the above
 
 ---
 
-## Homework (Due Sun 20:30 — Monday Quiz)
+## Homework (Due Sun 11:59 PM — Monday Quiz)
 
 **Study guide section for your weakest topic.** Test is **Wed Dec 9**.
 

@@ -110,6 +110,6 @@ This worksheet has two parts: **FRQ Response** (individual, timed) and **Vocabul
 
 ---
 
-## Homework (Due 20:30)
+## Homework (due 11:59 PM)
 
 **Rewrite your weakest FRQ part based on the model answer discussed in class.** Submit revised version tomorrow.

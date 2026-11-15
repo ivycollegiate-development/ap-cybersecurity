@@ -70,7 +70,7 @@ Complete this worksheet **before** starting the lab. Review VLAN concepts from p
 
 ---
 
-## Section 4: Homework Questions (Due Sun 20:30 — Monday Quiz)
+## Section 4: Homework Questions (Due Sun 11:59 PM — Monday Quiz)
 
 **Answer in 2–3 sentences each.**
 

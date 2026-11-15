@@ -85,7 +85,7 @@ Use the school network diagram from U3 L11. Identify which controls are **castle
 
 ---
 
-## Homework (Due 20:30)
+## Homework (due 11:59 PM)
 
 **"Pick one app you use daily (e.g., Google Classroom). What zero-trust-style checks happen behind the scenes?"**
 

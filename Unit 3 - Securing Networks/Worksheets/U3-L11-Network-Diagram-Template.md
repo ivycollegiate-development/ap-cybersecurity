@@ -125,7 +125,7 @@ Use this template for the in-class activity. Draw the segmentation for the small
 
 ---
 
-## Homework (Due 20:30)
+## Homework (due 11:59 PM)
 
 **Complete the diagram if unfinished.** Answer: *"How does segmentation limit the damage from a compromised IoT device?"*
 

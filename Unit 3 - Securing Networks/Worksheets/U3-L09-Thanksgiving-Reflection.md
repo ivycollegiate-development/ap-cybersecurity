@@ -61,6 +61,6 @@ No new content today. Use this time for reflection and connection. Complete the 
 
 **Reminder:** Friday (Nov 27) is **U3 L10 GitHub Lab: Network Segmentation Sim**. Bring your charged Chromebook. Pre-read VLAN basics if you haven't already.
 
-**Weekend HW (Due Sun 20:30 — Monday Quiz):**
+**Weekend HW (Due Sun 11:59 PM — Monday Quiz):**
 - Finish any incomplete lab steps from U3 L5 (Wireless Audit) if needed
 - Vocab Flashcard Set 3 (wireless terms) — review for Monday's quiz

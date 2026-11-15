@@ -59,9 +59,9 @@ Read the Equifax breach summary from **Cyber Case Files** (nascar-paul.github.io
 
 ## Section 5: Reflection (Homework)
 
-**Due 20:30 tonight.** Complete any unfinished sections. Read CED excerpt on 3.1 exploitation (1 page — provided separately).
+**due 11:59 PM tonight.** Complete any unfinished sections. Read CED excerpt on 3.1 exploitation (1 page — provided separately).
 
-**Vocab Flashcard Set 2 (due Sun 20:30):**
+**Vocab Flashcard Set 2 (due Sun 11:59 PM):**
 - lateral movement
 - privilege escalation
 - data exfiltration

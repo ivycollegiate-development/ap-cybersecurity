@@ -23,7 +23,7 @@
 
 4. **Wrap-up (7 min):** Submit via GitHub Classroom. Class discussion: why is request *volume* a poor detection signal on its own? **Winter Break assignment assigned:** Unit 4 device inventory (list every device you own + its attack surface) + pre-read of 4.1-4.2 CED excerpt. Collected Jan 4.
 
-**Homework (due Sun 20:30 — Monday Dec 14 quiz):** Finish lab. Start the Winter Break device inventory.
+**Homework (due Sun 11:59 PM — Monday Dec 14 quiz):** Finish lab. Start the Winter Break device inventory.
 
 **Differentiation / ELL support:** The discriminators are structural (one source vs many, sequential vs scattered, replies vs none) rather than tool-specific, so the lab can be completed from printed packet listings. Provide the pcap as a table of timestamp / source / target / op / reply-yes-no for students who cannot run Wireshark.
 
